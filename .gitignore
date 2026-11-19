@@ -1,0 +1,27 @@
+# Local source data (large and/or externally licensed)
+raw/**
+!raw/.gitkeep
+
+# Generated large tables
+output/
+output_final/
+
+# Generated figures and reports (regenerate with run_eda.py)
+eda_output/
+
+# Optional large files / archives in the root
+*.zip
+*.7z
+*.rar
+
+# Python / editor artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

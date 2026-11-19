@@ -1,0 +1,183 @@
+﻿table,column,classification,mapping_or_derivation,handling
+player,season,core,legacy season / new template or derived,NA if unsupported; never impute invented values
+player,fifa_version,core,legacy fifa_version / new template or derived,NA if unsupported; never impute invented values
+player,snapshot_date,core,legacy snapshot_date / new template or derived,NA if unsupported; never impute invented values
+player,snapshot_source,extended,legacy snapshot_source / new template or derived,NA if unsupported; never impute invented values
+player,snapshot_timing,extended,legacy snapshot_timing / new template or derived,NA if unsupported; never impute invented values
+player,player_id,core,player_id / playerid / EA id,NA if unsupported; never impute invented values
+player,club_id,core,club_team_id / teamplayerlinks.teamid,NA if unsupported; never impute invented values
+player,gender,extended,legacy gender / new template or derived,NA if unsupported; never impute invented values
+player,name,identity_or_extended,long_name / EA name / FC25 Kaggle Name,NA if unsupported; never impute invented values
+player,dob,extended,dob / EA birthdate (游戏原生需解码),NA if unsupported; never impute invented values
+player,age,extended,age / Kaggle Age / 由出生日期推算,NA if unsupported; never impute invented values
+player,height_cm,extended,legacy height_cm / new template or derived,NA if unsupported; never impute invented values
+player,weight_kg,extended,legacy weight_kg / new template or derived,NA if unsupported; never impute invented values
+player,nationality_id,extended,legacy nationality_id / new template or derived,NA if unsupported; never impute invented values
+player,nationality_name,identity_or_extended,legacy nationality_name / new template or derived,NA if unsupported; never impute invented values
+player,preferred_foot,extended,preferred_foot / preferredfoot / Kaggle Preferred foot,NA if unsupported; never impute invented values
+player,player_positions,core,player_positions / preferredposition1-9 / EA alternatePositions,NA if unsupported; never impute invented values
+player,club_position,core,club_position / teamplayerlinks.position (EA编码),NA if unsupported; never impute invented values
+player,squad_role,core,game teamplayerlinks.position=28/29;历史 SUB/RES,NA if unsupported; never impute invented values
+player,club_jersey_number,extended,club_jersey_number / teamplayerlinks.jerseynumber,NA if unsupported; never impute invented values
+player,overall,core,overall / overallrating / overallRating,NA if unsupported; never impute invented values
+player,potential,core,potential / potential,NA if unsupported; never impute invented values
+player,weak_foot,extended,legacy weak_foot / new template or derived,NA if unsupported; never impute invented values
+player,skill_moves,extended,legacy skill_moves / new template or derived,NA if unsupported; never impute invented values
+player,international_reputation,extended,legacy international_reputation / new template or derived,NA if unsupported; never impute invented values
+player,contract_until,extended,club_contract_valid_until_year / contractvaliduntil,NA if unsupported; never impute invented values
+player,club_joined_date,extended,legacy club_joined_date / new template or derived,NA if unsupported; never impute invented values
+player,work_rate,extended,legacy work_rate / new template or derived,NA if unsupported; never impute invented values
+player,value_eur,finance_or_provenance,value_eur / June value / rovnez value_eur,NA if unsupported; never impute invented values
+player,wage_eur,finance_or_provenance,wage_eur / June wage / rovnez wage_eur,NA if unsupported; never impute invented values
+player,release_clause_eur,finance_or_provenance,release_clause_eur / June release_clause / rovnez release_clause_eur,NA if unsupported; never impute invented values
+player,player_traits,identity_or_extended,legacy player_traits / new template or derived,NA if unsupported; never impute invented values
+player,playstyles,identity_or_extended,FC25 Kaggle play style / EA playerAbilities,NA if unsupported; never impute invented values
+player,rating_source,extended,legacy rating_source / new template or derived,NA if unsupported; never impute invented values
+player,finance_source,finance_or_provenance,legacy finance_source / new template or derived,NA if unsupported; never impute invented values
+player,finance_snapshot_date,finance_or_provenance,legacy finance_snapshot_date / new template or derived,NA if unsupported; never impute invented values
+player,finance_eligible_preseason,finance_or_provenance,legacy finance_eligible_preseason / new template or derived,NA if unsupported; never impute invented values
+player,rating_conflict,extended,legacy rating_conflict / new template or derived,NA if unsupported; never impute invented values
+player,pace,extended,legacy.pace / Kaggle.PAC / EA stats.pac,NA if unsupported; never impute invented values
+player,shooting,extended,legacy.shooting / Kaggle.SHO / EA stats.sho,NA if unsupported; never impute invented values
+player,passing,extended,legacy.passing / Kaggle.PAS / EA stats.pas,NA if unsupported; never impute invented values
+player,dribbling,extended,legacy.dribbling / Kaggle.DRI / EA stats.dri,NA if unsupported; never impute invented values
+player,defending,extended,legacy.defending / Kaggle.DEF / EA stats.def,NA if unsupported; never impute invented values
+player,physic,extended,legacy.physic / Kaggle.PHY / EA stats.phy,NA if unsupported; never impute invented values
+player,attacking_crossing,core,attacking_crossing / eafc.crossing / EA stats.crossing,NA if unsupported; never impute invented values
+player,attacking_finishing,core,attacking_finishing / eafc.finishing / EA stats.finishing,NA if unsupported; never impute invented values
+player,attacking_heading_accuracy,core,attacking_heading_accuracy / eafc.headingaccuracy / EA stats.headingaccuracy,NA if unsupported; never impute invented values
+player,attacking_short_passing,core,attacking_short_passing / eafc.shortpassing / EA stats.shortpassing,NA if unsupported; never impute invented values
+player,attacking_volleys,core,attacking_volleys / eafc.volleys / EA stats.volleys,NA if unsupported; never impute invented values
+player,skill_dribbling,core,skill_dribbling / eafc.dribbling / EA stats.dribbling,NA if unsupported; never impute invented values
+player,skill_curve,core,skill_curve / eafc.curve / EA stats.curve,NA if unsupported; never impute invented values
+player,skill_fk_accuracy,core,skill_fk_accuracy / eafc.freekickaccuracy / EA stats.freekickaccuracy,NA if unsupported; never impute invented values
+player,skill_long_passing,core,skill_long_passing / eafc.longpassing / EA stats.longpassing,NA if unsupported; never impute invented values
+player,skill_ball_control,core,skill_ball_control / eafc.ballcontrol / EA stats.ballcontrol,NA if unsupported; never impute invented values
+player,movement_acceleration,core,movement_acceleration / eafc.acceleration / EA stats.acceleration,NA if unsupported; never impute invented values
+player,movement_sprint_speed,core,movement_sprint_speed / eafc.sprintspeed / EA stats.sprintspeed,NA if unsupported; never impute invented values
+player,movement_agility,core,movement_agility / eafc.agility / EA stats.agility,NA if unsupported; never impute invented values
+player,movement_reactions,core,movement_reactions / eafc.reactions / EA stats.reactions,NA if unsupported; never impute invented values
+player,movement_balance,core,movement_balance / eafc.balance / EA stats.balance,NA if unsupported; never impute invented values
+player,power_shot_power,core,power_shot_power / eafc.shotpower / EA stats.shotpower,NA if unsupported; never impute invented values
+player,power_jumping,core,power_jumping / eafc.jumping / EA stats.jumping,NA if unsupported; never impute invented values
+player,power_stamina,core,power_stamina / eafc.stamina / EA stats.stamina,NA if unsupported; never impute invented values
+player,power_strength,core,power_strength / eafc.strength / EA stats.strength,NA if unsupported; never impute invented values
+player,power_long_shots,core,power_long_shots / eafc.longshots / EA stats.longshots,NA if unsupported; never impute invented values
+player,mentality_aggression,core,mentality_aggression / eafc.aggression / EA stats.aggression,NA if unsupported; never impute invented values
+player,mentality_interceptions,core,mentality_interceptions / eafc.interceptions / EA stats.interceptions,NA if unsupported; never impute invented values
+player,mentality_positioning,core,mentality_positioning / eafc.positioning / EA stats.positioning,NA if unsupported; never impute invented values
+player,mentality_vision,core,mentality_vision / eafc.vision / EA stats.vision,NA if unsupported; never impute invented values
+player,mentality_penalties,core,mentality_penalties / eafc.penalties / EA stats.penalties,NA if unsupported; never impute invented values
+player,mentality_composure,core,mentality_composure / eafc.composure / EA stats.composure,NA if unsupported; never impute invented values
+player,defending_marking_awareness,core,defending_marking_awareness / eafc.defensiveawareness / EA stats.defensiveawareness,NA if unsupported; never impute invented values
+player,defending_standing_tackle,core,defending_standing_tackle / eafc.standingtackle / EA stats.standingtackle,NA if unsupported; never impute invented values
+player,defending_sliding_tackle,core,defending_sliding_tackle / eafc.slidingtackle / EA stats.slidingtackle,NA if unsupported; never impute invented values
+player,goalkeeping_diving,core,goalkeeping_diving / eafc.gkdiving / EA stats.gkdiving,NA if unsupported; never impute invented values
+player,goalkeeping_handling,core,goalkeeping_handling / eafc.gkhandling / EA stats.gkhandling,NA if unsupported; never impute invented values
+player,goalkeeping_kicking,core,goalkeeping_kicking / eafc.gkkicking / EA stats.gkkicking,NA if unsupported; never impute invented values
+player,goalkeeping_positioning,core,goalkeeping_positioning / eafc.gkpositioning / EA stats.gkpositioning,NA if unsupported; never impute invented values
+player,goalkeeping_reflexes,core,goalkeeping_reflexes / eafc.gkreflexes / EA stats.gkreflexes,NA if unsupported; never impute invented values
+player,ls,optional_position_rating,legacy ls / new template or derived,NA if unsupported; never impute invented values
+player,st,optional_position_rating,legacy st / new template or derived,NA if unsupported; never impute invented values
+player,rs,optional_position_rating,legacy rs / new template or derived,NA if unsupported; never impute invented values
+player,lw,optional_position_rating,legacy lw / new template or derived,NA if unsupported; never impute invented values
+player,lf,optional_position_rating,legacy lf / new template or derived,NA if unsupported; never impute invented values
+player,cf,optional_position_rating,legacy cf / new template or derived,NA if unsupported; never impute invented values
+player,rf,optional_position_rating,legacy rf / new template or derived,NA if unsupported; never impute invented values
+player,rw,optional_position_rating,legacy rw / new template or derived,NA if unsupported; never impute invented values
+player,lam,optional_position_rating,legacy lam / new template or derived,NA if unsupported; never impute invented values
+player,cam,optional_position_rating,legacy cam / new template or derived,NA if unsupported; never impute invented values
+player,ram,optional_position_rating,legacy ram / new template or derived,NA if unsupported; never impute invented values
+player,lm,optional_position_rating,legacy lm / new template or derived,NA if unsupported; never impute invented values
+player,lcm,optional_position_rating,legacy lcm / new template or derived,NA if unsupported; never impute invented values
+player,cm,optional_position_rating,legacy cm / new template or derived,NA if unsupported; never impute invented values
+player,rcm,optional_position_rating,legacy rcm / new template or derived,NA if unsupported; never impute invented values
+player,rm,optional_position_rating,legacy rm / new template or derived,NA if unsupported; never impute invented values
+player,lwb,optional_position_rating,legacy lwb / new template or derived,NA if unsupported; never impute invented values
+player,ldm,optional_position_rating,legacy ldm / new template or derived,NA if unsupported; never impute invented values
+player,cdm,optional_position_rating,legacy cdm / new template or derived,NA if unsupported; never impute invented values
+player,rdm,optional_position_rating,legacy rdm / new template or derived,NA if unsupported; never impute invented values
+player,rwb,optional_position_rating,legacy rwb / new template or derived,NA if unsupported; never impute invented values
+player,lb,optional_position_rating,legacy lb / new template or derived,NA if unsupported; never impute invented values
+player,lcb,optional_position_rating,legacy lcb / new template or derived,NA if unsupported; never impute invented values
+player,cb,optional_position_rating,legacy cb / new template or derived,NA if unsupported; never impute invented values
+player,rcb,optional_position_rating,legacy rcb / new template or derived,NA if unsupported; never impute invented values
+player,rb,optional_position_rating,legacy rb / new template or derived,NA if unsupported; never impute invented values
+player,gk,optional_position_rating,legacy gk / new template or derived,NA if unsupported; never impute invented values
+club,season,core,legacy season / new template or derived,NA if unsupported; never impute invented values
+club,fifa_version,core,legacy fifa_version / new template or derived,NA if unsupported; never impute invented values
+club,snapshot_date,core,legacy snapshot_date / new template or derived,NA if unsupported; never impute invented values
+club,snapshot_source,extended,legacy snapshot_source / new template or derived,NA if unsupported; never impute invented values
+club,snapshot_timing,extended,legacy snapshot_timing / new template or derived,NA if unsupported; never impute invented values
+club,club_id,core,club_team_id / teamplayerlinks.teamid,NA if unsupported; never impute invented values
+club,gender,extended,legacy gender / new template or derived,NA if unsupported; never impute invented values
+club,club_name,core,legacy club_name / new template or derived,NA if unsupported; never impute invented values
+club,league_id,extended,legacy league_id / new template or derived,NA if unsupported; never impute invented values
+club,league_name,extended,legacy league_name / new template or derived,NA if unsupported; never impute invented values
+club,league_level,extended,legacy league_level / new template or derived,NA if unsupported; never impute invented values
+club,nationality_id,extended,legacy nationality_id / new template or derived,NA if unsupported; never impute invented values
+club,nationality_name,identity_or_extended,legacy nationality_name / new template or derived,NA if unsupported; never impute invented values
+club,overall,core,overall / overallrating / overallRating,NA if unsupported; never impute invented values
+club,attack,core,legacy attack / new template or derived,NA if unsupported; never impute invented values
+club,midfield,core,legacy midfield / new template or derived,NA if unsupported; never impute invented values
+club,defence,core,legacy defence / new template or derived,NA if unsupported; never impute invented values
+club,domestic_prestige,extended,legacy domestic_prestige / new template or derived,NA if unsupported; never impute invented values
+club,international_prestige,extended,legacy international_prestige / new template or derived,NA if unsupported; never impute invented values
+club,club_worth_raw,finance_or_provenance,legacy club_worth_raw / new template or derived,NA if unsupported; never impute invented values
+club,club_worth_eur,finance_or_provenance,legacy club_worth_eur / new template or derived,NA if unsupported; never impute invented values
+club,formation,extended,legacy formation / new template or derived,NA if unsupported; never impute invented values
+club,build_up_play_raw,extended,legacy build_up_play_raw / new template or derived,NA if unsupported; never impute invented values
+club,def_depth_raw,extended,legacy def_depth_raw / new template or derived,NA if unsupported; never impute invented values
+club,coach_id,extended,legacy coach_id / new template or derived,NA if unsupported; never impute invented values
+club,manager_name,identity_or_extended,legacy manager_name / new template or derived,NA if unsupported; never impute invented values
+club,manager_name_available,extended,legacy manager_name_available / new template or derived,NA if unsupported; never impute invented values
+club,source_team_rating,extended,legacy source_team_rating / new template or derived,NA if unsupported; never impute invented values
+coach,season,core,legacy season / new template or derived,NA if unsupported; never impute invented values
+coach,club_id,core,club_team_id / teamplayerlinks.teamid,NA if unsupported; never impute invented values
+coach,coach_id,extended,legacy coach_id / new template or derived,NA if unsupported; never impute invented values
+coach,name,identity_or_extended,long_name / EA name / FC25 Kaggle Name,NA if unsupported; never impute invented values
+coach,nationality_id,extended,legacy nationality_id / new template or derived,NA if unsupported; never impute invented values
+coach,nationality_name,identity_or_extended,legacy nationality_name / new template or derived,NA if unsupported; never impute invented values
+coach,manager_name_available,extended,legacy manager_name_available / new template or derived,NA if unsupported; never impute invented values
+coach,manager_rating_raw,extended,legacy manager_rating_raw / new template or derived,NA if unsupported; never impute invented values
+coach,source,extended,legacy source / new template or derived,NA if unsupported; never impute invented values
+club_feature,season,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,club_id,core,club_team_id / teamplayerlinks.teamid,NA if unsupported; never impute invented values
+club_feature,club_name,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,snapshot_date,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,squad_count,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,overall_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,overall_top11_mean,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,overall_top16_mean,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,overall_top11_std,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,overall_top11_max,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,potential_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,age_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,height_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,squad_depth_75,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,squad_depth_80,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,squad_depth_85,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,gk_best_overall,core,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,attackers_top5_overall,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,midfielders_top5_overall,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,defenders_top5_overall,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,attackers_finishing_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,attackers_shot_power_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,midfielders_vision_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,midfielders_short_passing_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,defenders_interceptions_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,defenders_standing_tackle_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,gk_diving_best,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,gk_reflexes_best,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,pace_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,shooting_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,passing_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,dribbling_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,defending_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,physic_top11_mean,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,club_overall,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,club_attack,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,club_midfield,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,club_defence,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,international_prestige,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values
+club_feature,domestic_prestige,extended,derived by grouping squad per season + club,NA if unsupported; never impute invented values

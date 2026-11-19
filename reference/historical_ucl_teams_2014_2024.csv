@@ -1,0 +1,321 @@
+﻿season,uefa_team,group,source_url,roster_source
+2014-15,Olympiakos Piraeus,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Atlético Madrid,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Juventus,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Malmö FF,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Real Madrid,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,FC Basel 1893,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Liverpool FC,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,PFC Ludogorets Razgrad,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,AS Monaco,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Bayer Leverkusen,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,SL Benfica,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Zenit St. Petersburg,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Borussia Dortmund,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Arsenal FC,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Galatasaray,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,RSC Anderlecht,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,AS Roma,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,CSKA Moskva,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Bayern München,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Manchester City,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,AFC Ajax,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Paris Saint-Germain,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,FC Barcelona,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,APOEL Nikosia,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Chelsea FC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,FC Schalke 04,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,NK Maribor,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Sporting CP,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Athletic Club,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,Shakhtar Donetsk,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,FC Porto,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2014-15,BATE Borisov,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2014-15/cl.txt,reviewed_group_stage_first_round
+2015-16,Real Madrid,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Shakhtar Donetsk,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Paris Saint-Germain,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Malmö FF,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,VfL Wolfsburg,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,CSKA Moskva,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,PSV Eindhoven,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Manchester United,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,SL Benfica,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,FK Astana,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Galatasaray,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Atlético Madrid,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Sevilla FC,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Bor. Mönchengladbach,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Manchester City,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Juventus,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,AS Roma,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,FC Barcelona,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Bayer Leverkusen,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,BATE Borisov,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Olympiakos Piraeus,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Bayern München,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Dinamo Zagreb,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Arsenal FC,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Dinamo Kiev,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,FC Porto,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Chelsea FC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Maccabi Tel Aviv,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Valencia CF,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Zenit St. Petersburg,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,KAA Gent,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2015-16,Olympique Lyonnais,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2015-16/cl.txt,reviewed_group_stage_first_round
+2016-17,FC Basel 1893,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,PFC Ludogorets Razgrad,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Paris Saint-Germain,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Arsenal FC,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Dinamo Kiev,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,SSC Napoli,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,SL Benfica,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Beşiktaş,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,FC Barcelona,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Celtic FC,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Manchester City,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Bor. Mönchengladbach,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Bayern München,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,FK Rostov,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,PSV Eindhoven,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Atlético Madrid,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Bayer Leverkusen,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,CSKA Moskva,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Tottenham Hotspur,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,AS Monaco,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Legia Warszawa,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Borussia Dortmund,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Real Madrid,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Sporting CP,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Club Brugge KV,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Leicester City,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,FC Porto,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,FC København,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Juventus,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Sevilla FC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Olympique Lyonnais,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2016-17,Dinamo Zagreb,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2016-17/cl.txt,reviewed_group_stage_first_round
+2017-18,Manchester United,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,FC Basel 1893,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,SL Benfica,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,CSKA Moskva,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Bayern München,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,RSC Anderlecht,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Celtic FC,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Paris Saint-Germain,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,AS Roma,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Atlético Madrid,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Chelsea FC,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Qarabağ FK,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,FC Barcelona,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Juventus,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Olympiakos Piraeus,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Sporting CP,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Liverpool FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Sevilla FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,NK Maribor,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Spartak Moskva,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Shakhtar Donetsk,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,SSC Napoli,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Feyenoord,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Manchester City,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,FC Porto,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Beşiktaş,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,RB Leipzig,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,AS Monaco,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Tottenham Hotspur,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Borussia Dortmund,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,Real Madrid,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2017-18,APOEL Nikosia,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2017-18/cl.txt,reviewed_group_stage_first_round
+2018-19,AS Monaco,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Atlético Madrid,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Club Brugge KV,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Borussia Dortmund,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,FC Barcelona,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,PSV Eindhoven,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Inter,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Tottenham Hotspur,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Liverpool FC,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Paris Saint-Germain,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Crvena Zvezda,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,SSC Napoli,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,FC Schalke 04,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,FC Porto,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Galatasaray,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Lokomotiv Moskva,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,AFC Ajax,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,AEK Athen,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,SL Benfica,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Bayern München,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Shakhtar Donetsk,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,1899 Hoffenheim,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Manchester City,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Olympique Lyonnais,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Real Madrid,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,AS Roma,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Viktoria Plzeň,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,CSKA Moskva,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Valencia CF,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Juventus,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,BSC Young Boys,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2018-19,Manchester United,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2018-19/cl.txt,reviewed_group_stage_first_round
+2019-20,Club Brugge KV,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Galatasaray,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Paris Saint-Germain,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Real Madrid,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Olympiakos Piraeus,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Tottenham Hotspur,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Bayern München,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Crvena Zvezda,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Shakhtar Donetsk,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Manchester City,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Dinamo Zagreb,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Atalanta,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Atlético Madrid,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Juventus,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Bayer Leverkusen,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Lokomotiv Moskva,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,SSC Napoli,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Liverpool FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,RB Salzburg,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,KRC Genk,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Inter,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Slavia Praha,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Borussia Dortmund,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,FC Barcelona,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Olympique Lyonnais,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Zenit St. Petersburg,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,SL Benfica,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,RB Leipzig,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Chelsea FC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Valencia CF,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,AFC Ajax,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2019-20,Lille OSC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2019-20/cl.txt,reviewed_group_stage_first_round
+2020-21,RB Salzburg,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Lokomotiv Moskva,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Bayern München,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Atlético Madrid,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Real Madrid,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Shakhtar Donetsk,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Inter,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Bor. Mönchengladbach,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Manchester City,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,FC Porto,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Olympiakos Piraeus,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Olympique Marseille,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,AFC Ajax,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Liverpool FC,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,FC Midtjylland,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Atalanta,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Chelsea FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Sevilla FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Stade Rennais,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,FK Krasnodar,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Zenit St. Petersburg,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Club Brugge KV,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Lazio Roma,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Borussia Dortmund,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Dinamo Kiev,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Juventus,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,FC Barcelona,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Ferencvárosi TC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,RB Leipzig,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,İstanbul Başakşehir,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Paris Saint-Germain,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2020-21,Manchester United,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2020-21/cl.txt,reviewed_group_stage_first_round
+2021-22,Manchester City,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,RB Leipzig,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Club Brugge KV,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Paris Saint-Germain,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Atlético Madrid,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,FC Porto,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Liverpool FC,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,AC Milan,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Beşiktaş,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Borussia Dortmund,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Sporting CP,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,AFC Ajax,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,FC Sheriff,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Shakhtar Donetsk,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Inter,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Real Madrid,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,FC Barcelona,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Bayern München,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Dinamo Kiev,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,SL Benfica,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,BSC Young Boys,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Manchester United,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Villarreal CF,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Atalanta,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Sevilla FC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,RB Salzburg,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Lille OSC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,VfL Wolfsburg,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Chelsea FC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Zenit St. Petersburg,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Malmö FF,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2021-22,Juventus,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2021-22/cl.txt,reviewed_group_stage_first_round
+2022-23,AFC Ajax,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Rangers FC,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,SSC Napoli,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Liverpool FC,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Atlético Madrid,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,FC Porto,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Club Brugge KV,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Bayer Leverkusen,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Inter,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Bayern München,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,FC Barcelona,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Viktoria Plzeň,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Eintracht Frankfurt,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Sporting CP,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Tottenham Hotspur,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Olympique Marseille,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Dinamo Zagreb,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Chelsea FC,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,RB Salzburg,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,AC Milan,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Celtic FC,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Real Madrid,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,RB Leipzig,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Shakhtar Donetsk,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Borussia Dortmund,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,FC København,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Sevilla FC,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Manchester City,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Paris Saint-Germain,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Juventus,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,SL Benfica,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2022-23,Maccabi Haifa,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2022-23/cl.txt,reviewed_group_stage_first_round
+2023-24,AC Milan,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Newcastle United FC,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,BSC Young Boys,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,RB Leipzig,A,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,SS Lazio,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Club Atlético de Madrid,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Feyenoord Rotterdam,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Celtic FC,B,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Paris Saint-Germain FC,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Borussia Dortmund,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Manchester City FC,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FK Crvena Zvezda,C,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC Barcelona,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Royal Antwerp FC,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FK Shakhtar Donetsk,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC Porto,D,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Real Madrid CF,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,1. FC Union Berlin,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Galatasaray SK,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC København,E,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Sevilla FC,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Racing Club de Lens,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Sporting Clube de Braga,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,SSC Napoli,F,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Real Sociedad de Fútbol,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC Internazionale Milano,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Sport Lisboa e Benfica,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC Red Bull Salzburg,G,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,FC Bayern München,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Manchester United FC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,Arsenal FC,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round
+2023-24,PSV,H,https://raw.githubusercontent.com/openfootball/champions-league/master/2023-24/cl.txt,reviewed_group_stage_first_round

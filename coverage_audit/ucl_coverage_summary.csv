@@ -1,0 +1,14 @@
+﻿season,expected_teams,teams_checked,matched_selected,not_in_selected,status,reason
+2014-15,32,32,28,4,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2015-16,32,32,27,5,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2016-17,32,32,29,3,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2017-18,32,32,29,3,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2018-19,32,32,31,1,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2019-20,32,32,30,2,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2020-21,32,32,29,3,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2021-22,32,32,30,2,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2022-23,32,32,31,1,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2023-24,32,32,31,1,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2024-25,36,36,34,2,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2025-26,36,36,34,2,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
+2026-27,36,36,34,2,CHECKED,Candidates require manual verification; NOT_FOUND is relative to available snapshots
