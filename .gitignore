@@ -1,27 +1,23 @@
-# Local source data (large and/or externally licensed)
-raw/**
-!raw/.gitkeep
-
-# Generated large tables
-output/
-output_final/
-
-# Generated figures and reports (regenerate with run_eda.py)
-eda_output/
-
-# Optional large files / archives in the root
-*.zip
-*.7z
-*.rar
-
-# Python / editor artifacts
+# Python/editor
 __pycache__/
 *.py[cod]
 .venv/
 venv/
-.env
-.env.*
 .vscode/
 .ipynb_checkpoints/
 .DS_Store
-Thumbs.db
+
+# Data pipeline: raw and regenerated files
+/data/raw/
+/data/output/
+/data/output_final/
+/data/eda_output/
+
+# Local artifacts and large archives
+*.zip
+*.joblib
+*.pkl
+*.pt
+
+# Small coverage_audit CSVs can be committed intentionally.
+# Add further model outputs/checkpoints here when created.
