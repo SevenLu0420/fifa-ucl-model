@@ -1,0 +1,77 @@
+{
+  "input": "data\\raw\\matches\\resultats_ldc_par_saison.xlsx",
+  "total_matches": 1308,
+  "seasons": 10,
+  "season_range": [
+    "2015-16",
+    "2024-25"
+  ],
+  "sheets": [
+    {
+      "sheet": "2015-16",
+      "matches": 125
+    },
+    {
+      "sheet": "2016-17",
+      "matches": 125
+    },
+    {
+      "sheet": "2017-18",
+      "matches": 125
+    },
+    {
+      "sheet": "2018-19",
+      "matches": 125
+    },
+    {
+      "sheet": "2019-20",
+      "matches": 119
+    },
+    {
+      "sheet": "2020-21",
+      "matches": 125
+    },
+    {
+      "sheet": "2021-22",
+      "matches": 125
+    },
+    {
+      "sheet": "2022-23",
+      "matches": 125
+    },
+    {
+      "sheet": "2023-24",
+      "matches": 125
+    },
+    {
+      "sheet": "2024-25",
+      "matches": 189
+    }
+  ],
+  "unique_team_seasons": 324,
+  "mapping_matched": 301,
+  "mapping_need_review": 23,
+  "match_level_both_clubs_matched": 1166,
+  "match_level_missing_club": 142,
+  "outcomes": {
+    "H": 613,
+    "A": 432,
+    "D": 263
+  },
+  "raw_issue_counts": {},
+  "extra_time_count": 16,
+  "penalty_count": 7,
+  "important_notes": [
+    "2019-20 knockout single-leg format and 2024-25 league format require stage-aware processing",
+    "Do not treat attendance/referee/stadium from match record as necessarily pre-match available",
+    "Penalty shootout must be separate from match score / WDL label",
+    "Match-file seasons do not include 2014-15 or 2025-26/2026-27 unless provided separately"
+  ],
+  "clubs_audited_rows": 8557,
+  "club_features_audited_rows": 8557,
+  "coaches_audited_rows": 8557,
+  "players_audited_rows": 234068,
+  "player_integrity_issues": {},
+  "clubs_without_GK": 1,
+  "clubs_with_fewer_than_11_players": 0
+}
