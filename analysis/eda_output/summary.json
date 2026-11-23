@@ -1,0 +1,63 @@
+{
+  "matches": 1425,
+  "home_wins": 672,
+  "draws": 286,
+  "away_wins": 467,
+  "mean_home_goals": 1.7136842105263157,
+  "mean_away_goals": 1.343859649122807,
+  "mean_total_goals": 3.057543859649123,
+  "mean_goal_diff": 0.3698245614035088,
+  "near_equal_n": 446,
+  "near_equal_home_win": 0.45067264573991034,
+  "near_equal_away_win": 0.31614349775784756,
+  "near_equal_draw": 0.23318385650224216,
+  "correlations": {
+    "rating_gap": {
+      "pearson_goal_diff": 0.49619251692705196,
+      "n": 1425
+    },
+    "xi_gap": {
+      "pearson_goal_diff": 0.4904075839102844,
+      "n": 1425
+    },
+    "bench_gap": {
+      "pearson_goal_diff": 0.402615835295699,
+      "n": 1425
+    }
+  },
+  "by_stage": [
+    {
+      "stage": "knockout",
+      "n": 370,
+      "home_win": 0.4648648648648649,
+      "draw": 0.1945945945945946,
+      "away_win": 0.34054054054054056,
+      "goals": 2.9945945945945946
+    },
+    {
+      "stage": "league",
+      "n": 1055,
+      "home_win": 0.47393364928909953,
+      "draw": 0.2028436018957346,
+      "away_win": 0.3232227488151659,
+      "goals": 3.0796208530805687
+    }
+  ],
+  "missing_compact_nonzero": [
+    {
+      "feature": "away_bench_att_best_overall",
+      "missing_rate": 0.1571929824561403,
+      "missing_count": 224,
+      "unique_nonnull": 34,
+      "recommendation": "missing_indicator_plus_train_median"
+    },
+    {
+      "feature": "home_bench_att_best_overall",
+      "missing_rate": 0.1557894736842105,
+      "missing_count": 222,
+      "unique_nonnull": 34,
+      "recommendation": "missing_indicator_plus_train_median"
+    }
+  ],
+  "missing_full_nonzero_count": 24
+}

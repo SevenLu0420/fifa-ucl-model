@@ -1,0 +1,126 @@
+﻿season,date_iso,kickoff_local,stage,stage_type,matchday,home_team,away_team,home_goals_90,away_goals_90,home_goals_final,away_goals_final,extra_time,penalty_shootout,penalty_home,penalty_away,status,source_file,source_url
+2014-15,2014-09-16,20:45,Group A,Group stage,,Olympiakos Piraeus,Atlético Madrid,3,2,3,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group A,Group stage,,Juventus,Malmö FF,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group A,Group stage,,Atlético Madrid,Juventus,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group A,Group stage,,Malmö FF,Olympiakos Piraeus,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group A,Group stage,,Atlético Madrid,Malmö FF,5,0,5,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group A,Group stage,,Olympiakos Piraeus,Juventus,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group A,Group stage,,Malmö FF,Atlético Madrid,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group A,Group stage,,Juventus,Olympiakos Piraeus,3,2,3,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group A,Group stage,,Atlético Madrid,Olympiakos Piraeus,4,0,4,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group A,Group stage,,Malmö FF,Juventus,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group A,Group stage,,Juventus,Atlético Madrid,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group A,Group stage,,Olympiakos Piraeus,Malmö FF,4,2,4,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group B,Group stage,,Real Madrid,FC Basel 1893,5,1,5,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group B,Group stage,,Liverpool FC,PFC Ludogorets Razgrad,2,1,2,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group B,Group stage,,FC Basel 1893,Liverpool FC,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group B,Group stage,,PFC Ludogorets Razgrad,Real Madrid,1,2,1,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group B,Group stage,,PFC Ludogorets Razgrad,FC Basel 1893,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group B,Group stage,,Liverpool FC,Real Madrid,0,3,0,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group B,Group stage,,FC Basel 1893,PFC Ludogorets Razgrad,4,0,4,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group B,Group stage,,Real Madrid,Liverpool FC,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group B,Group stage,,FC Basel 1893,Real Madrid,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group B,Group stage,,PFC Ludogorets Razgrad,Liverpool FC,2,2,2,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group B,Group stage,,Liverpool FC,FC Basel 1893,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group B,Group stage,,Real Madrid,PFC Ludogorets Razgrad,4,0,4,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group C,Group stage,,AS Monaco,Bayer Leverkusen,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group C,Group stage,,SL Benfica,Zenit St. Petersburg,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,18:00,Group C,Group stage,,Zenit St. Petersburg,AS Monaco,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group C,Group stage,,Bayer Leverkusen,SL Benfica,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group C,Group stage,,AS Monaco,SL Benfica,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group C,Group stage,,Bayer Leverkusen,Zenit St. Petersburg,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,18:00,Group C,Group stage,,Zenit St. Petersburg,Bayer Leverkusen,1,2,1,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group C,Group stage,,SL Benfica,AS Monaco,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,18:00,Group C,Group stage,,Zenit St. Petersburg,SL Benfica,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group C,Group stage,,Bayer Leverkusen,AS Monaco,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group C,Group stage,,AS Monaco,Zenit St. Petersburg,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group C,Group stage,,SL Benfica,Bayer Leverkusen,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group D,Group stage,,Borussia Dortmund,Arsenal FC,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-16,20:45,Group D,Group stage,,Galatasaray,RSC Anderlecht,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group D,Group stage,,Arsenal FC,Galatasaray,4,1,4,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-01,20:45,Group D,Group stage,,RSC Anderlecht,Borussia Dortmund,0,3,0,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group D,Group stage,,RSC Anderlecht,Arsenal FC,1,2,1,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-22,20:45,Group D,Group stage,,Galatasaray,Borussia Dortmund,0,4,0,4,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group D,Group stage,,Arsenal FC,RSC Anderlecht,3,3,3,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-04,20:45,Group D,Group stage,,Borussia Dortmund,Galatasaray,4,1,4,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group D,Group stage,,Arsenal FC,Borussia Dortmund,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-26,20:45,Group D,Group stage,,RSC Anderlecht,Galatasaray,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group D,Group stage,,Galatasaray,Arsenal FC,1,4,1,4,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-09,20:45,Group D,Group stage,,Borussia Dortmund,RSC Anderlecht,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group E,Group stage,,AS Roma,CSKA Moskva,5,1,5,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group E,Group stage,,Bayern München,Manchester City,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,18:00,Group E,Group stage,,CSKA Moskva,Bayern München,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group E,Group stage,,Manchester City,AS Roma,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,18:00,Group E,Group stage,,CSKA Moskva,Manchester City,2,2,2,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group E,Group stage,,AS Roma,Bayern München,1,7,1,7,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group E,Group stage,,Bayern München,AS Roma,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group E,Group stage,,Manchester City,CSKA Moskva,1,2,1,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,18:00,Group E,Group stage,,CSKA Moskva,AS Roma,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group E,Group stage,,Manchester City,Bayern München,3,2,3,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group E,Group stage,,AS Roma,Manchester City,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group E,Group stage,,Bayern München,CSKA Moskva,3,0,3,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group F,Group stage,,AFC Ajax,Paris Saint-Germain,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group F,Group stage,,FC Barcelona,APOEL Nikosia,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group F,Group stage,,APOEL Nikosia,AFC Ajax,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group F,Group stage,,Paris Saint-Germain,FC Barcelona,3,2,3,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group F,Group stage,,FC Barcelona,AFC Ajax,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group F,Group stage,,APOEL Nikosia,Paris Saint-Germain,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group F,Group stage,,AFC Ajax,FC Barcelona,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group F,Group stage,,Paris Saint-Germain,APOEL Nikosia,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group F,Group stage,,Paris Saint-Germain,AFC Ajax,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group F,Group stage,,APOEL Nikosia,FC Barcelona,0,4,0,4,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group F,Group stage,,AFC Ajax,APOEL Nikosia,4,0,4,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group F,Group stage,,FC Barcelona,Paris Saint-Germain,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group G,Group stage,,Chelsea FC,FC Schalke 04,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group G,Group stage,,NK Maribor,Sporting CP,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group G,Group stage,,Sporting CP,Chelsea FC,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group G,Group stage,,FC Schalke 04,NK Maribor,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group G,Group stage,,Chelsea FC,NK Maribor,6,0,6,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group G,Group stage,,FC Schalke 04,Sporting CP,4,3,4,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group G,Group stage,,NK Maribor,Chelsea FC,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group G,Group stage,,Sporting CP,FC Schalke 04,4,2,4,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group G,Group stage,,FC Schalke 04,Chelsea FC,0,5,0,5,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group G,Group stage,,Sporting CP,NK Maribor,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group G,Group stage,,Chelsea FC,Sporting CP,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group G,Group stage,,NK Maribor,FC Schalke 04,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group H,Group stage,,Athletic Club,Shakhtar Donetsk,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-17,20:45,Group H,Group stage,,FC Porto,BATE Borisov,6,0,6,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group H,Group stage,,BATE Borisov,Athletic Club,2,1,2,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-09-30,20:45,Group H,Group stage,,Shakhtar Donetsk,FC Porto,2,2,2,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group H,Group stage,,FC Porto,Athletic Club,2,1,2,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-10-21,20:45,Group H,Group stage,,BATE Borisov,Shakhtar Donetsk,0,7,0,7,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group H,Group stage,,Athletic Club,FC Porto,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-05,20:45,Group H,Group stage,,Shakhtar Donetsk,BATE Borisov,5,0,5,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,18:00,Group H,Group stage,,BATE Borisov,FC Porto,0,3,0,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-11-25,20:45,Group H,Group stage,,Shakhtar Donetsk,Athletic Club,0,1,0,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group H,Group stage,,Athletic Club,BATE Borisov,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2014-12-10,20:45,Group H,Group stage,,FC Porto,Shakhtar Donetsk,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-17,20:45,Round of 16,Knockout phase,,Paris Saint-Germain,Chelsea FC,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-17,20:45,Round of 16,Knockout phase,,Shakhtar Donetsk,Bayern München,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-18,20:45,Round of 16,Knockout phase,,FC Schalke 04,Real Madrid,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-18,20:45,Round of 16,Knockout phase,,FC Basel 1893,FC Porto,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-24,20:45,Round of 16,Knockout phase,,Manchester City,FC Barcelona,1,2,1,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-24,20:45,Round of 16,Knockout phase,,Juventus,Borussia Dortmund,2,1,2,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-25,20:45,Round of 16,Knockout phase,,Bayer Leverkusen,Atlético Madrid,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-02-25,20:45,Round of 16,Knockout phase,,Arsenal FC,AS Monaco,1,3,1,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-10,20:45,Round of 16,Knockout phase,,Real Madrid,FC Schalke 04,3,4,3,4,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-10,20:45,Round of 16,Knockout phase,,FC Porto,FC Basel 1893,4,0,4,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-11,20:45,Round of 16,Knockout phase,,Chelsea FC,Paris Saint-Germain,1,1,2,2,True,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-11,20:45,Round of 16,Knockout phase,,Bayern München,Shakhtar Donetsk,7,0,7,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-17,20:45,Round of 16,Knockout phase,,Atlético Madrid,Bayer Leverkusen,1,0,1,0,True,True,3,2,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-17,20:45,Round of 16,Knockout phase,,AS Monaco,Arsenal FC,0,2,0,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-18,20:45,Round of 16,Knockout phase,,FC Barcelona,Manchester City,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-03-18,20:45,Round of 16,Knockout phase,,Borussia Dortmund,Juventus,0,3,0,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-14,20:45,Quarterfinals,Knockout phase,,Atlético Madrid,Real Madrid,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-14,20:45,Quarterfinals,Knockout phase,,Juventus,AS Monaco,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-15,20:45,Quarterfinals,Knockout phase,,Paris Saint-Germain,FC Barcelona,1,3,1,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-15,20:45,Quarterfinals,Knockout phase,,FC Porto,Bayern München,3,1,3,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-21,20:45,Quarterfinals,Knockout phase,,FC Barcelona,Paris Saint-Germain,2,0,2,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-21,20:45,Quarterfinals,Knockout phase,,Bayern München,FC Porto,6,1,6,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-22,20:45,Quarterfinals,Knockout phase,,Real Madrid,Atlético Madrid,1,0,1,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-04-22,20:45,Quarterfinals,Knockout phase,,AS Monaco,Juventus,0,0,0,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-05-05,20:45,Semifinals,Knockout phase,,Juventus,Real Madrid,2,1,2,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-05-06,20:45,Semifinals,Knockout phase,,FC Barcelona,Bayern München,3,0,3,0,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-05-12,20:45,Semifinals,Knockout phase,,Bayern München,FC Barcelona,3,2,3,2,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-05-13,20:45,Semifinals,Knockout phase,,Real Madrid,Juventus,1,1,1,1,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014-15,2015-06-06,20:45,Final,Final,,Juventus,FC Barcelona,1,3,1,3,False,False,,,played,cl_15.txt,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League

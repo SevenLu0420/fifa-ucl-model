@@ -83,11 +83,38 @@ python audit_ucl_coverage.py --input output_final --out coverage_audit --roster-
 python run_eda.py --data output_final --coverage coverage_audit/ucl_teams_coverage.csv --out eda_output
 ```
 
-## 3. Planned match-level dataset and modeling
+## 3. Match-level dataset construction
 
-We will build **one observation per match**, joining both teams to the corresponding season's game ratings. Inputs will include home/away status, club ratings, a **position-constrained best XI** with detailed player attributes, remaining-squad aggregates and depth, available coach information, and optional pre-match context (e.g., form, Elo, referees). We will keep missing-club cases explicit rather than invent FIFA ratings.
+The **match-level dataset builder** uses the standardized FIFA 15–FC 27 Player/Club tables.  
 
-Candidate labels include **three-class home win/draw/away win**, **goal difference** (regression), and **home/away goals** (count or score-distribution models). We will compare simple club-overall baselines with engineered squad-feature models, then evaluate richer player-level models if sample size permits. Validation will be split chronologically by season, with accuracy and probability calibration metrics. Feature importance and ablation tests will assess the marginal value of player-level detail; referee variables are exploratory.
+**Match sources and coverage.** Baptiste's original workbook provides 1,308 UCL matches (2015–16 to 2024–25); supplementary datasets collected by Jiaxuan provide 125 matches for 2014–15 and 189 for 2025–26. These total **1,622 historical results spanning 12 seasons**. A separate 2026–27 league-phase file contains 144 fixtures, including 72 completed and 72 scheduled matches as of 2026-11-22. The canonical output preserves all **1,766** rows, while historical training sets exclude 2026–27 entirely.
+
+**Match labels.** The principal targets use **90-minute scores (including stoppage time, excluding extra time and penalties)**. All 16 extra-time matches in the original workbook are reconciled using a separate reviewed correction CSV (9 changed scores and 4 changed W/D/L labels). The builder retains original final scores, extra-time/penalty indicators, and match provenance. Targets include home/draw/away classification, goal difference, and separate home/away goal counts, with optional derived binary labels.
+
+**Team features.** For each `(season, club_id)`, the builder selects an estimated strongest XI with soft positional quotas of **1 GK + 4 defenders + 3 midfielders + 3 attackers**, ranking within each group by Overall and filling unavailable positional slots without duplicating players. This estimated XI is a season-level roster representation—not an observed match-day lineup. Other squad members are represented by fixed-width bench/depth aggregates. Club ratings are included. The builder deliberately recomputes its Top XI and bench statistics instead of reusing the upstream `club_features` aggregates, whose selection rule differs.
+
+**Feature layout and datasets.** Both variants follow **[Home Team Features | Away Team Features | Match Context]**, with identical feature ordering for the two sides and **no engineered home-away difference columns**. The compact variant has **93 predictors** (club ratings, XI/bench summaries, context); the full variant has **797 predictors** (compact plus individual XI attributes for both sides). Club identities/names, actual attendances, referees, and post-match information are excluded from the current predictors. Club matching uses verified season-specific mappings, explicit aliases, and conservative Club ID linkage; unresolved teams are reported and excluded from model-ready feature rows rather than assigned fabricated scores.
+
+**Generated files** (`data/match_dataset/`): `matches_canonical.csv`, `team_name_mapping.csv`, `team_feature_bank.csv`, `team_feature_quality.csv`, `matches_compact.csv`, `matches_full.csv`, `fixtures_2026_27_compact.csv`, `fixtures_2026_27_full.csv`, `compact_feature_columns.json`, `full_feature_columns.json`, `sample_status.csv`, and `build_report.json`. The JSON feature lists define model inputs and prevent accidental inclusion of IDs or targets. Missing values are not globally imputed in this builder; train-only preprocessing will be part of the modeling stage.
+
+**Build from the repository root:**
+
+```powershell
+python data/test_match_builder.py
+python data/build_match_dataset.py `
+  --matches data/raw/matches/resultats_ldc_par_saison.xlsx `
+  --historical-csv data/reference/ucl_2014_15_matches.csv `
+  --historical-csv data/reference/ucl_2025_26_matches.csv `
+  --future-schedule data/reference/ucl_2026_27_league_schedule.csv `
+  --corrections data/reference/ucl_extra_time_90min_verified.csv `
+  --players data/output_final/players_2015_2027.csv `
+  --clubs data/output_final/clubs_2015_2027.csv `
+  --coverage data/coverage_audit/ucl_teams_coverage.csv `
+  --known-map data/reference/ucl_25_27_verified_mapping.csv `
+  --out data/match_dataset
+```
+
+**Next: predictive modeling** Train chronological baselines with 2014–15 to 2023–24 for fitting, 2024–25 for validation, and 2025–26 for a held-out test. Compare Club-only, Compact and Full player features under three strategies: direct W/D/L classification, goal-difference regression, and paired goal-count models. Evaluate accuracy, macro-F1, multiclass log loss, probability calibration and task-specific regression metrics; conduct feature-importance and ablation analyses. Fit all imputers/encoders only on training data. The first version uses season-level game-edition rosters without match-date snapshot filtering, a known limitation.
 
 ## 4. Planned 2026–27 UCL simulation
 
