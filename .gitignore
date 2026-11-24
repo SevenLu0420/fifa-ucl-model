@@ -22,3 +22,5 @@ venv/
 
 # Small coverage_audit CSVs can be committed intentionally.
 # Add further model outputs/checkpoints here when created.
+.idea/
+.idea/
