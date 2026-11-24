@@ -1,0 +1,1087 @@
+match_id,season,match_date,home_team,away_team,label_90min_wdl,label_90min_goal_diff,label_90min_home_goals,label_90min_away_goals,label_90min_home_win,label_90min_over25
+UCL_93bea5eb56d8df27,2014-15,2014-09-16,AS Monaco,Bayer Leverkusen,H,1.0,1.0,0.0,1.0,0.0
+UCL_0c375f0ce60d49d2,2014-15,2014-09-16,Borussia Dortmund,Arsenal FC,H,2.0,2.0,0.0,1.0,0.0
+UCL_2d6b6424fd6f657a,2014-15,2014-09-16,Galatasaray,RSC Anderlecht,D,0.0,1.0,1.0,0.0,0.0
+UCL_5ea014b30ea2d99b,2014-15,2014-09-16,Juventus,Malmö FF,H,2.0,2.0,0.0,1.0,0.0
+UCL_e010ccef56a61535,2014-15,2014-09-16,Olympiakos Piraeus,Atlético Madrid,H,1.0,3.0,2.0,1.0,1.0
+UCL_7f85e82436dca303,2014-15,2014-09-16,Real Madrid,FC Basel 1893,H,4.0,5.0,1.0,1.0,1.0
+UCL_29bf665dc52a15a1,2014-15,2014-09-16,SL Benfica,Zenit St. Petersburg,A,-2.0,0.0,2.0,0.0,0.0
+UCL_74ad99375f257b2e,2014-15,2014-09-17,AFC Ajax,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_96a66d14118903c5,2014-15,2014-09-17,AS Roma,CSKA Moskva,H,4.0,5.0,1.0,1.0,1.0
+UCL_997920b23e10218f,2014-15,2014-09-17,Athletic Club,Shakhtar Donetsk,D,0.0,0.0,0.0,0.0,0.0
+UCL_5f95e3ee117e94bd,2014-15,2014-09-17,Bayern München,Manchester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_aede0c6816fa2436,2014-15,2014-09-17,Chelsea FC,FC Schalke 04,D,0.0,1.0,1.0,0.0,0.0
+UCL_d5c1ec5ddbfd957c,2014-15,2014-09-30,CSKA Moskva,Bayern München,A,-1.0,0.0,1.0,0.0,0.0
+UCL_79d6f2bc00ebcaf9,2014-15,2014-09-30,Manchester City,AS Roma,D,0.0,1.0,1.0,0.0,0.0
+UCL_7f7ede8e80c8e54a,2014-15,2014-09-30,Paris Saint-Germain,FC Barcelona,H,1.0,3.0,2.0,1.0,1.0
+UCL_5564ff84415d2d91,2014-15,2014-09-30,Shakhtar Donetsk,FC Porto,D,0.0,2.0,2.0,0.0,1.0
+UCL_21db39388cb7450f,2014-15,2014-09-30,Sporting CP,Chelsea FC,A,-1.0,0.0,1.0,0.0,0.0
+UCL_901312ed4d3133b1,2014-15,2014-10-01,Arsenal FC,Galatasaray,H,3.0,4.0,1.0,1.0,1.0
+UCL_d099084688832a05,2014-15,2014-10-01,Atlético Madrid,Juventus,H,1.0,1.0,0.0,1.0,0.0
+UCL_0f60d18ec8e1d97a,2014-15,2014-10-01,Bayer Leverkusen,SL Benfica,H,2.0,3.0,1.0,1.0,1.0
+UCL_148213d78fe03853,2014-15,2014-10-01,FC Basel 1893,Liverpool FC,H,1.0,1.0,0.0,1.0,0.0
+UCL_6e027413bf263c3d,2014-15,2014-10-01,Malmö FF,Olympiakos Piraeus,H,2.0,2.0,0.0,1.0,0.0
+UCL_bd82f7449148a567,2014-15,2014-10-01,RSC Anderlecht,Borussia Dortmund,A,-3.0,0.0,3.0,0.0,1.0
+UCL_6ef34b2e38a27f97,2014-15,2014-10-01,Zenit St. Petersburg,AS Monaco,D,0.0,0.0,0.0,0.0,0.0
+UCL_4ad975ab07c2e097,2014-15,2014-10-21,AS Roma,Bayern München,A,-6.0,1.0,7.0,0.0,1.0
+UCL_ffe47f561d285d87,2014-15,2014-10-21,CSKA Moskva,Manchester City,D,0.0,2.0,2.0,0.0,1.0
+UCL_ddaa3909394ba1ff,2014-15,2014-10-21,FC Barcelona,AFC Ajax,H,2.0,3.0,1.0,1.0,1.0
+UCL_df1e5c00cd8b2fdd,2014-15,2014-10-21,FC Porto,Athletic Club,H,1.0,2.0,1.0,1.0,1.0
+UCL_d71892d039e40981,2014-15,2014-10-21,FC Schalke 04,Sporting CP,H,1.0,4.0,3.0,1.0,1.0
+UCL_76fa0d5bbae88dbc,2014-15,2014-10-22,AS Monaco,SL Benfica,D,0.0,0.0,0.0,0.0,0.0
+UCL_7854e065b948be47,2014-15,2014-10-22,Atlético Madrid,Malmö FF,H,5.0,5.0,0.0,1.0,1.0
+UCL_f3f6b86509dd5dd6,2014-15,2014-10-22,Bayer Leverkusen,Zenit St. Petersburg,H,2.0,2.0,0.0,1.0,0.0
+UCL_40bc19425619f150,2014-15,2014-10-22,Galatasaray,Borussia Dortmund,A,-4.0,0.0,4.0,0.0,1.0
+UCL_cbdc58a81cec9b5d,2014-15,2014-10-22,Liverpool FC,Real Madrid,A,-3.0,0.0,3.0,0.0,1.0
+UCL_27ee03c74eb1c2d7,2014-15,2014-10-22,Olympiakos Piraeus,Juventus,H,1.0,1.0,0.0,1.0,0.0
+UCL_1433dd12ce65de2a,2014-15,2014-10-22,RSC Anderlecht,Arsenal FC,A,-1.0,1.0,2.0,0.0,1.0
+UCL_f0dd0c898a6dd26c,2014-15,2014-11-04,Arsenal FC,RSC Anderlecht,D,0.0,3.0,3.0,0.0,1.0
+UCL_6f21d2ecc33a8e49,2014-15,2014-11-04,Borussia Dortmund,Galatasaray,H,3.0,4.0,1.0,1.0,1.0
+UCL_158a23897851f7c9,2014-15,2014-11-04,Juventus,Olympiakos Piraeus,H,1.0,3.0,2.0,1.0,1.0
+UCL_a8b101fc24fd7dac,2014-15,2014-11-04,Malmö FF,Atlético Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_528217617a89d235,2014-15,2014-11-04,Real Madrid,Liverpool FC,H,1.0,1.0,0.0,1.0,0.0
+UCL_aea7ec0ce6f5a39f,2014-15,2014-11-04,SL Benfica,AS Monaco,H,1.0,1.0,0.0,1.0,0.0
+UCL_4ccfe7c22e3ad24f,2014-15,2014-11-04,Zenit St. Petersburg,Bayer Leverkusen,A,-1.0,1.0,2.0,0.0,1.0
+UCL_3ba44e1def14b83d,2014-15,2014-11-05,AFC Ajax,FC Barcelona,A,-2.0,0.0,2.0,0.0,0.0
+UCL_b52da01052ca7a64,2014-15,2014-11-05,Athletic Club,FC Porto,A,-2.0,0.0,2.0,0.0,0.0
+UCL_5082cca30bf93e7d,2014-15,2014-11-05,Bayern München,AS Roma,H,2.0,2.0,0.0,1.0,0.0
+UCL_a03b568e49169614,2014-15,2014-11-05,Manchester City,CSKA Moskva,A,-1.0,1.0,2.0,0.0,1.0
+UCL_f5b4a4e2ccce5535,2014-15,2014-11-05,Sporting CP,FC Schalke 04,H,2.0,4.0,2.0,1.0,1.0
+UCL_0f805823944223b7,2014-15,2014-11-25,CSKA Moskva,AS Roma,D,0.0,1.0,1.0,0.0,0.0
+UCL_a5a1df4215226397,2014-15,2014-11-25,FC Schalke 04,Chelsea FC,A,-5.0,0.0,5.0,0.0,1.0
+UCL_0fb1b2aa0d36b17a,2014-15,2014-11-25,Manchester City,Bayern München,H,1.0,3.0,2.0,1.0,1.0
+UCL_b937edafd412117e,2014-15,2014-11-25,Paris Saint-Germain,AFC Ajax,H,2.0,3.0,1.0,1.0,1.0
+UCL_07dacf324dce688e,2014-15,2014-11-25,Shakhtar Donetsk,Athletic Club,A,-1.0,0.0,1.0,0.0,0.0
+UCL_5f6cd954a0c7c431,2014-15,2014-11-26,Arsenal FC,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_d8c69ffa53b01a2f,2014-15,2014-11-26,Atlético Madrid,Olympiakos Piraeus,H,4.0,4.0,0.0,1.0,1.0
+UCL_d0f5f95b7908d7fa,2014-15,2014-11-26,Bayer Leverkusen,AS Monaco,A,-1.0,0.0,1.0,0.0,0.0
+UCL_92565b00b0ea0e55,2014-15,2014-11-26,FC Basel 1893,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_74014406a48b3c8d,2014-15,2014-11-26,Malmö FF,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_64ae748a54dfe3d9,2014-15,2014-11-26,RSC Anderlecht,Galatasaray,H,2.0,2.0,0.0,1.0,0.0
+UCL_4905c5af4d831279,2014-15,2014-11-26,Zenit St. Petersburg,SL Benfica,H,1.0,1.0,0.0,1.0,0.0
+UCL_53b905aba245db65,2014-15,2014-12-09,AS Monaco,Zenit St. Petersburg,H,2.0,2.0,0.0,1.0,0.0
+UCL_48e99b6036d58e59,2014-15,2014-12-09,Borussia Dortmund,RSC Anderlecht,D,0.0,1.0,1.0,0.0,0.0
+UCL_acb24371137c1c43,2014-15,2014-12-09,Galatasaray,Arsenal FC,A,-3.0,1.0,4.0,0.0,1.0
+UCL_0bc4d7cd355d484e,2014-15,2014-12-09,Juventus,Atlético Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_a3686757c9303007,2014-15,2014-12-09,Liverpool FC,FC Basel 1893,D,0.0,1.0,1.0,0.0,0.0
+UCL_6596ec0fd6241c68,2014-15,2014-12-09,Olympiakos Piraeus,Malmö FF,H,2.0,4.0,2.0,1.0,1.0
+UCL_2891a1dcc1d72e31,2014-15,2014-12-09,SL Benfica,Bayer Leverkusen,D,0.0,0.0,0.0,0.0,0.0
+UCL_523b23c4f3cb290f,2014-15,2014-12-10,AS Roma,Manchester City,A,-2.0,0.0,2.0,0.0,0.0
+UCL_a0ee604e97aa749e,2014-15,2014-12-10,Bayern München,CSKA Moskva,H,3.0,3.0,0.0,1.0,1.0
+UCL_b249470f69f45f9e,2014-15,2014-12-10,Chelsea FC,Sporting CP,H,2.0,3.0,1.0,1.0,1.0
+UCL_0c2d0385bdae70e1,2014-15,2014-12-10,FC Barcelona,Paris Saint-Germain,H,2.0,3.0,1.0,1.0,1.0
+UCL_03774958446facc5,2014-15,2014-12-10,FC Porto,Shakhtar Donetsk,D,0.0,1.0,1.0,0.0,0.0
+UCL_9d601d03e429ef45,2014-15,2015-02-17,Paris Saint-Germain,Chelsea FC,D,0.0,1.0,1.0,0.0,0.0
+UCL_e78979ddd366f17f,2014-15,2015-02-17,Shakhtar Donetsk,Bayern München,D,0.0,0.0,0.0,0.0,0.0
+UCL_44e32663d476ba6d,2014-15,2015-02-18,FC Basel 1893,FC Porto,D,0.0,1.0,1.0,0.0,0.0
+UCL_9b008ef3477ce40d,2014-15,2015-02-18,FC Schalke 04,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_ec612bf8969d12ad,2014-15,2015-02-24,Juventus,Borussia Dortmund,H,1.0,2.0,1.0,1.0,1.0
+UCL_c10a3bae75b45004,2014-15,2015-02-24,Manchester City,FC Barcelona,A,-1.0,1.0,2.0,0.0,1.0
+UCL_9535a816f5df8f41,2014-15,2015-02-25,Arsenal FC,AS Monaco,A,-2.0,1.0,3.0,0.0,1.0
+UCL_609d0e75e7d8736a,2014-15,2015-02-25,Bayer Leverkusen,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_de71a141cd60b34c,2014-15,2015-03-10,FC Porto,FC Basel 1893,H,4.0,4.0,0.0,1.0,1.0
+UCL_b973437695728d30,2014-15,2015-03-10,Real Madrid,FC Schalke 04,A,-1.0,3.0,4.0,0.0,1.0
+UCL_a6b78e9c27f2b3a9,2014-15,2015-03-11,Bayern München,Shakhtar Donetsk,H,7.0,7.0,0.0,1.0,1.0
+UCL_c0c09bc8b40999f0,2014-15,2015-03-11,Chelsea FC,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_d9d135557f69c79b,2014-15,2015-03-17,AS Monaco,Arsenal FC,A,-2.0,0.0,2.0,0.0,0.0
+UCL_258c15bb114c2e0c,2014-15,2015-03-17,Atlético Madrid,Bayer Leverkusen,H,1.0,1.0,0.0,1.0,0.0
+UCL_42089b59b318e456,2014-15,2015-03-18,Borussia Dortmund,Juventus,A,-3.0,0.0,3.0,0.0,1.0
+UCL_f20a4cba2939c0db,2014-15,2015-03-18,FC Barcelona,Manchester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_bd3f98cef8226bd7,2014-15,2015-04-14,Atlético Madrid,Real Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_37d137a07819c3c7,2014-15,2015-04-14,Juventus,AS Monaco,H,1.0,1.0,0.0,1.0,0.0
+UCL_b257392d6e4acd40,2014-15,2015-04-15,FC Porto,Bayern München,H,2.0,3.0,1.0,1.0,1.0
+UCL_97ba450d1da13aef,2014-15,2015-04-15,Paris Saint-Germain,FC Barcelona,A,-2.0,1.0,3.0,0.0,1.0
+UCL_91dc946e94d8dccf,2014-15,2015-04-21,Bayern München,FC Porto,H,5.0,6.0,1.0,1.0,1.0
+UCL_7f7a28f98e6f938e,2014-15,2015-04-21,FC Barcelona,Paris Saint-Germain,H,2.0,2.0,0.0,1.0,0.0
+UCL_7d05d5238814a9d3,2014-15,2015-04-22,AS Monaco,Juventus,D,0.0,0.0,0.0,0.0,0.0
+UCL_ba33684015992126,2014-15,2015-04-22,Real Madrid,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_8d911f2e9e4f5754,2014-15,2015-05-05,Juventus,Real Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_c80231c290c4393a,2014-15,2015-05-06,FC Barcelona,Bayern München,H,3.0,3.0,0.0,1.0,1.0
+UCL_bb367bd5701b744b,2014-15,2015-05-12,Bayern München,FC Barcelona,H,1.0,3.0,2.0,1.0,1.0
+UCL_a4ac86b19db89728,2014-15,2015-05-13,Real Madrid,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_83f10b279ccaf28f,2014-15,2015-06-06,Juventus,FC Barcelona,A,-2.0,1.0,3.0,0.0,1.0
+UCL_96b659801b57d85b,2015-16,2015-09-15,Galatasaray,Atlético Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_768bb820290110de,2015-16,2015-09-15,Manchester City,Juventus,A,-1.0,1.0,2.0,0.0,1.0
+UCL_62fee68f3f0ce69d,2015-16,2015-09-15,PSV Eindhoven,Manchester United,H,1.0,2.0,1.0,1.0,1.0
+UCL_bf7890d5a0687736,2015-16,2015-09-15,Paris Saint-Germain,Malmö FF,H,2.0,2.0,0.0,1.0,0.0
+UCL_f401db6977d8415e,2015-16,2015-09-15,Real Madrid,Shakhtar Donetsk,H,4.0,4.0,0.0,1.0,1.0
+UCL_357836b58e33c6f7,2015-16,2015-09-15,Sevilla,Borussia Mönchengladbach,H,3.0,3.0,0.0,1.0,1.0
+UCL_5d63b6c1d7fc4b51,2015-16,2015-09-15,VfL Wolfsburg,CSKA Moscow,H,1.0,1.0,0.0,1.0,0.0
+UCL_98410598fecbcef3,2015-16,2015-09-16,Gent,Lyon,D,0.0,1.0,1.0,0.0,0.0
+UCL_9c31be22838188d8,2015-16,2015-09-16,Olympiacos,Bayern Munich,A,-3.0,0.0,3.0,0.0,1.0
+UCL_283b1f9ae8f3e9d1,2015-16,2015-09-16,Roma,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_bbf1e751dd831a55,2015-16,2015-09-29,Arsenal,Olympiacos,A,-1.0,2.0,3.0,0.0,1.0
+UCL_294d56dc605d5462,2015-16,2015-09-29,Barcelona,Bayer Leverkusen,H,1.0,2.0,1.0,1.0,1.0
+UCL_673baa5a5429a37f,2015-16,2015-09-29,Lyon,Valencia,A,-1.0,0.0,1.0,0.0,0.0
+UCL_2d8e51dcf4815881,2015-16,2015-09-29,Porto,Chelsea,H,1.0,2.0,1.0,1.0,1.0
+UCL_83dc96cfd33b015b,2015-16,2015-09-30,Atlético Madrid,Benfica,A,-1.0,1.0,2.0,0.0,1.0
+UCL_5a671e54663dce4b,2015-16,2015-09-30,Borussia Mönchengladbach,Manchester City,A,-1.0,1.0,2.0,0.0,1.0
+UCL_ed265216de4feaa9,2015-16,2015-09-30,CSKA Moscow,PSV Eindhoven,H,1.0,3.0,2.0,1.0,1.0
+UCL_057205280470c73d,2015-16,2015-09-30,Juventus,Sevilla,H,2.0,2.0,0.0,1.0,0.0
+UCL_a3bb4d19fb2e7f8a,2015-16,2015-09-30,Malmö FF,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_d8db44b2770fd4a7,2015-16,2015-09-30,Manchester United,VfL Wolfsburg,H,1.0,2.0,1.0,1.0,1.0
+UCL_1a63063386a40062,2015-16,2015-09-30,Shakhtar Donetsk,Paris Saint-Germain,A,-3.0,0.0,3.0,0.0,1.0
+UCL_17dbfc577606b80c,2015-16,2015-10-20,Arsenal,Bayern Munich,H,2.0,2.0,0.0,1.0,0.0
+UCL_9041b383df8f7233,2015-16,2015-10-20,Bayer Leverkusen,Roma,D,0.0,4.0,4.0,0.0,1.0
+UCL_380b7241d7cf7717,2015-16,2015-10-20,Valencia,Gent,H,1.0,2.0,1.0,1.0,1.0
+UCL_5a49c0ef5b92b1a7,2015-16,2015-10-21,CSKA Moscow,Manchester United,D,0.0,1.0,1.0,0.0,0.0
+UCL_1b198c12011bffe7,2015-16,2015-10-21,Galatasaray,Benfica,H,1.0,2.0,1.0,1.0,1.0
+UCL_d2fe361bc09ae983,2015-16,2015-10-21,Juventus,Borussia Mönchengladbach,D,0.0,0.0,0.0,0.0,0.0
+UCL_0485a54f0c49eaf0,2015-16,2015-10-21,Malmö FF,Shakhtar Donetsk,H,1.0,1.0,0.0,1.0,0.0
+UCL_486c4a93c44285db,2015-16,2015-10-21,Manchester City,Sevilla,H,1.0,2.0,1.0,1.0,1.0
+UCL_4022c4cb0596ab4b,2015-16,2015-10-21,Paris Saint-Germain,Real Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_e4709ee3ba91cdc6,2015-16,2015-10-21,VfL Wolfsburg,PSV Eindhoven,H,2.0,2.0,0.0,1.0,0.0
+UCL_a92adc5dcc7089d6,2015-16,2015-11-03,Benfica,Galatasaray,H,1.0,2.0,1.0,1.0,1.0
+UCL_796e6a45d298041b,2015-16,2015-11-03,Borussia Mönchengladbach,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_8f64cf6bdd21bac0,2015-16,2015-11-03,Manchester United,CSKA Moscow,H,1.0,1.0,0.0,1.0,0.0
+UCL_846a1dc35dbadd26,2015-16,2015-11-03,PSV Eindhoven,VfL Wolfsburg,H,2.0,2.0,0.0,1.0,0.0
+UCL_2e641ce14f9d19b7,2015-16,2015-11-03,Real Madrid,Paris Saint-Germain,H,1.0,1.0,0.0,1.0,0.0
+UCL_7311c0319f1301b0,2015-16,2015-11-03,Sevilla,Manchester City,A,-2.0,1.0,3.0,0.0,1.0
+UCL_7cd0faf754568bc5,2015-16,2015-11-03,Shakhtar Donetsk,Malmö FF,H,4.0,4.0,0.0,1.0,1.0
+UCL_702b594aeda982e6,2015-16,2015-11-04,Bayern Munich,Arsenal,H,4.0,5.0,1.0,1.0,1.0
+UCL_11ccacd84ac977c4,2015-16,2015-11-04,Gent,Valencia,H,1.0,1.0,0.0,1.0,0.0
+UCL_4c424caaca790c6e,2015-16,2015-11-04,Roma,Bayer Leverkusen,H,1.0,3.0,2.0,1.0,1.0
+UCL_59540fe72c94604b,2015-16,2015-11-24,Barcelona,Roma,H,5.0,6.0,1.0,1.0,1.0
+UCL_c95e470850a6c38b,2015-16,2015-11-24,Bayern Munich,Olympiacos,H,4.0,4.0,0.0,1.0,1.0
+UCL_fea18f42a3237c78,2015-16,2015-11-24,Lyon,Gent,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e98e7eded09eb6ab,2015-16,2015-11-25,Atlético Madrid,Galatasaray,H,2.0,2.0,0.0,1.0,0.0
+UCL_4957ba7a9754a66a,2015-16,2015-11-25,Borussia Mönchengladbach,Sevilla,H,2.0,4.0,2.0,1.0,1.0
+UCL_21a3805c3e3ee3b4,2015-16,2015-11-25,CSKA Moscow,VfL Wolfsburg,A,-2.0,0.0,2.0,0.0,0.0
+UCL_ba153845db0be617,2015-16,2015-11-25,Juventus,Manchester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_c04e71d2ded15ef9,2015-16,2015-11-25,Malmö FF,Paris Saint-Germain,A,-5.0,0.0,5.0,0.0,1.0
+UCL_561077fa00347fa3,2015-16,2015-11-25,Manchester United,PSV Eindhoven,D,0.0,0.0,0.0,0.0,0.0
+UCL_6ef2d343de99056f,2015-16,2015-11-25,Shakhtar Donetsk,Real Madrid,A,-1.0,3.0,4.0,0.0,1.0
+UCL_ee6999649590c4a8,2015-16,2015-12-08,Benfica,Atlético Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_a0e114ca8340a68b,2015-16,2015-12-08,Manchester City,Borussia Mönchengladbach,H,2.0,4.0,2.0,1.0,1.0
+UCL_010720bce220a832,2015-16,2015-12-08,PSV Eindhoven,CSKA Moscow,H,1.0,2.0,1.0,1.0,1.0
+UCL_b1de170dd3028241,2015-16,2015-12-08,Paris Saint-Germain,Shakhtar Donetsk,H,2.0,2.0,0.0,1.0,0.0
+UCL_9a338ecbf844d95c,2015-16,2015-12-08,Real Madrid,Malmö FF,H,8.0,8.0,0.0,1.0,1.0
+UCL_f12d5f06ac419ff1,2015-16,2015-12-08,Sevilla,Juventus,H,1.0,1.0,0.0,1.0,0.0
+UCL_1c40032829962893,2015-16,2015-12-08,VfL Wolfsburg,Manchester United,H,1.0,3.0,2.0,1.0,1.0
+UCL_1f4b88286babb174,2015-16,2015-12-09,Bayer Leverkusen,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_e6349a9e3a721321,2015-16,2015-12-09,Chelsea,Porto,H,2.0,2.0,0.0,1.0,0.0
+UCL_e935862d029dcf31,2015-16,2015-12-09,Olympiacos,Arsenal,A,-3.0,0.0,3.0,0.0,1.0
+UCL_c42e1399511f48cc,2015-16,2015-12-09,Valencia,Lyon,A,-2.0,0.0,2.0,0.0,0.0
+UCL_e48d147ac4e55dd2,2015-16,2016-02-16,Paris Saint-Germain,Chelsea,H,1.0,2.0,1.0,1.0,1.0
+UCL_55b3894e4959b0be,2015-16,2016-02-17,Gent,VfL Wolfsburg,A,-1.0,2.0,3.0,0.0,1.0
+UCL_dbf25847e32e6543,2015-16,2016-02-17,Roma,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_011c419ee82a336f,2015-16,2016-02-23,Arsenal,Barcelona,A,-2.0,0.0,2.0,0.0,0.0
+UCL_171aa11e98428b05,2015-16,2016-02-23,Juventus,Bayern Munich,D,0.0,2.0,2.0,0.0,1.0
+UCL_722d55cb129ba299,2015-16,2016-02-24,PSV Eindhoven,Atlético Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_dc3ec62a64a74014,2015-16,2016-03-08,Real Madrid,Roma,H,2.0,2.0,0.0,1.0,0.0
+UCL_cfead883ddcfc2c5,2015-16,2016-03-08,VfL Wolfsburg,Gent,H,1.0,1.0,0.0,1.0,0.0
+UCL_d609be5b11273ba1,2015-16,2016-03-09,Chelsea,Paris Saint-Germain,A,-1.0,1.0,2.0,0.0,1.0
+UCL_679f63424997faa1,2015-16,2016-03-15,Atlético Madrid,PSV Eindhoven,D,0.0,0.0,0.0,0.0,0.0
+UCL_f93ddaf3a7091f81,2015-16,2016-03-16,Barcelona,Arsenal,H,2.0,3.0,1.0,1.0,1.0
+UCL_90e26d7b72e695b5,2015-16,2016-03-16,Bayern Munich,Juventus,D,0.0,2.0,2.0,0.0,1.0
+UCL_78c9f03676dbbfc2,2015-16,2016-04-05,Barcelona,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_3a26ff16e073ab4a,2015-16,2016-04-05,Bayern Munich,Benfica,H,1.0,1.0,0.0,1.0,0.0
+UCL_35028bc0a9cf54ef,2015-16,2016-04-06,Paris Saint-Germain,Manchester City,D,0.0,2.0,2.0,0.0,1.0
+UCL_8694abd98b4199d3,2015-16,2016-04-06,VfL Wolfsburg,Real Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_d06d81795b498b0f,2015-16,2016-04-12,Manchester City,Paris Saint-Germain,H,1.0,1.0,0.0,1.0,0.0
+UCL_67de3d07450f4c5b,2015-16,2016-04-12,Real Madrid,VfL Wolfsburg,H,3.0,3.0,0.0,1.0,1.0
+UCL_9009c01570b0cbed,2015-16,2016-04-13,Atlético Madrid,Barcelona,H,2.0,2.0,0.0,1.0,0.0
+UCL_3e9550f7fd4547c2,2015-16,2016-04-13,Benfica,Bayern Munich,D,0.0,2.0,2.0,0.0,1.0
+UCL_71771672443a1fe5,2015-16,2016-04-26,Manchester City,Real Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_9b709f50d00376f0,2015-16,2016-04-27,Atlético Madrid,Bayern Munich,H,1.0,1.0,0.0,1.0,0.0
+UCL_7f15e5ef884a28d1,2015-16,2016-05-03,Bayern Munich,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_2516b03338575713,2015-16,2016-05-04,Real Madrid,Manchester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_b04f84d0380eafa5,2015-16,2016-05-28,Real Madrid,Atlético Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_3977f572a5edd9d9,2016-17,2016-09-13,Barcelona,Celtic,H,7.0,7.0,0.0,1.0,1.0
+UCL_d1c78e89c9c354b3,2016-17,2016-09-13,Bayern Munich,Rostov,H,5.0,5.0,0.0,1.0,1.0
+UCL_7df8286ce1ad55a7,2016-17,2016-09-13,Benfica,Beşiktaş,D,0.0,1.0,1.0,0.0,0.0
+UCL_d1e880785d544718,2016-17,2016-09-13,PSV Eindhoven,Atlético Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_51b3114d55dd2e10,2016-17,2016-09-13,Paris Saint-Germain,Arsenal,D,0.0,1.0,1.0,0.0,0.0
+UCL_f801e40c209c693d,2016-17,2016-09-14,Bayer Leverkusen,CSKA Moscow,D,0.0,2.0,2.0,0.0,1.0
+UCL_cd3dce945f1c1a94,2016-17,2016-09-14,Club Brugge,Leicester City,A,-3.0,0.0,3.0,0.0,1.0
+UCL_f6a71e010cf69c3a,2016-17,2016-09-14,Juventus,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_da85e1614c88f357,2016-17,2016-09-14,Legia Warsaw,Borussia Dortmund,A,-6.0,0.0,6.0,0.0,1.0
+UCL_11b165d815e7de11,2016-17,2016-09-14,Manchester City,Borussia Mönchengladbach,H,4.0,4.0,0.0,1.0,1.0
+UCL_817b2be5695c7cd2,2016-17,2016-09-14,Porto,Copenhagen,D,0.0,1.0,1.0,0.0,0.0
+UCL_c8cae3317b110448,2016-17,2016-09-14,Real Madrid,Sporting CP,H,1.0,2.0,1.0,1.0,1.0
+UCL_f54e9408e37d26ba,2016-17,2016-09-14,Tottenham Hotspur,Monaco,A,-1.0,1.0,2.0,0.0,1.0
+UCL_870d8ee860aa0e89,2016-17,2016-09-27,Borussia Dortmund,Real Madrid,D,0.0,2.0,2.0,0.0,1.0
+UCL_6f324d1fae74d0ac,2016-17,2016-09-27,CSKA Moscow,Tottenham Hotspur,A,-1.0,0.0,1.0,0.0,0.0
+UCL_a078adea039a2b00,2016-17,2016-09-27,Copenhagen,Club Brugge,H,4.0,4.0,0.0,1.0,1.0
+UCL_8b69d8a14cf4416d,2016-17,2016-09-27,Leicester City,Porto,H,1.0,1.0,0.0,1.0,0.0
+UCL_73585965b2ec75c3,2016-17,2016-09-27,Monaco,Bayer Leverkusen,D,0.0,1.0,1.0,0.0,0.0
+UCL_69b01cb79dc15c2f,2016-17,2016-09-27,Sevilla,Lyon,H,1.0,1.0,0.0,1.0,0.0
+UCL_bb538ee029cea806,2016-17,2016-09-27,Sporting CP,Legia Warsaw,H,2.0,2.0,0.0,1.0,0.0
+UCL_d8ebef59d22719a0,2016-17,2016-09-28,Arsenal,Basel,H,2.0,2.0,0.0,1.0,0.0
+UCL_625f4510dfafd6a9,2016-17,2016-09-28,Atlético Madrid,Bayern Munich,H,1.0,1.0,0.0,1.0,0.0
+UCL_44976253ad197537,2016-17,2016-09-28,Borussia Mönchengladbach,Barcelona,A,-1.0,1.0,2.0,0.0,1.0
+UCL_4adb99688ce72c77,2016-17,2016-09-28,Celtic,Manchester City,D,0.0,3.0,3.0,0.0,1.0
+UCL_d4e13b9c15b7d5be,2016-17,2016-09-28,Napoli,Benfica,H,2.0,4.0,2.0,1.0,1.0
+UCL_39cc8bd691f0ae07,2016-17,2016-09-28,Rostov,PSV Eindhoven,D,0.0,2.0,2.0,0.0,1.0
+UCL_15a854a3c25c5c19,2016-17,2016-10-18,Bayer Leverkusen,Tottenham Hotspur,D,0.0,0.0,0.0,0.0,0.0
+UCL_cc22be46c9f341d7,2016-17,2016-10-18,CSKA Moscow,Monaco,D,0.0,1.0,1.0,0.0,0.0
+UCL_3a706556eb19b7d3,2016-17,2016-10-18,Club Brugge,Porto,A,-1.0,1.0,2.0,0.0,1.0
+UCL_14736d491ca863dd,2016-17,2016-10-18,Leicester City,Copenhagen,H,1.0,1.0,0.0,1.0,0.0
+UCL_b5b68c39379c063e,2016-17,2016-10-18,Lyon,Juventus,A,-1.0,0.0,1.0,0.0,0.0
+UCL_96e9fc723907b084,2016-17,2016-10-18,Real Madrid,Legia Warsaw,H,4.0,5.0,1.0,1.0,1.0
+UCL_9cdfba42f73cbfb2,2016-17,2016-10-18,Sporting CP,Borussia Dortmund,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c607b44ae59e9740,2016-17,2016-10-19,Barcelona,Manchester City,H,4.0,4.0,0.0,1.0,1.0
+UCL_6b65ab126e0ed7b5,2016-17,2016-10-19,Bayern Munich,PSV Eindhoven,H,3.0,4.0,1.0,1.0,1.0
+UCL_89ddb39e71ba3faf,2016-17,2016-10-19,Celtic,Borussia Mönchengladbach,A,-2.0,0.0,2.0,0.0,0.0
+UCL_cbb8a76d071f468c,2016-17,2016-10-19,Napoli,Beşiktaş,A,-1.0,2.0,3.0,0.0,1.0
+UCL_bab39542eac94649,2016-17,2016-10-19,Paris Saint-Germain,Basel,H,3.0,3.0,0.0,1.0,1.0
+UCL_04f0c734ed92a6c7,2016-17,2016-10-19,Rostov,Atlético Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_23ec6a1ddb42ae7d,2016-17,2016-11-01,Atlético Madrid,Rostov,H,1.0,2.0,1.0,1.0,1.0
+UCL_82dd87cd41a685ae,2016-17,2016-11-01,Basel,Paris Saint-Germain,A,-1.0,1.0,2.0,0.0,1.0
+UCL_a20304e1a939e9fb,2016-17,2016-11-01,Beşiktaş,Napoli,D,0.0,1.0,1.0,0.0,0.0
+UCL_1d3f2b97ba6f0353,2016-17,2016-11-01,Borussia Mönchengladbach,Celtic,D,0.0,1.0,1.0,0.0,0.0
+UCL_5dc12b1b9ab71c6c,2016-17,2016-11-01,Manchester City,Barcelona,H,2.0,3.0,1.0,1.0,1.0
+UCL_a01aaaadec1b1f72,2016-17,2016-11-01,PSV Eindhoven,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_1ea33826e7d18537,2016-17,2016-11-02,Borussia Dortmund,Sporting CP,H,1.0,1.0,0.0,1.0,0.0
+UCL_c3c7c470674189d4,2016-17,2016-11-02,Copenhagen,Leicester City,D,0.0,0.0,0.0,0.0,0.0
+UCL_1c692d1ca5917bc9,2016-17,2016-11-02,Juventus,Lyon,D,0.0,1.0,1.0,0.0,0.0
+UCL_4a9525d45b8213e4,2016-17,2016-11-02,Legia Warsaw,Real Madrid,D,0.0,3.0,3.0,0.0,1.0
+UCL_877cb6e2b18f3977,2016-17,2016-11-02,Monaco,CSKA Moscow,H,3.0,3.0,0.0,1.0,1.0
+UCL_d41de6ec7d85731f,2016-17,2016-11-02,Porto,Club Brugge,H,1.0,1.0,0.0,1.0,0.0
+UCL_8457906925883abb,2016-17,2016-11-02,Tottenham Hotspur,Bayer Leverkusen,A,-1.0,0.0,1.0,0.0,0.0
+UCL_e03a6f54f8b654b6,2016-17,2016-11-22,Borussia Dortmund,Legia Warsaw,H,4.0,8.0,4.0,1.0,1.0
+UCL_ac94c84899efbdd8,2016-17,2016-11-22,CSKA Moscow,Bayer Leverkusen,D,0.0,1.0,1.0,0.0,0.0
+UCL_ea2cadbcb336bb68,2016-17,2016-11-22,Copenhagen,Porto,D,0.0,0.0,0.0,0.0,0.0
+UCL_286cbec834a2818a,2016-17,2016-11-22,Leicester City,Club Brugge,H,1.0,2.0,1.0,1.0,1.0
+UCL_af19f507df7ea530,2016-17,2016-11-22,Monaco,Tottenham Hotspur,H,1.0,2.0,1.0,1.0,1.0
+UCL_a00d56eaea478d4c,2016-17,2016-11-22,Sevilla,Juventus,A,-2.0,1.0,3.0,0.0,1.0
+UCL_51c3029fd57e7087,2016-17,2016-11-22,Sporting CP,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c8d6ebdf011227c8,2016-17,2016-11-23,Arsenal,Paris Saint-Germain,D,0.0,2.0,2.0,0.0,1.0
+UCL_4ff5a34bfaaf76bc,2016-17,2016-11-23,Atlético Madrid,PSV Eindhoven,H,2.0,2.0,0.0,1.0,0.0
+UCL_6300b123800e6a67,2016-17,2016-11-23,Beşiktaş,Benfica,D,0.0,3.0,3.0,0.0,1.0
+UCL_818568c5dc12ab5d,2016-17,2016-11-23,Borussia Mönchengladbach,Manchester City,D,0.0,1.0,1.0,0.0,0.0
+UCL_6f2729024902fb55,2016-17,2016-11-23,Celtic,Barcelona,A,-2.0,0.0,2.0,0.0,0.0
+UCL_b95cc44cf53cddab,2016-17,2016-11-23,Rostov,Bayern Munich,H,1.0,3.0,2.0,1.0,1.0
+UCL_df000c0f967f4946,2016-17,2016-12-06,Barcelona,Borussia Mönchengladbach,H,4.0,4.0,0.0,1.0,1.0
+UCL_af375b873503adc8,2016-17,2016-12-06,Basel,Arsenal,A,-3.0,1.0,4.0,0.0,1.0
+UCL_e00cf448ce906424,2016-17,2016-12-06,Bayern Munich,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_b14e2bb1096039f4,2016-17,2016-12-06,Benfica,Napoli,A,-1.0,1.0,2.0,0.0,1.0
+UCL_6f782b72fd448482,2016-17,2016-12-06,Manchester City,Celtic,D,0.0,1.0,1.0,0.0,0.0
+UCL_0fc8aed8ee118956,2016-17,2016-12-06,PSV Eindhoven,Rostov,D,0.0,0.0,0.0,0.0,0.0
+UCL_6f4037c589012ed6,2016-17,2016-12-07,Bayer Leverkusen,Monaco,H,3.0,3.0,0.0,1.0,1.0
+UCL_5fc2c463745fab30,2016-17,2016-12-07,Club Brugge,Copenhagen,A,-2.0,0.0,2.0,0.0,0.0
+UCL_c5e0c258a784209d,2016-17,2016-12-07,Legia Warsaw,Sporting CP,H,1.0,1.0,0.0,1.0,0.0
+UCL_057c8f3f45010207,2016-17,2016-12-07,Lyon,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_f86f6a5a73f9f119,2016-17,2016-12-07,Porto,Leicester City,H,5.0,5.0,0.0,1.0,1.0
+UCL_36db193dee167d04,2016-17,2016-12-07,Real Madrid,Borussia Dortmund,D,0.0,2.0,2.0,0.0,1.0
+UCL_1c7246903641be20,2016-17,2016-12-07,Tottenham Hotspur,CSKA Moscow,H,2.0,3.0,1.0,1.0,1.0
+UCL_28a985474cc2ca4f,2016-17,2017-02-14,Benfica,Borussia Dortmund,H,1.0,1.0,0.0,1.0,0.0
+UCL_6bba5c715055225e,2016-17,2017-02-14,Paris Saint-Germain,Barcelona,H,4.0,4.0,0.0,1.0,1.0
+UCL_46171180e6cd4a73,2016-17,2017-02-15,Bayern Munich,Arsenal,H,4.0,5.0,1.0,1.0,1.0
+UCL_bef29071611eebf6,2016-17,2017-02-15,Real Madrid,Napoli,H,2.0,3.0,1.0,1.0,1.0
+UCL_df04ddae98ed44c6,2016-17,2017-02-21,Bayer Leverkusen,Atlético Madrid,A,-2.0,2.0,4.0,0.0,1.0
+UCL_5bdd3d3ad102f905,2016-17,2017-02-21,Manchester City,Monaco,H,2.0,5.0,3.0,1.0,1.0
+UCL_9e4796a300b8b6d5,2016-17,2017-02-22,Porto,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_ed4bddd65f932f6e,2016-17,2017-02-22,Sevilla,Leicester City,H,1.0,2.0,1.0,1.0,1.0
+UCL_3cd1c00eb00001ba,2016-17,2017-03-07,Arsenal,Bayern Munich,A,-4.0,1.0,5.0,0.0,1.0
+UCL_1132c292570be63b,2016-17,2017-03-07,Napoli,Real Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_a649f6b1f0695cfe,2016-17,2017-03-08,Barcelona,Paris Saint-Germain,H,5.0,6.0,1.0,1.0,1.0
+UCL_0af38a6846464a92,2016-17,2017-03-08,Borussia Dortmund,Benfica,H,4.0,4.0,0.0,1.0,1.0
+UCL_08f3938505190a9a,2016-17,2017-03-14,Juventus,Porto,H,1.0,1.0,0.0,1.0,0.0
+UCL_ab16942ec509ff78,2016-17,2017-03-14,Leicester City,Sevilla,H,2.0,2.0,0.0,1.0,0.0
+UCL_85daea75d96eaa12,2016-17,2017-03-15,Atlético Madrid,Bayer Leverkusen,D,0.0,0.0,0.0,0.0,0.0
+UCL_29f92442485892f0,2016-17,2017-03-15,Monaco,Manchester City,H,2.0,3.0,1.0,1.0,1.0
+UCL_89584a86fc7691f2,2016-17,2017-04-11,Juventus,Barcelona,H,3.0,3.0,0.0,1.0,1.0
+UCL_acbf62acd678399b,2016-17,2017-04-12,Atlético Madrid,Leicester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_3c132657be8078fe,2016-17,2017-04-12,Bayern Munich,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_07f1d768b8b4b838,2016-17,2017-04-12,Borussia Dortmund,Monaco,A,-1.0,2.0,3.0,0.0,1.0
+UCL_5af9c2e4d1070edf,2016-17,2017-04-18,Leicester City,Atlético Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_29ae71ec2ec43dcc,2016-17,2017-04-18,Real Madrid,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_2335da8034040d45,2016-17,2017-04-19,Barcelona,Juventus,D,0.0,0.0,0.0,0.0,0.0
+UCL_5960341449f5e1f7,2016-17,2017-04-19,Monaco,Borussia Dortmund,H,2.0,3.0,1.0,1.0,1.0
+UCL_0845ab8c2e3c6522,2016-17,2017-05-02,Real Madrid,Atlético Madrid,H,3.0,3.0,0.0,1.0,1.0
+UCL_abc71733f3285a20,2016-17,2017-05-03,Monaco,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_61e293053b9b2ad5,2016-17,2017-05-09,Juventus,Monaco,H,1.0,2.0,1.0,1.0,1.0
+UCL_2d64a008f300cbf6,2016-17,2017-05-10,Atlético Madrid,Real Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_9ca67d4060dcd827,2016-17,2017-06-03,Juventus,Real Madrid,A,-3.0,1.0,4.0,0.0,1.0
+UCL_0a2479806567b30b,2017-18,2017-09-12,Barcelona,Juventus,H,3.0,3.0,0.0,1.0,1.0
+UCL_eb03114232ce6790,2017-18,2017-09-12,Bayern Munich,Anderlecht,H,3.0,3.0,0.0,1.0,1.0
+UCL_6179cb30249aad78,2017-18,2017-09-12,Benfica,CSKA Moscow,A,-1.0,1.0,2.0,0.0,1.0
+UCL_70a8ce43b26c01de,2017-18,2017-09-12,Celtic,Paris Saint-Germain,A,-5.0,0.0,5.0,0.0,1.0
+UCL_4ccc2afb420d2b6a,2017-18,2017-09-12,Manchester United,Basel,H,3.0,3.0,0.0,1.0,1.0
+UCL_4757078d51c90d75,2017-18,2017-09-12,Olympiacos,Sporting CP,A,-1.0,2.0,3.0,0.0,1.0
+UCL_fe325e0385367edf,2017-18,2017-09-12,Roma,Atlético Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_b47d0a4a854ca450,2017-18,2017-09-13,Feyenoord,Manchester City,A,-4.0,0.0,4.0,0.0,1.0
+UCL_5bd7405518fde015,2017-18,2017-09-13,Liverpool,Sevilla,D,0.0,2.0,2.0,0.0,1.0
+UCL_4ea1137c8713e3b8,2017-18,2017-09-13,Porto,Beşiktaş,A,-2.0,1.0,3.0,0.0,1.0
+UCL_6a6e522fb8522868,2017-18,2017-09-13,RB Leipzig,Monaco,D,0.0,1.0,1.0,0.0,0.0
+UCL_c02c769ca24dec3d,2017-18,2017-09-13,Shakhtar Donetsk,Napoli,H,1.0,2.0,1.0,1.0,1.0
+UCL_b2f627fc304edbee,2017-18,2017-09-13,Tottenham Hotspur,Borussia Dortmund,H,2.0,3.0,1.0,1.0,1.0
+UCL_77cf032cdb78e21a,2017-18,2017-09-26,Beşiktaş,RB Leipzig,H,2.0,2.0,0.0,1.0,0.0
+UCL_0aa0e26ed627af47,2017-18,2017-09-26,Borussia Dortmund,Real Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_f73ec8e179d9c33e,2017-18,2017-09-26,Manchester City,Shakhtar Donetsk,H,2.0,2.0,0.0,1.0,0.0
+UCL_e8f92e0f3bcd7d51,2017-18,2017-09-26,Monaco,Porto,A,-3.0,0.0,3.0,0.0,1.0
+UCL_9dbf4ac67c648d50,2017-18,2017-09-26,Napoli,Feyenoord,H,2.0,3.0,1.0,1.0,1.0
+UCL_463620e7f2682b00,2017-18,2017-09-26,Spartak Moscow,Liverpool,D,0.0,1.0,1.0,0.0,0.0
+UCL_8c74cff99e1f8baa,2017-18,2017-09-27,Anderlecht,Celtic,A,-3.0,0.0,3.0,0.0,1.0
+UCL_8c0248c60d742446,2017-18,2017-09-27,Atlético Madrid,Chelsea,A,-1.0,1.0,2.0,0.0,1.0
+UCL_42ada09aa17f46bf,2017-18,2017-09-27,Basel,Benfica,H,5.0,5.0,0.0,1.0,1.0
+UCL_1c04251f45cb03a4,2017-18,2017-09-27,CSKA Moscow,Manchester United,A,-3.0,1.0,4.0,0.0,1.0
+UCL_2dc77b8f5d2d4395,2017-18,2017-09-27,Juventus,Olympiacos,H,2.0,2.0,0.0,1.0,0.0
+UCL_8283daf64798f398,2017-18,2017-09-27,Paris Saint-Germain,Bayern Munich,H,3.0,3.0,0.0,1.0,1.0
+UCL_1350bfce2c78546a,2017-18,2017-09-27,Sporting CP,Barcelona,A,-1.0,0.0,1.0,0.0,0.0
+UCL_034c9857cd6bf1c6,2017-18,2017-10-17,Feyenoord,Shakhtar Donetsk,A,-1.0,1.0,2.0,0.0,1.0
+UCL_fd5af35786b9ed21,2017-18,2017-10-17,Manchester City,Napoli,H,1.0,2.0,1.0,1.0,1.0
+UCL_bbc4ab89f26d784f,2017-18,2017-10-17,Monaco,Beşiktaş,A,-1.0,1.0,2.0,0.0,1.0
+UCL_50867b0e4ad4190b,2017-18,2017-10-17,RB Leipzig,Porto,H,1.0,3.0,2.0,1.0,1.0
+UCL_f32edc34068369dc,2017-18,2017-10-17,Real Madrid,Tottenham Hotspur,D,0.0,1.0,1.0,0.0,0.0
+UCL_6903bdf712306312,2017-18,2017-10-17,Spartak Moscow,Sevilla,H,4.0,5.0,1.0,1.0,1.0
+UCL_4d48a543a8ee8bb6,2017-18,2017-10-18,Anderlecht,Paris Saint-Germain,A,-4.0,0.0,4.0,0.0,1.0
+UCL_453dba29f6dae6b3,2017-18,2017-10-18,Barcelona,Olympiacos,H,2.0,3.0,1.0,1.0,1.0
+UCL_4db8f88685095747,2017-18,2017-10-18,Bayern Munich,Celtic,H,3.0,3.0,0.0,1.0,1.0
+UCL_ef07473b93092867,2017-18,2017-10-18,Benfica,Manchester United,A,-1.0,0.0,1.0,0.0,0.0
+UCL_a59d1b558990aa5a,2017-18,2017-10-18,CSKA Moscow,Basel,A,-2.0,0.0,2.0,0.0,0.0
+UCL_6ed67804cbd93d88,2017-18,2017-10-18,Chelsea,Roma,D,0.0,3.0,3.0,0.0,1.0
+UCL_eaaa72ae0e96b891,2017-18,2017-10-18,Juventus,Sporting CP,H,1.0,2.0,1.0,1.0,1.0
+UCL_f867885dd7580f26,2017-18,2017-10-31,Basel,CSKA Moscow,A,-1.0,1.0,2.0,0.0,1.0
+UCL_ffa5b81e893e3ec8,2017-18,2017-10-31,Celtic,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d7ae9eca17067963,2017-18,2017-10-31,Manchester United,Benfica,H,2.0,2.0,0.0,1.0,0.0
+UCL_dd7e098b918b0846,2017-18,2017-10-31,Olympiacos,Barcelona,D,0.0,0.0,0.0,0.0,0.0
+UCL_5d503b8a4c6a0c1a,2017-18,2017-10-31,Paris Saint-Germain,Anderlecht,H,5.0,5.0,0.0,1.0,1.0
+UCL_361cf29109a5c830,2017-18,2017-10-31,Roma,Chelsea,H,3.0,3.0,0.0,1.0,1.0
+UCL_8c09abd796dcb4dc,2017-18,2017-10-31,Sporting CP,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_20ed28a7f450ce40,2017-18,2017-11-01,Beşiktaş,Monaco,D,0.0,1.0,1.0,0.0,0.0
+UCL_30488ad8400279c4,2017-18,2017-11-01,Napoli,Manchester City,A,-2.0,2.0,4.0,0.0,1.0
+UCL_f047f69ab00816b3,2017-18,2017-11-01,Porto,RB Leipzig,H,2.0,3.0,1.0,1.0,1.0
+UCL_156cc2d0faabd29b,2017-18,2017-11-01,Sevilla,Spartak Moscow,H,1.0,2.0,1.0,1.0,1.0
+UCL_1422942e562f52e2,2017-18,2017-11-01,Shakhtar Donetsk,Feyenoord,H,2.0,3.0,1.0,1.0,1.0
+UCL_313b6a8620598b4a,2017-18,2017-11-01,Tottenham Hotspur,Real Madrid,H,2.0,3.0,1.0,1.0,1.0
+UCL_7df7283f1d7e85d9,2017-18,2017-11-21,Beşiktaş,Porto,D,0.0,1.0,1.0,0.0,0.0
+UCL_eef583b61ceca907,2017-18,2017-11-21,Borussia Dortmund,Tottenham Hotspur,A,-1.0,1.0,2.0,0.0,1.0
+UCL_af63d13e86427191,2017-18,2017-11-21,Manchester City,Feyenoord,H,1.0,1.0,0.0,1.0,0.0
+UCL_73c53bad7f4644b1,2017-18,2017-11-21,Monaco,RB Leipzig,A,-3.0,1.0,4.0,0.0,1.0
+UCL_58ef5a460ed00353,2017-18,2017-11-21,Napoli,Shakhtar Donetsk,H,3.0,3.0,0.0,1.0,1.0
+UCL_fc0e9377fd43fae9,2017-18,2017-11-21,Sevilla,Liverpool,D,0.0,3.0,3.0,0.0,1.0
+UCL_52e95dbbbbf5738e,2017-18,2017-11-22,Anderlecht,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_f52acda1b91b3995,2017-18,2017-11-22,Atlético Madrid,Roma,H,2.0,2.0,0.0,1.0,0.0
+UCL_3ad37dc13ff50a78,2017-18,2017-11-22,Basel,Manchester United,H,1.0,1.0,0.0,1.0,0.0
+UCL_3c5610783137e087,2017-18,2017-11-22,CSKA Moscow,Benfica,H,2.0,2.0,0.0,1.0,0.0
+UCL_d0b7d9172d0ca300,2017-18,2017-11-22,Juventus,Barcelona,D,0.0,0.0,0.0,0.0,0.0
+UCL_ed20378732c239de,2017-18,2017-11-22,Paris Saint-Germain,Celtic,H,6.0,7.0,1.0,1.0,1.0
+UCL_37c207b592bcbd97,2017-18,2017-11-22,Sporting CP,Olympiacos,H,2.0,3.0,1.0,1.0,1.0
+UCL_6e04c8862f0d0b31,2017-18,2017-12-05,Barcelona,Sporting CP,H,2.0,2.0,0.0,1.0,0.0
+UCL_84603e5bfb98d4d1,2017-18,2017-12-05,Bayern Munich,Paris Saint-Germain,H,2.0,3.0,1.0,1.0,1.0
+UCL_c1be15bb641553da,2017-18,2017-12-05,Benfica,Basel,A,-2.0,0.0,2.0,0.0,0.0
+UCL_4abd208e4cfcda1f,2017-18,2017-12-05,Celtic,Anderlecht,A,-1.0,0.0,1.0,0.0,0.0
+UCL_959632b4c16bdef2,2017-18,2017-12-05,Chelsea,Atlético Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_2d0de4c98bf24440,2017-18,2017-12-05,Manchester United,CSKA Moscow,H,1.0,2.0,1.0,1.0,1.0
+UCL_e8305e7f1d6c536f,2017-18,2017-12-05,Olympiacos,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_afad8ecca68a9bea,2017-18,2017-12-06,Feyenoord,Napoli,H,1.0,2.0,1.0,1.0,1.0
+UCL_5145a9e38e47645c,2017-18,2017-12-06,Liverpool,Spartak Moscow,H,7.0,7.0,0.0,1.0,1.0
+UCL_549e6e5c24804956,2017-18,2017-12-06,Porto,Monaco,H,3.0,5.0,2.0,1.0,1.0
+UCL_cc91e2d719f659fe,2017-18,2017-12-06,RB Leipzig,Beşiktaş,A,-1.0,1.0,2.0,0.0,1.0
+UCL_036d5c70becf148d,2017-18,2017-12-06,Real Madrid,Borussia Dortmund,H,1.0,3.0,2.0,1.0,1.0
+UCL_27ced5eb740d1697,2017-18,2017-12-06,Shakhtar Donetsk,Manchester City,H,1.0,2.0,1.0,1.0,1.0
+UCL_2dfd4331ad012b93,2017-18,2018-02-13,Basel,Manchester City,A,-4.0,0.0,4.0,0.0,1.0
+UCL_5bb84a2db40661eb,2017-18,2018-02-13,Juventus,Tottenham Hotspur,D,0.0,2.0,2.0,0.0,1.0
+UCL_4c3d78c3fb511e3f,2017-18,2018-02-14,Porto,Liverpool,A,-5.0,0.0,5.0,0.0,1.0
+UCL_33a697aac41a83a1,2017-18,2018-02-14,Real Madrid,Paris Saint-Germain,H,2.0,3.0,1.0,1.0,1.0
+UCL_7ce5284faafc1493,2017-18,2018-02-20,Bayern Munich,Beşiktaş,H,5.0,5.0,0.0,1.0,1.0
+UCL_9b64aade3d5807e9,2017-18,2018-02-20,Chelsea,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_e406102671e51e86,2017-18,2018-02-21,Sevilla,Manchester United,D,0.0,0.0,0.0,0.0,0.0
+UCL_17c2117521310af1,2017-18,2018-02-21,Shakhtar Donetsk,Roma,H,1.0,2.0,1.0,1.0,1.0
+UCL_832ecb26d8395dbd,2017-18,2018-03-06,Liverpool,Porto,D,0.0,0.0,0.0,0.0,0.0
+UCL_0aa20389498428b3,2017-18,2018-03-06,Paris Saint-Germain,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d92305000a65995f,2017-18,2018-03-07,Manchester City,Basel,A,-1.0,1.0,2.0,0.0,1.0
+UCL_a17e97dc759f2e10,2017-18,2018-03-07,Tottenham Hotspur,Juventus,A,-1.0,1.0,2.0,0.0,1.0
+UCL_fdb1fe7250c319e0,2017-18,2018-03-13,Manchester United,Sevilla,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d52cdd3efc5d9b84,2017-18,2018-03-13,Roma,Shakhtar Donetsk,H,1.0,1.0,0.0,1.0,0.0
+UCL_f2ea422435a1b058,2017-18,2018-03-14,Barcelona,Chelsea,H,3.0,3.0,0.0,1.0,1.0
+UCL_8dd7cb59a1a0a4ce,2017-18,2018-03-14,Beşiktaş,Bayern Munich,A,-2.0,1.0,3.0,0.0,1.0
+UCL_28e01dedeadfdc10,2017-18,2018-04-03,Juventus,Real Madrid,A,-3.0,0.0,3.0,0.0,1.0
+UCL_b2f097ae49e3b21f,2017-18,2018-04-03,Sevilla,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_2b741f7c403a829e,2017-18,2018-04-04,Barcelona,Roma,H,3.0,4.0,1.0,1.0,1.0
+UCL_75f649b97f6735ed,2017-18,2018-04-04,Liverpool,Manchester City,H,3.0,3.0,0.0,1.0,1.0
+UCL_840f9324dca051d9,2017-18,2018-04-10,Manchester City,Liverpool,A,-1.0,1.0,2.0,0.0,1.0
+UCL_686b75f54f26043b,2017-18,2018-04-10,Roma,Barcelona,H,3.0,3.0,0.0,1.0,1.0
+UCL_a7315428965c5089,2017-18,2018-04-11,Bayern Munich,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_3b639dabea7d2ae8,2017-18,2018-04-11,Real Madrid,Juventus,A,-2.0,1.0,3.0,0.0,1.0
+UCL_04e26a4e8816acec,2017-18,2018-04-24,Liverpool,Roma,H,3.0,5.0,2.0,1.0,1.0
+UCL_7030c43afc6334ab,2017-18,2018-04-25,Bayern Munich,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d96535654c1a8aa0,2017-18,2018-05-01,Real Madrid,Bayern Munich,D,0.0,2.0,2.0,0.0,1.0
+UCL_fa3c571f3e0ebaf5,2017-18,2018-05-02,Roma,Liverpool,H,2.0,4.0,2.0,1.0,1.0
+UCL_2ecdc41677cda5fd,2017-18,2018-05-26,Real Madrid,Liverpool,H,2.0,3.0,1.0,1.0,1.0
+UCL_aa3a0f8c9a648654,2018-19,2018-09-18,Barcelona,PSV Eindhoven,H,4.0,4.0,0.0,1.0,1.0
+UCL_55beb0054ffc2050,2018-19,2018-09-18,Club Brugge,Borussia Dortmund,A,-1.0,0.0,1.0,0.0,0.0
+UCL_e57e0a82df5f1c12,2018-19,2018-09-18,Galatasaray,Lokomotiv Moscow,H,3.0,3.0,0.0,1.0,1.0
+UCL_4c8d0fb718954227,2018-19,2018-09-18,Inter Milan,Tottenham Hotspur,H,1.0,2.0,1.0,1.0,1.0
+UCL_dc38e634ae8beef8,2018-19,2018-09-18,Liverpool,Paris Saint-Germain,H,1.0,3.0,2.0,1.0,1.0
+UCL_25b07bb0ad9fd8b8,2018-19,2018-09-18,Monaco,Atlético Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_327175a7ba31cd83,2018-19,2018-09-18,Schalke 04,Porto,D,0.0,1.0,1.0,0.0,0.0
+UCL_2c18417a99ca1191,2018-19,2018-09-19,Ajax,AEK Athens,H,3.0,3.0,0.0,1.0,1.0
+UCL_419b97f6eb65a1df,2018-19,2018-09-19,Benfica,Bayern Munich,A,-2.0,0.0,2.0,0.0,0.0
+UCL_133ddccf8d1fd09f,2018-19,2018-09-19,Manchester City,Lyon,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c1f5b10e7993fac3,2018-19,2018-09-19,Real Madrid,Roma,H,3.0,3.0,0.0,1.0,1.0
+UCL_2ceb217551a79d21,2018-19,2018-09-19,Shakhtar Donetsk,TSG Hoffenheim,D,0.0,2.0,2.0,0.0,1.0
+UCL_f878f2c7cce2b1cc,2018-19,2018-09-19,Valencia,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_cba965d824e02d12,2018-19,2018-09-19,Viktoria Plzeň,CSKA Moscow,D,0.0,2.0,2.0,0.0,1.0
+UCL_bfba7ec522c49335,2018-19,2018-09-19,Young Boys,Manchester United,A,-3.0,0.0,3.0,0.0,1.0
+UCL_c49c35843908c440,2018-19,2018-10-02,AEK Athens,Benfica,A,-1.0,2.0,3.0,0.0,1.0
+UCL_e7cc2c1842dbb674,2018-19,2018-10-02,Bayern Munich,Ajax,D,0.0,1.0,1.0,0.0,0.0
+UCL_5b295de20063e56f,2018-19,2018-10-02,CSKA Moscow,Real Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_226bc9f3ffd66f69,2018-19,2018-10-02,Juventus,Young Boys,H,3.0,3.0,0.0,1.0,1.0
+UCL_ea46bf10f66d9f3c,2018-19,2018-10-02,Lyon,Shakhtar Donetsk,D,0.0,2.0,2.0,0.0,1.0
+UCL_a8c96cb7e61234bf,2018-19,2018-10-02,Manchester United,Valencia,D,0.0,0.0,0.0,0.0,0.0
+UCL_bdf9591140631545,2018-19,2018-10-02,Roma,Viktoria Plzeň,H,5.0,5.0,0.0,1.0,1.0
+UCL_f9d02b976b569dac,2018-19,2018-10-02,TSG Hoffenheim,Manchester City,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e0e587c20a508241,2018-19,2018-10-03,Atlético Madrid,Club Brugge,H,2.0,3.0,1.0,1.0,1.0
+UCL_2134e2207315a238,2018-19,2018-10-03,Borussia Dortmund,Monaco,H,3.0,3.0,0.0,1.0,1.0
+UCL_af1ad4070446bb05,2018-19,2018-10-03,Lokomotiv Moscow,Schalke 04,A,-1.0,0.0,1.0,0.0,0.0
+UCL_4e0cbc3c7d6035c6,2018-19,2018-10-03,Napoli,Liverpool,H,1.0,1.0,0.0,1.0,0.0
+UCL_afbf80edd5d29301,2018-19,2018-10-03,PSV Eindhoven,Inter Milan,A,-1.0,1.0,2.0,0.0,1.0
+UCL_ccd3e5bf2a305bb8,2018-19,2018-10-03,Porto,Galatasaray,H,1.0,1.0,0.0,1.0,0.0
+UCL_f7a78a3220ec617b,2018-19,2018-10-03,Tottenham Hotspur,Barcelona,A,-2.0,2.0,4.0,0.0,1.0
+UCL_fe9ecd4a7267519a,2018-19,2018-10-23,AEK Athens,Bayern Munich,A,-2.0,0.0,2.0,0.0,0.0
+UCL_2f18af8dc2f553ca,2018-19,2018-10-23,Ajax,Benfica,H,1.0,1.0,0.0,1.0,0.0
+UCL_73fe2955c99933ae,2018-19,2018-10-23,Manchester United,Juventus,A,-1.0,0.0,1.0,0.0,0.0
+UCL_b62d5b6b58b012c8,2018-19,2018-10-23,Real Madrid,Viktoria Plzeň,H,1.0,2.0,1.0,1.0,1.0
+UCL_fe6504468b640fef,2018-19,2018-10-23,Roma,CSKA Moscow,H,3.0,3.0,0.0,1.0,1.0
+UCL_5f25ce33580f6bfc,2018-19,2018-10-23,Shakhtar Donetsk,Manchester City,A,-3.0,0.0,3.0,0.0,1.0
+UCL_2f402a1011479c8d,2018-19,2018-10-23,TSG Hoffenheim,Lyon,D,0.0,3.0,3.0,0.0,1.0
+UCL_e31b331d3bd8c613,2018-19,2018-10-23,Young Boys,Valencia,D,0.0,1.0,1.0,0.0,0.0
+UCL_43d9721350ae7d72,2018-19,2018-10-24,Barcelona,Inter Milan,H,2.0,2.0,0.0,1.0,0.0
+UCL_e7ce7f7f772eefe0,2018-19,2018-10-24,Borussia Dortmund,Atlético Madrid,H,4.0,4.0,0.0,1.0,1.0
+UCL_d0a253871ed75984,2018-19,2018-10-24,Club Brugge,Monaco,D,0.0,1.0,1.0,0.0,0.0
+UCL_f2f5e4dccbf25e43,2018-19,2018-10-24,Galatasaray,Schalke 04,D,0.0,0.0,0.0,0.0,0.0
+UCL_044fcd32b055e9ce,2018-19,2018-10-24,Lokomotiv Moscow,Porto,A,-2.0,1.0,3.0,0.0,1.0
+UCL_3df37dbc9825fc69,2018-19,2018-10-24,PSV Eindhoven,Tottenham Hotspur,D,0.0,2.0,2.0,0.0,1.0
+UCL_f3c36b23dc475536,2018-19,2018-10-24,Paris Saint-Germain,Napoli,D,0.0,2.0,2.0,0.0,1.0
+UCL_60b7a9251b46c904,2018-19,2018-11-06,Atlético Madrid,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_7cce262c8d9a8fcf,2018-19,2018-11-06,Inter Milan,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_2e305014ed58b016,2018-19,2018-11-06,Monaco,Club Brugge,A,-4.0,0.0,4.0,0.0,1.0
+UCL_d0d69f2869a1c377,2018-19,2018-11-06,Napoli,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_d276be0d5dad36b3,2018-19,2018-11-06,Porto,Lokomotiv Moscow,H,3.0,4.0,1.0,1.0,1.0
+UCL_85e296bd10664bd0,2018-19,2018-11-06,Schalke 04,Galatasaray,H,2.0,2.0,0.0,1.0,0.0
+UCL_a7956b682cbaea09,2018-19,2018-11-06,Tottenham Hotspur,PSV Eindhoven,H,1.0,2.0,1.0,1.0,1.0
+UCL_a7b041e1250c4d43,2018-19,2018-11-07,Bayern Munich,AEK Athens,H,2.0,2.0,0.0,1.0,0.0
+UCL_df1c75ed62242694,2018-19,2018-11-07,Benfica,Ajax,D,0.0,1.0,1.0,0.0,0.0
+UCL_090a24d479a83729,2018-19,2018-11-07,CSKA Moscow,Roma,A,-1.0,1.0,2.0,0.0,1.0
+UCL_3468c5592c0daa58,2018-19,2018-11-07,Juventus,Manchester United,A,-1.0,1.0,2.0,0.0,1.0
+UCL_20291350f9259581,2018-19,2018-11-07,Lyon,TSG Hoffenheim,D,0.0,2.0,2.0,0.0,1.0
+UCL_a7fc966747199476,2018-19,2018-11-07,Manchester City,Shakhtar Donetsk,H,6.0,6.0,0.0,1.0,1.0
+UCL_c8601c5996987794,2018-19,2018-11-07,Valencia,Young Boys,H,2.0,3.0,1.0,1.0,1.0
+UCL_7974b345f80e6f26,2018-19,2018-11-07,Viktoria Plzeň,Real Madrid,A,-5.0,0.0,5.0,0.0,1.0
+UCL_2668f91776f1aa36,2018-19,2018-11-27,AEK Athens,Ajax,A,-2.0,0.0,2.0,0.0,0.0
+UCL_178ad7d710181ce7,2018-19,2018-11-27,Bayern Munich,Benfica,H,4.0,5.0,1.0,1.0,1.0
+UCL_4e29f6c8593b5271,2018-19,2018-11-27,CSKA Moscow,Viktoria Plzeň,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c5ff0f8fb257c237,2018-19,2018-11-27,Juventus,Valencia,H,1.0,1.0,0.0,1.0,0.0
+UCL_46a31a38619c7154,2018-19,2018-11-27,Lyon,Manchester City,D,0.0,2.0,2.0,0.0,1.0
+UCL_1a87c19a1a3a16f1,2018-19,2018-11-27,Manchester United,Young Boys,H,1.0,1.0,0.0,1.0,0.0
+UCL_016ce97ab94645d7,2018-19,2018-11-27,Roma,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_3f1eb2e94cacb118,2018-19,2018-11-27,TSG Hoffenheim,Shakhtar Donetsk,A,-1.0,2.0,3.0,0.0,1.0
+UCL_7815818726aeb97c,2018-19,2018-11-28,Atlético Madrid,Monaco,H,2.0,2.0,0.0,1.0,0.0
+UCL_a803cec99dc2ccd6,2018-19,2018-11-28,Borussia Dortmund,Club Brugge,D,0.0,0.0,0.0,0.0,0.0
+UCL_0204222b44a8d63c,2018-19,2018-11-28,Lokomotiv Moscow,Galatasaray,H,2.0,2.0,0.0,1.0,0.0
+UCL_7bad16284b09eee3,2018-19,2018-11-28,PSV Eindhoven,Barcelona,A,-1.0,1.0,2.0,0.0,1.0
+UCL_bd5e15454249d48d,2018-19,2018-11-28,Paris Saint-Germain,Liverpool,H,1.0,2.0,1.0,1.0,1.0
+UCL_dbf4c3837574bff9,2018-19,2018-11-28,Porto,Schalke 04,H,2.0,3.0,1.0,1.0,1.0
+UCL_67ea11e41a8d94fa,2018-19,2018-11-28,Tottenham Hotspur,Inter Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_8bd343259eb68363,2018-19,2018-12-11,Barcelona,Tottenham Hotspur,D,0.0,1.0,1.0,0.0,0.0
+UCL_e7552d2563c6fc81,2018-19,2018-12-11,Club Brugge,Atlético Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_b5cbc7f30899453f,2018-19,2018-12-11,Galatasaray,Porto,A,-1.0,2.0,3.0,0.0,1.0
+UCL_836a32df9c248f64,2018-19,2018-12-11,Inter Milan,PSV Eindhoven,D,0.0,1.0,1.0,0.0,0.0
+UCL_fd81d06f7ab08a2a,2018-19,2018-12-11,Liverpool,Napoli,H,1.0,1.0,0.0,1.0,0.0
+UCL_e23fdb5fd3081dfd,2018-19,2018-12-11,Monaco,Borussia Dortmund,A,-2.0,0.0,2.0,0.0,0.0
+UCL_c5cb1bfb45965e95,2018-19,2018-12-11,Schalke 04,Lokomotiv Moscow,H,1.0,1.0,0.0,1.0,0.0
+UCL_59fe6a43a4015774,2018-19,2018-12-12,Ajax,Bayern Munich,D,0.0,3.0,3.0,0.0,1.0
+UCL_e3ee299eaab4b4a5,2018-19,2018-12-12,Benfica,AEK Athens,H,1.0,1.0,0.0,1.0,0.0
+UCL_6f2469e9c1ccea23,2018-19,2018-12-12,Manchester City,TSG Hoffenheim,H,1.0,2.0,1.0,1.0,1.0
+UCL_993f207351861630,2018-19,2018-12-12,Real Madrid,CSKA Moscow,A,-3.0,0.0,3.0,0.0,1.0
+UCL_b6d1aec730428e7a,2018-19,2018-12-12,Shakhtar Donetsk,Lyon,D,0.0,1.0,1.0,0.0,0.0
+UCL_cc658440e0a59c8d,2018-19,2018-12-12,Valencia,Manchester United,H,1.0,2.0,1.0,1.0,1.0
+UCL_f6c64b21b7d87d30,2018-19,2018-12-12,Viktoria Plzeň,Roma,H,1.0,2.0,1.0,1.0,1.0
+UCL_e2f8e5036da8f8e5,2018-19,2018-12-12,Young Boys,Juventus,H,1.0,2.0,1.0,1.0,1.0
+UCL_0cc292dbf97f0a5a,2018-19,2019-02-12,Manchester United,Paris Saint-Germain,A,-2.0,0.0,2.0,0.0,0.0
+UCL_d0267a427396afe5,2018-19,2019-02-12,Roma,Porto,H,1.0,2.0,1.0,1.0,1.0
+UCL_c9b60f5f409f2ffd,2018-19,2019-02-13,Ajax,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_10a20bbdd151c253,2018-19,2019-02-13,Tottenham Hotspur,Borussia Dortmund,H,3.0,3.0,0.0,1.0,1.0
+UCL_3abea0c947eb09c6,2018-19,2019-02-19,Liverpool,Bayern Munich,D,0.0,0.0,0.0,0.0,0.0
+UCL_034c93fc773da6c8,2018-19,2019-02-19,Lyon,Barcelona,D,0.0,0.0,0.0,0.0,0.0
+UCL_defe73cd67f208ee,2018-19,2019-02-20,Atlético Madrid,Juventus,H,2.0,2.0,0.0,1.0,0.0
+UCL_3f7dd2959252ff9b,2018-19,2019-02-20,Schalke 04,Manchester City,A,-1.0,2.0,3.0,0.0,1.0
+UCL_1bf917ef92840793,2018-19,2019-03-05,Borussia Dortmund,Tottenham Hotspur,A,-1.0,0.0,1.0,0.0,0.0
+UCL_c14a8a5aa318dcf0,2018-19,2019-03-05,Real Madrid,Ajax,A,-3.0,1.0,4.0,0.0,1.0
+UCL_f040be857d756115,2018-19,2019-03-06,Paris Saint-Germain,Manchester United,A,-2.0,1.0,3.0,0.0,1.0
+UCL_ebd55d9c5c7dc69c,2018-19,2019-03-06,Porto,Roma,H,1.0,2.0,1.0,1.0,1.0
+UCL_9bed73db045524c6,2018-19,2019-03-12,Juventus,Atlético Madrid,H,3.0,3.0,0.0,1.0,1.0
+UCL_901f0c96af4d5047,2018-19,2019-03-12,Manchester City,Schalke 04,H,7.0,7.0,0.0,1.0,1.0
+UCL_91fde8d44b4fde7a,2018-19,2019-03-13,Barcelona,Lyon,H,4.0,5.0,1.0,1.0,1.0
+UCL_3732b3e088e54344,2018-19,2019-03-13,Bayern Munich,Liverpool,A,-2.0,1.0,3.0,0.0,1.0
+UCL_3f1bad289c74522f,2018-19,2019-04-09,Liverpool,Porto,H,2.0,2.0,0.0,1.0,0.0
+UCL_2251d037e33d7527,2018-19,2019-04-09,Tottenham Hotspur,Manchester City,H,1.0,1.0,0.0,1.0,0.0
+UCL_e4e4dd4c3942df34,2018-19,2019-04-10,Ajax,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_2f8b1f88ea58f78a,2018-19,2019-04-10,Manchester United,Barcelona,A,-1.0,0.0,1.0,0.0,0.0
+UCL_3698c9a273e626ea,2018-19,2019-04-16,Barcelona,Manchester United,H,3.0,3.0,0.0,1.0,1.0
+UCL_860ba4c7a53858be,2018-19,2019-04-16,Juventus,Ajax,A,-1.0,1.0,2.0,0.0,1.0
+UCL_38dd1d3b7b3dccb8,2018-19,2019-04-17,Manchester City,Tottenham Hotspur,H,1.0,4.0,3.0,1.0,1.0
+UCL_a2d8d32a16674629,2018-19,2019-04-17,Porto,Liverpool,A,-3.0,1.0,4.0,0.0,1.0
+UCL_2fa1fa91a0e6bedc,2018-19,2019-04-30,Tottenham Hotspur,Ajax,A,-1.0,0.0,1.0,0.0,0.0
+UCL_202fe1a27e258ea1,2018-19,2019-05-01,Barcelona,Liverpool,H,3.0,3.0,0.0,1.0,1.0
+UCL_c5fb99a8f45cf0f8,2018-19,2019-05-07,Liverpool,Barcelona,H,4.0,4.0,0.0,1.0,1.0
+UCL_a602bf9af4b3659c,2018-19,2019-05-08,Ajax,Tottenham Hotspur,A,-1.0,2.0,3.0,0.0,1.0
+UCL_128686f3c7029147,2018-19,2019-06-01,Tottenham Hotspur,Liverpool,A,-2.0,0.0,2.0,0.0,0.0
+UCL_0f8e332a57fa38cc,2019-20,2019-09-17,Ajax,Lille,H,3.0,3.0,0.0,1.0,1.0
+UCL_f0d977191e9fc9eb,2019-20,2019-09-17,Benfica,RB Leipzig,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d293d31b45721fcc,2019-20,2019-09-17,Borussia Dortmund,Barcelona,D,0.0,0.0,0.0,0.0,0.0
+UCL_f41b96bb4f1624dc,2019-20,2019-09-17,Chelsea,Valencia,A,-1.0,0.0,1.0,0.0,0.0
+UCL_69cd6726642f4942,2019-20,2019-09-17,Inter Milan,Slavia Prague,D,0.0,1.0,1.0,0.0,0.0
+UCL_339e3cc4bc01c3dc,2019-20,2019-09-17,Napoli,Liverpool,H,2.0,2.0,0.0,1.0,0.0
+UCL_58cc1cf34d69f98d,2019-20,2019-09-17,Red Bull Salzburg,Genk,H,4.0,6.0,2.0,1.0,1.0
+UCL_800d504684ddd8a2,2019-20,2019-09-18,Atlético Madrid,Juventus,D,0.0,2.0,2.0,0.0,1.0
+UCL_b3167d5013b05941,2019-20,2019-09-18,Bayer Leverkusen,Lokomotiv Moscow,A,-1.0,1.0,2.0,0.0,1.0
+UCL_109471c925fabb75,2019-20,2019-09-18,Club Brugge,Galatasaray,D,0.0,0.0,0.0,0.0,0.0
+UCL_7884493428bdc8f4,2019-20,2019-09-18,Dinamo Zagreb,Atalanta,H,4.0,4.0,0.0,1.0,1.0
+UCL_022964a9915928c6,2019-20,2019-09-18,Olympiacos,Tottenham Hotspur,D,0.0,2.0,2.0,0.0,1.0
+UCL_3f43cc7c27aab1e6,2019-20,2019-09-18,Paris Saint-Germain,Real Madrid,H,3.0,3.0,0.0,1.0,1.0
+UCL_0095c23944c84b46,2019-20,2019-09-18,Shakhtar Donetsk,Manchester City,A,-3.0,0.0,3.0,0.0,1.0
+UCL_1d700a7b744dba1d,2019-20,2019-10-01,Atalanta,Shakhtar Donetsk,A,-1.0,1.0,2.0,0.0,1.0
+UCL_70faab4a37dc0ca7,2019-20,2019-10-01,Galatasaray,Paris Saint-Germain,A,-1.0,0.0,1.0,0.0,0.0
+UCL_ffed6daa1731f3a5,2019-20,2019-10-01,Juventus,Bayer Leverkusen,H,3.0,3.0,0.0,1.0,1.0
+UCL_536d2d36a488ad9c,2019-20,2019-10-01,Lokomotiv Moscow,Atlético Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_e838f6bfe76b6c26,2019-20,2019-10-01,Manchester City,Dinamo Zagreb,H,2.0,2.0,0.0,1.0,0.0
+UCL_ddf1fd211818da33,2019-20,2019-10-01,Real Madrid,Club Brugge,D,0.0,2.0,2.0,0.0,1.0
+UCL_9fea5210148136a9,2019-20,2019-10-01,Tottenham Hotspur,Bayern Munich,A,-5.0,2.0,7.0,0.0,1.0
+UCL_71a938a1c43a96b0,2019-20,2019-10-02,Barcelona,Inter Milan,H,1.0,2.0,1.0,1.0,1.0
+UCL_036e70409e1b6aef,2019-20,2019-10-02,Genk,Napoli,D,0.0,0.0,0.0,0.0,0.0
+UCL_8b131b7748c9cdeb,2019-20,2019-10-02,Lille,Chelsea,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c1cd68b964104982,2019-20,2019-10-02,Liverpool,Red Bull Salzburg,H,1.0,4.0,3.0,1.0,1.0
+UCL_19d207a9d5edec11,2019-20,2019-10-02,RB Leipzig,Lyon,A,-2.0,0.0,2.0,0.0,0.0
+UCL_5d01895435b4b57b,2019-20,2019-10-02,Slavia Prague,Borussia Dortmund,A,-2.0,0.0,2.0,0.0,0.0
+UCL_3ccda19fc621b230,2019-20,2019-10-02,Valencia,Ajax,A,-3.0,0.0,3.0,0.0,1.0
+UCL_5a6963b9d283475d,2019-20,2019-10-22,Atlético Madrid,Bayer Leverkusen,H,1.0,1.0,0.0,1.0,0.0
+UCL_2ad5f523896bb037,2019-20,2019-10-22,Club Brugge,Paris Saint-Germain,A,-5.0,0.0,5.0,0.0,1.0
+UCL_07572ca61ef24bbf,2019-20,2019-10-22,Galatasaray,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_92d774dadacba9cc,2019-20,2019-10-22,Juventus,Lokomotiv Moscow,H,1.0,2.0,1.0,1.0,1.0
+UCL_f0824290c3c47b31,2019-20,2019-10-22,Manchester City,Atalanta,H,4.0,5.0,1.0,1.0,1.0
+UCL_998e64b90bf35168,2019-20,2019-10-22,Olympiacos,Bayern Munich,A,-1.0,2.0,3.0,0.0,1.0
+UCL_33ee54706a707025,2019-20,2019-10-22,Shakhtar Donetsk,Dinamo Zagreb,D,0.0,2.0,2.0,0.0,1.0
+UCL_1de7b97520258ec1,2019-20,2019-10-23,Ajax,Chelsea,A,-1.0,0.0,1.0,0.0,0.0
+UCL_4021b78939a9a1f5,2019-20,2019-10-23,Benfica,Lyon,H,1.0,2.0,1.0,1.0,1.0
+UCL_c92423affee14b04,2019-20,2019-10-23,Genk,Liverpool,A,-3.0,1.0,4.0,0.0,1.0
+UCL_03223247245454e5,2019-20,2019-10-23,Inter Milan,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_a1c13c346407ac36,2019-20,2019-10-23,Lille,Valencia,D,0.0,1.0,1.0,0.0,0.0
+UCL_d7d6d7759289cba6,2019-20,2019-10-23,Red Bull Salzburg,Napoli,A,-1.0,2.0,3.0,0.0,1.0
+UCL_5ef836ac8a6f7a74,2019-20,2019-10-23,Slavia Prague,Barcelona,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e8c1942b2d663e66,2019-20,2019-11-05,Barcelona,Slavia Prague,D,0.0,0.0,0.0,0.0,0.0
+UCL_f3b5b886ea8899f9,2019-20,2019-11-05,Borussia Dortmund,Inter Milan,H,1.0,3.0,2.0,1.0,1.0
+UCL_683936ee919aa227,2019-20,2019-11-05,Chelsea,Ajax,D,0.0,4.0,4.0,0.0,1.0
+UCL_6ab390243dcad9fe,2019-20,2019-11-05,Liverpool,Genk,H,1.0,2.0,1.0,1.0,1.0
+UCL_56a8fc3061826f50,2019-20,2019-11-05,Lyon,Benfica,H,2.0,3.0,1.0,1.0,1.0
+UCL_b34cfada8793848c,2019-20,2019-11-05,Napoli,Red Bull Salzburg,D,0.0,1.0,1.0,0.0,0.0
+UCL_721b79fdc7b19feb,2019-20,2019-11-05,Valencia,Lille,H,3.0,4.0,1.0,1.0,1.0
+UCL_29c9563e4b4306f3,2019-20,2019-11-06,Atalanta,Manchester City,D,0.0,1.0,1.0,0.0,0.0
+UCL_187accc2afef73ac,2019-20,2019-11-06,Bayer Leverkusen,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_6118c02a335152a4,2019-20,2019-11-06,Bayern Munich,Olympiacos,H,2.0,2.0,0.0,1.0,0.0
+UCL_1c60a50644b263af,2019-20,2019-11-06,Dinamo Zagreb,Shakhtar Donetsk,D,0.0,3.0,3.0,0.0,1.0
+UCL_9eff2fc8da053589,2019-20,2019-11-06,Lokomotiv Moscow,Juventus,A,-1.0,1.0,2.0,0.0,1.0
+UCL_77eb2ea6c649fe9f,2019-20,2019-11-06,Paris Saint-Germain,Club Brugge,H,1.0,1.0,0.0,1.0,0.0
+UCL_8d80bb7428998606,2019-20,2019-11-06,Real Madrid,Galatasaray,H,6.0,6.0,0.0,1.0,1.0
+UCL_5fc6f0aa8b3dd2fe,2019-20,2019-11-26,Atalanta,Dinamo Zagreb,H,2.0,2.0,0.0,1.0,0.0
+UCL_8ad321bd83d49588,2019-20,2019-11-26,Galatasaray,Club Brugge,D,0.0,1.0,1.0,0.0,0.0
+UCL_9a62572044e2afca,2019-20,2019-11-26,Juventus,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_0d20de1755747fe3,2019-20,2019-11-26,Lokomotiv Moscow,Bayer Leverkusen,A,-2.0,0.0,2.0,0.0,0.0
+UCL_bb150720d4bb084b,2019-20,2019-11-26,Manchester City,Shakhtar Donetsk,D,0.0,1.0,1.0,0.0,0.0
+UCL_0ad7eaaf3639207e,2019-20,2019-11-26,Real Madrid,Paris Saint-Germain,D,0.0,2.0,2.0,0.0,1.0
+UCL_f6822a12eec82e15,2019-20,2019-11-26,Tottenham Hotspur,Olympiacos,H,2.0,4.0,2.0,1.0,1.0
+UCL_a4ec21daf8684a17,2019-20,2019-11-27,Barcelona,Borussia Dortmund,H,2.0,3.0,1.0,1.0,1.0
+UCL_4aeea425a7e76181,2019-20,2019-11-27,Genk,Red Bull Salzburg,A,-3.0,1.0,4.0,0.0,1.0
+UCL_bbb14f88c6f67bb9,2019-20,2019-11-27,Lille,Ajax,A,-2.0,0.0,2.0,0.0,0.0
+UCL_17509a08d98edc83,2019-20,2019-11-27,Liverpool,Napoli,D,0.0,1.0,1.0,0.0,0.0
+UCL_4bb95f51b8c502d5,2019-20,2019-11-27,RB Leipzig,Benfica,D,0.0,2.0,2.0,0.0,1.0
+UCL_561c50c26ab208ec,2019-20,2019-11-27,Slavia Prague,Inter Milan,A,-2.0,1.0,3.0,0.0,1.0
+UCL_bc3f3914b41aef3c,2019-20,2019-11-27,Valencia,Chelsea,D,0.0,2.0,2.0,0.0,1.0
+UCL_620ec016f6cc23fd,2019-20,2019-12-10,Ajax,Valencia,A,-1.0,0.0,1.0,0.0,0.0
+UCL_679527b6a21e8c97,2019-20,2019-12-10,Borussia Dortmund,Slavia Prague,H,1.0,2.0,1.0,1.0,1.0
+UCL_66c55a63241a1b0d,2019-20,2019-12-10,Chelsea,Lille,H,1.0,2.0,1.0,1.0,1.0
+UCL_5d6e71e0e63bf8cc,2019-20,2019-12-10,Inter Milan,Barcelona,A,-1.0,1.0,2.0,0.0,1.0
+UCL_b42055106840f662,2019-20,2019-12-10,Lyon,RB Leipzig,D,0.0,2.0,2.0,0.0,1.0
+UCL_6017341121086ace,2019-20,2019-12-10,Napoli,Genk,H,4.0,4.0,0.0,1.0,1.0
+UCL_95d08cf8f46cf4da,2019-20,2019-12-10,Red Bull Salzburg,Liverpool,A,-2.0,0.0,2.0,0.0,0.0
+UCL_2f187056b752f627,2019-20,2019-12-11,Atlético Madrid,Lokomotiv Moscow,H,2.0,2.0,0.0,1.0,0.0
+UCL_51ce4e2ee0673d83,2019-20,2019-12-11,Bayer Leverkusen,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_e068f8f673ff116e,2019-20,2019-12-11,Bayern Munich,Tottenham Hotspur,H,2.0,3.0,1.0,1.0,1.0
+UCL_608974469ae21362,2019-20,2019-12-11,Club Brugge,Real Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_9ad6501362b52ee5,2019-20,2019-12-11,Dinamo Zagreb,Manchester City,A,-3.0,1.0,4.0,0.0,1.0
+UCL_daf2b8fd105e43c6,2019-20,2019-12-11,Paris Saint-Germain,Galatasaray,H,5.0,5.0,0.0,1.0,1.0
+UCL_29f4fb30ab9e4a41,2019-20,2019-12-11,Shakhtar Donetsk,Atalanta,A,-3.0,0.0,3.0,0.0,1.0
+UCL_a20ccfe61f1934a8,2019-20,2020-02-18,Atlético Madrid,Liverpool,H,1.0,1.0,0.0,1.0,0.0
+UCL_c343baa713a9dd16,2019-20,2020-02-18,Borussia Dortmund,Paris Saint-Germain,H,1.0,2.0,1.0,1.0,1.0
+UCL_6c859859eb940e47,2019-20,2020-02-19,Atalanta,Valencia,H,3.0,4.0,1.0,1.0,1.0
+UCL_6fb6dcbf9083e521,2019-20,2020-02-19,Tottenham Hotspur,RB Leipzig,A,-1.0,0.0,1.0,0.0,0.0
+UCL_6996955e44d6610d,2019-20,2020-02-25,Chelsea,Bayern Munich,A,-3.0,0.0,3.0,0.0,1.0
+UCL_34683b05476db17a,2019-20,2020-02-25,Napoli,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_1ef60f6313d397d5,2019-20,2020-02-26,Lyon,Juventus,H,1.0,1.0,0.0,1.0,0.0
+UCL_32693ff31dfb5761,2019-20,2020-02-26,Real Madrid,Manchester City,A,-1.0,1.0,2.0,0.0,1.0
+UCL_2be230bd507efb10,2019-20,2020-03-10,RB Leipzig,Tottenham Hotspur,H,3.0,3.0,0.0,1.0,1.0
+UCL_c09bd8383d47937e,2019-20,2020-03-10,Valencia,Atalanta,A,-1.0,3.0,4.0,0.0,1.0
+UCL_dc05a68c33fede00,2019-20,2020-03-11,Liverpool,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_3cc8f69ad960d7ac,2019-20,2020-03-11,Paris Saint-Germain,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_bb1e7a596c597e8a,2019-20,2020-08-07,Juventus,Lyon,H,1.0,2.0,1.0,1.0,1.0
+UCL_4340f0cce16466c2,2019-20,2020-08-07,Manchester City,Real Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_2c343f9efe514122,2019-20,2020-08-08,Barcelona,Napoli,H,2.0,3.0,1.0,1.0,1.0
+UCL_f1110e377e694dca,2019-20,2020-08-08,Bayern Munich,Chelsea,H,3.0,4.0,1.0,1.0,1.0
+UCL_27bd15f559cec9f7,2019-20,2020-08-12,Atalanta,Paris Saint-Germain,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c1e2f2d7722e9e90,2019-20,2020-08-13,RB Leipzig,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_ed92282753548c2c,2019-20,2020-08-14,Barcelona,Bayern Munich,A,-6.0,2.0,8.0,0.0,1.0
+UCL_52050a606e700a41,2019-20,2020-08-15,Manchester City,Lyon,A,-2.0,1.0,3.0,0.0,1.0
+UCL_2a461b47909827e8,2019-20,2020-08-18,RB Leipzig,Paris Saint-Germain,A,-3.0,0.0,3.0,0.0,1.0
+UCL_8b5439eee64ce676,2019-20,2020-08-19,Lyon,Bayern Munich,A,-3.0,0.0,3.0,0.0,1.0
+UCL_945377584b985238,2019-20,2020-08-23,Paris Saint-Germain,Bayern Munich,A,-1.0,0.0,1.0,0.0,0.0
+UCL_01589305fc0addc8,2020-21,2020-10-20,Chelsea,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_f0450cd51ef2ab14,2020-21,2020-10-20,Dynamo Kyiv,Juventus,A,-2.0,0.0,2.0,0.0,0.0
+UCL_0f0bb60e10bf47bd,2020-21,2020-10-20,Lazio,Borussia Dortmund,H,2.0,3.0,1.0,1.0,1.0
+UCL_fc912740cdace62c,2020-21,2020-10-20,Paris Saint-Germain,Manchester United,A,-1.0,1.0,2.0,0.0,1.0
+UCL_6176f090d1dc2af8,2020-21,2020-10-20,RB Leipzig,İstanbul Başakşehir,H,2.0,2.0,0.0,1.0,0.0
+UCL_5f3291276f4e3ba1,2020-21,2020-10-21,Ajax,Liverpool,A,-1.0,0.0,1.0,0.0,0.0
+UCL_58ee6b03c2c1ab5b,2020-21,2020-10-21,Bayern Munich,Atlético Madrid,H,4.0,4.0,0.0,1.0,1.0
+UCL_c070f2588f323f24,2020-21,2020-10-21,Inter Milan,Borussia Mönchengladbach,D,0.0,2.0,2.0,0.0,1.0
+UCL_e003efda888a34ca,2020-21,2020-10-21,Manchester City,Porto,H,2.0,3.0,1.0,1.0,1.0
+UCL_df8d32c573c10697,2020-21,2020-10-21,Midtjylland,Atalanta,A,-4.0,0.0,4.0,0.0,1.0
+UCL_02f23d2e5f5bc4db,2020-21,2020-10-21,Olympiacos,Marseille,H,1.0,1.0,0.0,1.0,0.0
+UCL_e40422a6f7dae08e,2020-21,2020-10-21,Real Madrid,Shakhtar Donetsk,A,-1.0,2.0,3.0,0.0,1.0
+UCL_0ecaf59be367f7f0,2020-21,2020-10-21,Red Bull Salzburg,Lokomotiv Moscow,D,0.0,2.0,2.0,0.0,1.0
+UCL_5739577618bdcc22,2020-21,2020-10-27,Atalanta,Ajax,D,0.0,2.0,2.0,0.0,1.0
+UCL_fe8d8193ed634593,2020-21,2020-10-27,Atlético Madrid,Red Bull Salzburg,H,1.0,3.0,2.0,1.0,1.0
+UCL_9857015a24aba25a,2020-21,2020-10-27,Borussia Mönchengladbach,Real Madrid,D,0.0,2.0,2.0,0.0,1.0
+UCL_9899fc6dd4a6d3e4,2020-21,2020-10-27,Liverpool,Midtjylland,H,2.0,2.0,0.0,1.0,0.0
+UCL_069912dd94367e21,2020-21,2020-10-27,Lokomotiv Moscow,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_0a64f56f5e0df53d,2020-21,2020-10-27,Marseille,Manchester City,A,-3.0,0.0,3.0,0.0,1.0
+UCL_c55be171ae78d6b2,2020-21,2020-10-27,Porto,Olympiacos,H,2.0,2.0,0.0,1.0,0.0
+UCL_cdfdb6672754759e,2020-21,2020-10-27,Shakhtar Donetsk,Inter Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_373eda9a8ad43010,2020-21,2020-10-28,Club Brugge,Lazio,D,0.0,1.0,1.0,0.0,0.0
+UCL_4b5616dccff9bcaa,2020-21,2020-10-28,Juventus,Barcelona,A,-2.0,0.0,2.0,0.0,0.0
+UCL_130c6f6e5c4b6508,2020-21,2020-10-28,Manchester United,RB Leipzig,H,5.0,5.0,0.0,1.0,1.0
+UCL_5fef09a613b15538,2020-21,2020-10-28,Sevilla,Rennes,H,1.0,1.0,0.0,1.0,0.0
+UCL_9582a14ccb66a93d,2020-21,2020-10-28,İstanbul Başakşehir,Paris Saint-Germain,A,-2.0,0.0,2.0,0.0,0.0
+UCL_ab0bf5c73a1433c7,2020-21,2020-11-03,Atalanta,Liverpool,A,-5.0,0.0,5.0,0.0,1.0
+UCL_091a624ce5e11197,2020-21,2020-11-03,Lokomotiv Moscow,Atlético Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_2f5527ecf7930ed0,2020-21,2020-11-03,Manchester City,Olympiacos,H,3.0,3.0,0.0,1.0,1.0
+UCL_3cb0dbd435da2571,2020-21,2020-11-03,Midtjylland,Ajax,A,-1.0,1.0,2.0,0.0,1.0
+UCL_2569f2e9bf63891b,2020-21,2020-11-03,Porto,Marseille,H,3.0,3.0,0.0,1.0,1.0
+UCL_cf7cee9942d927b4,2020-21,2020-11-03,Real Madrid,Inter Milan,H,1.0,3.0,2.0,1.0,1.0
+UCL_e9a07642614fbd32,2020-21,2020-11-03,Red Bull Salzburg,Bayern Munich,A,-4.0,2.0,6.0,0.0,1.0
+UCL_8f827ce5bf0835ef,2020-21,2020-11-03,Shakhtar Donetsk,Borussia Mönchengladbach,A,-6.0,0.0,6.0,0.0,1.0
+UCL_640b73ed34e080a7,2020-21,2020-11-04,Barcelona,Dynamo Kyiv,H,1.0,2.0,1.0,1.0,1.0
+UCL_3bfa00d2e9e45681,2020-21,2020-11-04,Chelsea,Rennes,H,3.0,3.0,0.0,1.0,1.0
+UCL_1f05783487f1652d,2020-21,2020-11-04,Club Brugge,Borussia Dortmund,A,-3.0,0.0,3.0,0.0,1.0
+UCL_1e46ce28f36821d0,2020-21,2020-11-04,RB Leipzig,Paris Saint-Germain,H,1.0,2.0,1.0,1.0,1.0
+UCL_573a08d4ef0589e5,2020-21,2020-11-04,İstanbul Başakşehir,Manchester United,H,1.0,2.0,1.0,1.0,1.0
+UCL_ee1d1bb296fd5980,2020-21,2020-11-24,Borussia Dortmund,Club Brugge,H,3.0,3.0,0.0,1.0,1.0
+UCL_3536995b007e3780,2020-21,2020-11-24,Dynamo Kyiv,Barcelona,A,-4.0,0.0,4.0,0.0,1.0
+UCL_a0e0f4f20f7f4129,2020-21,2020-11-24,Manchester United,İstanbul Başakşehir,H,3.0,4.0,1.0,1.0,1.0
+UCL_96dc561fcffefb63,2020-21,2020-11-24,Paris Saint-Germain,RB Leipzig,H,1.0,1.0,0.0,1.0,0.0
+UCL_46e9aab1a02921ca,2020-21,2020-11-24,Rennes,Chelsea,A,-1.0,1.0,2.0,0.0,1.0
+UCL_8412aa0c2e86c011,2020-21,2020-11-25,Ajax,Midtjylland,H,2.0,3.0,1.0,1.0,1.0
+UCL_d6a090c9e9005dac,2020-21,2020-11-25,Atlético Madrid,Lokomotiv Moscow,D,0.0,0.0,0.0,0.0,0.0
+UCL_6e85479a1e46d922,2020-21,2020-11-25,Bayern Munich,Red Bull Salzburg,H,2.0,3.0,1.0,1.0,1.0
+UCL_d417f1a479e1a0d6,2020-21,2020-11-25,Borussia Mönchengladbach,Shakhtar Donetsk,H,4.0,4.0,0.0,1.0,1.0
+UCL_2c87df11d6950629,2020-21,2020-11-25,Inter Milan,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_7678103de5ecbb5d,2020-21,2020-11-25,Liverpool,Atalanta,A,-2.0,0.0,2.0,0.0,0.0
+UCL_e7eb5224a2f8625e,2020-21,2020-11-25,Marseille,Porto,A,-2.0,0.0,2.0,0.0,0.0
+UCL_97286563f035ab5a,2020-21,2020-11-25,Olympiacos,Manchester City,A,-1.0,0.0,1.0,0.0,0.0
+UCL_5fa47fceb895b7f7,2020-21,2020-12-01,Atalanta,Midtjylland,D,0.0,1.0,1.0,0.0,0.0
+UCL_b3656b79ced690bf,2020-21,2020-12-01,Atlético Madrid,Bayern Munich,D,0.0,1.0,1.0,0.0,0.0
+UCL_fdd239cba46f444b,2020-21,2020-12-01,Borussia Mönchengladbach,Inter Milan,A,-1.0,2.0,3.0,0.0,1.0
+UCL_5989f81b0eb23324,2020-21,2020-12-01,Liverpool,Ajax,H,1.0,1.0,0.0,1.0,0.0
+UCL_0d65166fa992f6e8,2020-21,2020-12-01,Lokomotiv Moscow,Red Bull Salzburg,A,-2.0,1.0,3.0,0.0,1.0
+UCL_d55f9f06479b2c3a,2020-21,2020-12-01,Marseille,Olympiacos,H,1.0,2.0,1.0,1.0,1.0
+UCL_b19de09e330a4c23,2020-21,2020-12-01,Porto,Manchester City,D,0.0,0.0,0.0,0.0,0.0
+UCL_cfbcbbbfe981d259,2020-21,2020-12-01,Shakhtar Donetsk,Real Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_43f294b6b5763cc3,2020-21,2020-12-02,Borussia Dortmund,Lazio,D,0.0,1.0,1.0,0.0,0.0
+UCL_3a93a341b66ec336,2020-21,2020-12-02,Juventus,Dynamo Kyiv,H,3.0,3.0,0.0,1.0,1.0
+UCL_ae334f382210947e,2020-21,2020-12-02,Manchester United,Paris Saint-Germain,A,-2.0,1.0,3.0,0.0,1.0
+UCL_6535b08926d8224c,2020-21,2020-12-02,Sevilla,Chelsea,A,-4.0,0.0,4.0,0.0,1.0
+UCL_b98a260553d909b2,2020-21,2020-12-02,İstanbul Başakşehir,RB Leipzig,A,-1.0,3.0,4.0,0.0,1.0
+UCL_cb75f7c460a35b61,2020-21,2020-12-08,Barcelona,Juventus,A,-3.0,0.0,3.0,0.0,1.0
+UCL_48c278855111667a,2020-21,2020-12-08,Lazio,Club Brugge,D,0.0,2.0,2.0,0.0,1.0
+UCL_9a91b78e671c6e6d,2020-21,2020-12-08,Paris Saint-Germain,İstanbul Başakşehir,H,4.0,5.0,1.0,1.0,1.0
+UCL_518c536284810b70,2020-21,2020-12-08,RB Leipzig,Manchester United,H,1.0,3.0,2.0,1.0,1.0
+UCL_3e5f07889fd19019,2020-21,2020-12-08,Rennes,Sevilla,A,-2.0,1.0,3.0,0.0,1.0
+UCL_6503638557242adf,2020-21,2020-12-09,Ajax,Atalanta,A,-1.0,0.0,1.0,0.0,0.0
+UCL_b16fa8dad2e50265,2020-21,2020-12-09,Bayern Munich,Lokomotiv Moscow,H,2.0,2.0,0.0,1.0,0.0
+UCL_c04d8642227ded1c,2020-21,2020-12-09,Inter Milan,Shakhtar Donetsk,D,0.0,0.0,0.0,0.0,0.0
+UCL_396af223493f89d9,2020-21,2020-12-09,Manchester City,Marseille,H,3.0,3.0,0.0,1.0,1.0
+UCL_d1da474bb9358996,2020-21,2020-12-09,Midtjylland,Liverpool,D,0.0,1.0,1.0,0.0,0.0
+UCL_7a49422616e395bb,2020-21,2020-12-09,Olympiacos,Porto,A,-2.0,0.0,2.0,0.0,0.0
+UCL_2c246540c291e0ac,2020-21,2020-12-09,Real Madrid,Borussia Mönchengladbach,H,2.0,2.0,0.0,1.0,0.0
+UCL_957daf12f958b5a4,2020-21,2020-12-09,Red Bull Salzburg,Atlético Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_87b66738c97e8c5b,2020-21,2021-02-16,Barcelona,Paris Saint-Germain,A,-3.0,1.0,4.0,0.0,1.0
+UCL_9b5533c2f7ff4600,2020-21,2021-02-16,RB Leipzig,Liverpool,A,-2.0,0.0,2.0,0.0,0.0
+UCL_84439a063f197329,2020-21,2021-02-17,Porto,Juventus,H,1.0,2.0,1.0,1.0,1.0
+UCL_61d935cc3be994d9,2020-21,2021-02-17,Sevilla,Borussia Dortmund,A,-1.0,2.0,3.0,0.0,1.0
+UCL_f23d5f688c9029c9,2020-21,2021-02-23,Atlético Madrid,Chelsea,A,-1.0,0.0,1.0,0.0,0.0
+UCL_9122e5989b6ee568,2020-21,2021-02-23,Lazio,Bayern Munich,A,-3.0,1.0,4.0,0.0,1.0
+UCL_60f937ff8d38323d,2020-21,2021-02-24,Atalanta,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_07fbbbf115118b23,2020-21,2021-02-24,Borussia Mönchengladbach,Manchester City,A,-2.0,0.0,2.0,0.0,0.0
+UCL_5db6b549401251c7,2020-21,2021-03-09,Borussia Dortmund,Sevilla,D,0.0,2.0,2.0,0.0,1.0
+UCL_7cff74480cde5a4a,2020-21,2021-03-09,Juventus,Porto,H,1.0,2.0,1.0,1.0,1.0
+UCL_46d28f8870d286b6,2020-21,2021-03-10,Liverpool,RB Leipzig,H,2.0,2.0,0.0,1.0,0.0
+UCL_8f83e5b95fac3876,2020-21,2021-03-10,Paris Saint-Germain,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_1ec2fea769e52b40,2020-21,2021-03-16,Manchester City,Borussia Mönchengladbach,H,2.0,2.0,0.0,1.0,0.0
+UCL_edbc27c85dbaaa82,2020-21,2021-03-16,Real Madrid,Atalanta,H,2.0,3.0,1.0,1.0,1.0
+UCL_3ccee6838553f193,2020-21,2021-03-17,Bayern Munich,Lazio,H,1.0,2.0,1.0,1.0,1.0
+UCL_f95da8b0a32b4da4,2020-21,2021-03-17,Chelsea,Atlético Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_9cfa6b96f833b011,2020-21,2021-04-06,Manchester City,Borussia Dortmund,H,1.0,2.0,1.0,1.0,1.0
+UCL_7a5a569f7d92a26e,2020-21,2021-04-06,Real Madrid,Liverpool,H,2.0,3.0,1.0,1.0,1.0
+UCL_596251bf9f8b4bf3,2020-21,2021-04-07,Bayern Munich,Paris Saint-Germain,A,-1.0,2.0,3.0,0.0,1.0
+UCL_34a5313ca2103cde,2020-21,2021-04-07,Porto,Chelsea,A,-2.0,0.0,2.0,0.0,0.0
+UCL_86b04c6d001575d2,2020-21,2021-04-13,Chelsea,Porto,A,-1.0,0.0,1.0,0.0,0.0
+UCL_746bc901e24c9e43,2020-21,2021-04-13,Paris Saint-Germain,Bayern Munich,A,-1.0,0.0,1.0,0.0,0.0
+UCL_cc7aab12ce14bbe3,2020-21,2021-04-14,Borussia Dortmund,Manchester City,A,-1.0,1.0,2.0,0.0,1.0
+UCL_c49a3fd19e141dbc,2020-21,2021-04-14,Liverpool,Real Madrid,D,0.0,0.0,0.0,0.0,0.0
+UCL_2768253201e0ac3e,2020-21,2021-04-27,Real Madrid,Chelsea,D,0.0,1.0,1.0,0.0,0.0
+UCL_50f470a8d5b1d933,2020-21,2021-04-28,Paris Saint-Germain,Manchester City,A,-1.0,1.0,2.0,0.0,1.0
+UCL_50a1c8d8207f39c7,2020-21,2021-05-04,Manchester City,Paris Saint-Germain,H,2.0,2.0,0.0,1.0,0.0
+UCL_a2660e0fd09a629c,2020-21,2021-05-05,Chelsea,Real Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_7b0bfe6e2bd563d7,2020-21,2021-05-29,Manchester City,Chelsea,A,-1.0,0.0,1.0,0.0,0.0
+UCL_61d4c0c87c11323a,2021-22,2021-09-14,Barcelona,Bayern Munich,A,-3.0,0.0,3.0,0.0,1.0
+UCL_96b3e32be5d62bb5,2021-22,2021-09-14,Dynamo Kyiv,Benfica,D,0.0,0.0,0.0,0.0,0.0
+UCL_a65f203bb5c399ec,2021-22,2021-09-14,Lille,VfL Wolfsburg,D,0.0,0.0,0.0,0.0,0.0
+UCL_6e8c0f7c884ab647,2021-22,2021-09-14,Malmö FF,Juventus,A,-3.0,0.0,3.0,0.0,1.0
+UCL_8c150ceddefcb642,2021-22,2021-09-14,Sevilla,Red Bull Salzburg,D,0.0,1.0,1.0,0.0,0.0
+UCL_8415dce860c63492,2021-22,2021-09-14,Villarreal,Atalanta,D,0.0,2.0,2.0,0.0,1.0
+UCL_5fca7dae7a1f3701,2021-22,2021-09-14,Young Boys,Manchester United,H,1.0,2.0,1.0,1.0,1.0
+UCL_d073c20a74ae4a9c,2021-22,2021-09-15,Atlético Madrid,Porto,D,0.0,0.0,0.0,0.0,0.0
+UCL_a7c500145834b803,2021-22,2021-09-15,Beşiktaş,Borussia Dortmund,A,-1.0,1.0,2.0,0.0,1.0
+UCL_8c0c8ecbae5348e3,2021-22,2021-09-15,Club Brugge,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_96bfeef38d892916,2021-22,2021-09-15,Inter Milan,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_98aab8efe0383678,2021-22,2021-09-15,Liverpool,Milan,H,1.0,3.0,2.0,1.0,1.0
+UCL_469bddeba2e68e16,2021-22,2021-09-15,Manchester City,RB Leipzig,H,3.0,6.0,3.0,1.0,1.0
+UCL_165a4d38a982a961,2021-22,2021-09-15,Sporting CP,Ajax,A,-4.0,1.0,5.0,0.0,1.0
+UCL_2aeb63db1072725a,2021-22,2021-09-28,Ajax,Beşiktaş,H,2.0,2.0,0.0,1.0,0.0
+UCL_430550fbe7d8656d,2021-22,2021-09-28,Borussia Dortmund,Sporting CP,H,1.0,1.0,0.0,1.0,0.0
+UCL_a2059f712869f4e5,2021-22,2021-09-28,Milan,Atlético Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_fcc09b1e6bd1f493,2021-22,2021-09-28,Paris Saint-Germain,Manchester City,H,2.0,2.0,0.0,1.0,0.0
+UCL_4f3d3ac077339dfd,2021-22,2021-09-28,Porto,Liverpool,A,-4.0,1.0,5.0,0.0,1.0
+UCL_73a0ffacdb571903,2021-22,2021-09-28,RB Leipzig,Club Brugge,A,-1.0,1.0,2.0,0.0,1.0
+UCL_5de7d017512cf62e,2021-22,2021-09-28,Shakhtar Donetsk,Inter Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_22052d0c1a3391dd,2021-22,2021-09-29,Atalanta,Young Boys,H,1.0,1.0,0.0,1.0,0.0
+UCL_4c37954b00a36989,2021-22,2021-09-29,Bayern Munich,Dynamo Kyiv,H,5.0,5.0,0.0,1.0,1.0
+UCL_5cc707df3e81adb9,2021-22,2021-09-29,Benfica,Barcelona,H,3.0,3.0,0.0,1.0,1.0
+UCL_ef19a772effc75e6,2021-22,2021-09-29,Juventus,Chelsea,H,1.0,1.0,0.0,1.0,0.0
+UCL_987e887d3b143482,2021-22,2021-09-29,Manchester United,Villarreal,H,1.0,2.0,1.0,1.0,1.0
+UCL_cd763efe059e2a51,2021-22,2021-09-29,Red Bull Salzburg,Lille,H,1.0,2.0,1.0,1.0,1.0
+UCL_af05f203b0714c88,2021-22,2021-09-29,VfL Wolfsburg,Sevilla,D,0.0,1.0,1.0,0.0,0.0
+UCL_688f45686016da3e,2021-22,2021-10-19,Ajax,Borussia Dortmund,H,4.0,4.0,0.0,1.0,1.0
+UCL_ca95631953daa51f,2021-22,2021-10-19,Atlético Madrid,Liverpool,A,-1.0,2.0,3.0,0.0,1.0
+UCL_2be5590500b083e1,2021-22,2021-10-19,Beşiktaş,Sporting CP,A,-3.0,1.0,4.0,0.0,1.0
+UCL_80191486ab37897d,2021-22,2021-10-19,Club Brugge,Manchester City,A,-4.0,1.0,5.0,0.0,1.0
+UCL_80e30bec7d5c2923,2021-22,2021-10-19,Paris Saint-Germain,RB Leipzig,H,1.0,3.0,2.0,1.0,1.0
+UCL_01bbe619e08c44e8,2021-22,2021-10-19,Porto,Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_75d10aa355831405,2021-22,2021-10-19,Shakhtar Donetsk,Real Madrid,A,-5.0,0.0,5.0,0.0,1.0
+UCL_87ca1578c5d4f183,2021-22,2021-10-20,Barcelona,Dynamo Kyiv,H,1.0,1.0,0.0,1.0,0.0
+UCL_631cf2dd468a432c,2021-22,2021-10-20,Benfica,Bayern Munich,A,-4.0,0.0,4.0,0.0,1.0
+UCL_11e870a4d29dea62,2021-22,2021-10-20,Chelsea,Malmö FF,H,4.0,4.0,0.0,1.0,1.0
+UCL_835657270f232705,2021-22,2021-10-20,Lille,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_ddd71a68065dd0a4,2021-22,2021-10-20,Manchester United,Atalanta,H,1.0,3.0,2.0,1.0,1.0
+UCL_d56b2f6a199dc64b,2021-22,2021-10-20,Red Bull Salzburg,VfL Wolfsburg,H,2.0,3.0,1.0,1.0,1.0
+UCL_4d6ba4f0d7338965,2021-22,2021-10-20,Young Boys,Villarreal,A,-3.0,1.0,4.0,0.0,1.0
+UCL_016be7485c6ccd83,2021-22,2021-11-02,Atalanta,Manchester United,D,0.0,2.0,2.0,0.0,1.0
+UCL_2589df0e01af4ded,2021-22,2021-11-02,Bayern Munich,Benfica,H,3.0,5.0,2.0,1.0,1.0
+UCL_a1ca647dfceaf104,2021-22,2021-11-02,Dynamo Kyiv,Barcelona,A,-1.0,0.0,1.0,0.0,0.0
+UCL_85d37e3a4612d647,2021-22,2021-11-02,Malmö FF,Chelsea,A,-1.0,0.0,1.0,0.0,0.0
+UCL_4e6e078b261a5752,2021-22,2021-11-02,Sevilla,Lille,A,-1.0,1.0,2.0,0.0,1.0
+UCL_1de944e383206644,2021-22,2021-11-02,VfL Wolfsburg,Red Bull Salzburg,H,1.0,2.0,1.0,1.0,1.0
+UCL_d151b71e34b88fa4,2021-22,2021-11-02,Villarreal,Young Boys,H,2.0,2.0,0.0,1.0,0.0
+UCL_44ea34dac65df8ae,2021-22,2021-11-03,Borussia Dortmund,Ajax,A,-2.0,1.0,3.0,0.0,1.0
+UCL_d5954a1bf411d48b,2021-22,2021-11-03,Liverpool,Atlético Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_c5a4c4808064163e,2021-22,2021-11-03,Manchester City,Club Brugge,H,3.0,4.0,1.0,1.0,1.0
+UCL_e54f4e91686bfc80,2021-22,2021-11-03,Milan,Porto,D,0.0,1.0,1.0,0.0,0.0
+UCL_66c292a5dccfe8dc,2021-22,2021-11-03,RB Leipzig,Paris Saint-Germain,D,0.0,2.0,2.0,0.0,1.0
+UCL_23dd3846de992e0c,2021-22,2021-11-03,Real Madrid,Shakhtar Donetsk,H,1.0,2.0,1.0,1.0,1.0
+UCL_6301eead95521a83,2021-22,2021-11-03,Sporting CP,Beşiktaş,H,4.0,4.0,0.0,1.0,1.0
+UCL_a1250d1049fb3aaf,2021-22,2021-11-23,Barcelona,Benfica,D,0.0,0.0,0.0,0.0,0.0
+UCL_3c897ca798b1eae3,2021-22,2021-11-23,Chelsea,Juventus,H,4.0,4.0,0.0,1.0,1.0
+UCL_c93bafeaf1467827,2021-22,2021-11-23,Dynamo Kyiv,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e0db5e2a77ed174d,2021-22,2021-11-23,Lille,Red Bull Salzburg,H,1.0,1.0,0.0,1.0,0.0
+UCL_5cb004ef70ef4dda,2021-22,2021-11-23,Sevilla,VfL Wolfsburg,H,2.0,2.0,0.0,1.0,0.0
+UCL_5308ff743db35960,2021-22,2021-11-23,Villarreal,Manchester United,A,-2.0,0.0,2.0,0.0,0.0
+UCL_c92ef2672b7fe060,2021-22,2021-11-23,Young Boys,Atalanta,D,0.0,3.0,3.0,0.0,1.0
+UCL_2885c6aaefc24083,2021-22,2021-11-24,Atlético Madrid,Milan,A,-1.0,0.0,1.0,0.0,0.0
+UCL_9b5f6af8a28c0881,2021-22,2021-11-24,Beşiktaş,Ajax,A,-1.0,1.0,2.0,0.0,1.0
+UCL_839a8612f4a83e0b,2021-22,2021-11-24,Club Brugge,RB Leipzig,A,-5.0,0.0,5.0,0.0,1.0
+UCL_ae08b91ac5afd577,2021-22,2021-11-24,Inter Milan,Shakhtar Donetsk,H,2.0,2.0,0.0,1.0,0.0
+UCL_232592046dbecf75,2021-22,2021-11-24,Liverpool,Porto,H,2.0,2.0,0.0,1.0,0.0
+UCL_7a5e35eaed69cdbd,2021-22,2021-11-24,Manchester City,Paris Saint-Germain,H,1.0,2.0,1.0,1.0,1.0
+UCL_f28f0cd87d467c79,2021-22,2021-11-24,Sporting CP,Borussia Dortmund,H,2.0,3.0,1.0,1.0,1.0
+UCL_6d4b4039c5c3ce62,2021-22,2021-12-07,Ajax,Sporting CP,H,2.0,4.0,2.0,1.0,1.0
+UCL_9b183646e3493ebb,2021-22,2021-12-07,Borussia Dortmund,Beşiktaş,H,5.0,5.0,0.0,1.0,1.0
+UCL_404c27ec9d3dc7c7,2021-22,2021-12-07,Milan,Liverpool,A,-1.0,1.0,2.0,0.0,1.0
+UCL_7c84afed25f7bdcf,2021-22,2021-12-07,Paris Saint-Germain,Club Brugge,H,3.0,4.0,1.0,1.0,1.0
+UCL_e8651c1a88be2e9c,2021-22,2021-12-07,Porto,Atlético Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_0aef79a81c0658bc,2021-22,2021-12-07,RB Leipzig,Manchester City,H,1.0,2.0,1.0,1.0,1.0
+UCL_f03b6c34304dcdbf,2021-22,2021-12-07,Real Madrid,Inter Milan,H,2.0,2.0,0.0,1.0,0.0
+UCL_727ba798959972ac,2021-22,2021-12-08,Bayern Munich,Barcelona,H,3.0,3.0,0.0,1.0,1.0
+UCL_af871186d732fa34,2021-22,2021-12-08,Benfica,Dynamo Kyiv,H,2.0,2.0,0.0,1.0,0.0
+UCL_f04d1bd664005acb,2021-22,2021-12-08,Juventus,Malmö FF,H,1.0,1.0,0.0,1.0,0.0
+UCL_fb4eb5ebf04ca404,2021-22,2021-12-08,Manchester United,Young Boys,D,0.0,1.0,1.0,0.0,0.0
+UCL_1e34dbe78327e589,2021-22,2021-12-08,Red Bull Salzburg,Sevilla,H,1.0,1.0,0.0,1.0,0.0
+UCL_369ebfb64da42c5c,2021-22,2021-12-08,VfL Wolfsburg,Lille,A,-2.0,1.0,3.0,0.0,1.0
+UCL_2289bbdad645635a,2021-22,2021-12-09,Atalanta,Villarreal,A,-1.0,2.0,3.0,0.0,1.0
+UCL_c45c656e475cf7f1,2021-22,2022-02-15,Paris Saint-Germain,Real Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_2b9ea8f5d9cd5cef,2021-22,2022-02-15,Sporting CP,Manchester City,A,-5.0,0.0,5.0,0.0,1.0
+UCL_475a165d1e500e19,2021-22,2022-02-16,Inter Milan,Liverpool,A,-2.0,0.0,2.0,0.0,0.0
+UCL_7383471a10da3edd,2021-22,2022-02-16,Red Bull Salzburg,Bayern Munich,D,0.0,1.0,1.0,0.0,0.0
+UCL_8362bb3b56b4f078,2021-22,2022-02-22,Chelsea,Lille,H,2.0,2.0,0.0,1.0,0.0
+UCL_7a050ce1197c36b4,2021-22,2022-02-22,Villarreal,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_9188cb0a41902017,2021-22,2022-02-23,Atlético Madrid,Manchester United,D,0.0,1.0,1.0,0.0,0.0
+UCL_a5551af6db32665f,2021-22,2022-02-23,Benfica,Ajax,D,0.0,2.0,2.0,0.0,1.0
+UCL_786f8025558a228c,2021-22,2022-03-08,Bayern Munich,Red Bull Salzburg,H,6.0,7.0,1.0,1.0,1.0
+UCL_7ca124be74f21ed9,2021-22,2022-03-08,Liverpool,Inter Milan,A,-1.0,0.0,1.0,0.0,0.0
+UCL_482cbdf55b6eed54,2021-22,2022-03-09,Manchester City,Sporting CP,D,0.0,0.0,0.0,0.0,0.0
+UCL_0e3af0b01f3b6aec,2021-22,2022-03-09,Real Madrid,Paris Saint-Germain,H,2.0,3.0,1.0,1.0,1.0
+UCL_f091c9fc2722ac04,2021-22,2022-03-15,Ajax,Benfica,A,-1.0,0.0,1.0,0.0,0.0
+UCL_ea2df699fc908ac4,2021-22,2022-03-15,Manchester United,Atlético Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_10f38822c7539ff7,2021-22,2022-03-16,Juventus,Villarreal,A,-3.0,0.0,3.0,0.0,1.0
+UCL_6fe78a98df3e581b,2021-22,2022-03-16,Lille,Chelsea,A,-1.0,1.0,2.0,0.0,1.0
+UCL_82c24f633152b89c,2021-22,2022-04-05,Benfica,Liverpool,A,-2.0,1.0,3.0,0.0,1.0
+UCL_ea25febe990146b2,2021-22,2022-04-05,Manchester City,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_db24b8757d56d575,2021-22,2022-04-06,Chelsea,Real Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_8b14cb5d052d74c2,2021-22,2022-04-06,Villarreal,Bayern Munich,H,1.0,1.0,0.0,1.0,0.0
+UCL_07e208669b9f6ebd,2021-22,2022-04-12,Bayern Munich,Villarreal,D,0.0,1.0,1.0,0.0,0.0
+UCL_ca95a0714b370d35,2021-22,2022-04-12,Real Madrid,Chelsea,A,-2.0,1.0,3.0,0.0,1.0
+UCL_24fc3ac59e3e7ab0,2021-22,2022-04-13,Atlético Madrid,Manchester City,D,0.0,0.0,0.0,0.0,0.0
+UCL_67f0ad287a330de0,2021-22,2022-04-13,Liverpool,Benfica,D,0.0,3.0,3.0,0.0,1.0
+UCL_fd5d378c98192a9d,2021-22,2022-04-26,Manchester City,Real Madrid,H,1.0,4.0,3.0,1.0,1.0
+UCL_ae09d9bf5250d5fd,2021-22,2022-04-27,Liverpool,Villarreal,H,2.0,2.0,0.0,1.0,0.0
+UCL_da6913941e7aa5e4,2021-22,2022-05-03,Villarreal,Liverpool,A,-1.0,2.0,3.0,0.0,1.0
+UCL_89df6ff5e15c0ed9,2021-22,2022-05-04,Real Madrid,Manchester City,H,1.0,2.0,1.0,1.0,1.0
+UCL_679546de34f0ee79,2021-22,2022-05-28,Liverpool,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_aa0dd86e6eece88f,2022-23,2022-09-06,Borussia Dortmund,Copenhagen,H,3.0,3.0,0.0,1.0,1.0
+UCL_ba92e9240936f2f6,2022-23,2022-09-06,Celtic,Real Madrid,A,-3.0,0.0,3.0,0.0,1.0
+UCL_f335aa8a884ccb3a,2022-23,2022-09-06,Dinamo Zagreb,Chelsea,H,1.0,1.0,0.0,1.0,0.0
+UCL_ba7221f42d61aad3,2022-23,2022-09-06,Paris Saint-Germain,Juventus,H,1.0,2.0,1.0,1.0,1.0
+UCL_e86a841df939336e,2022-23,2022-09-06,RB Leipzig,Shakhtar Donetsk,A,-3.0,1.0,4.0,0.0,1.0
+UCL_9c85a1586b058321,2022-23,2022-09-06,Red Bull Salzburg,Milan,D,0.0,1.0,1.0,0.0,0.0
+UCL_d21dd78da89854d2,2022-23,2022-09-06,Sevilla,Manchester City,A,-4.0,0.0,4.0,0.0,1.0
+UCL_2f2af1bb224baaa0,2022-23,2022-09-07,Ajax,Rangers,H,4.0,4.0,0.0,1.0,1.0
+UCL_e41745ab361698fa,2022-23,2022-09-07,Atlético Madrid,Porto,H,1.0,2.0,1.0,1.0,1.0
+UCL_10987d616a4e17cc,2022-23,2022-09-07,Barcelona,Viktoria Plzeň,H,4.0,5.0,1.0,1.0,1.0
+UCL_de5bff832b9646cc,2022-23,2022-09-07,Club Brugge,Bayer Leverkusen,H,1.0,1.0,0.0,1.0,0.0
+UCL_912f72acdaef5340,2022-23,2022-09-07,Eintracht Frankfurt,Sporting CP,A,-3.0,0.0,3.0,0.0,1.0
+UCL_e8c08569dd0bb35c,2022-23,2022-09-07,Inter Milan,Bayern Munich,A,-2.0,0.0,2.0,0.0,0.0
+UCL_3123749732991804,2022-23,2022-09-07,Napoli,Liverpool,H,3.0,4.0,1.0,1.0,1.0
+UCL_5c83f65d5960c6c5,2022-23,2022-09-07,Tottenham Hotspur,Marseille,H,2.0,2.0,0.0,1.0,0.0
+UCL_e08e2aa6073209c5,2022-23,2022-09-13,Bayer Leverkusen,Atlético Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_0d9aa7d2b0ec7396,2022-23,2022-09-13,Bayern Munich,Barcelona,H,2.0,2.0,0.0,1.0,0.0
+UCL_6d9ecdf699407134,2022-23,2022-09-13,Liverpool,Ajax,H,1.0,2.0,1.0,1.0,1.0
+UCL_35b2f9ec72194c01,2022-23,2022-09-13,Marseille,Eintracht Frankfurt,A,-1.0,0.0,1.0,0.0,0.0
+UCL_de9460f5e3694ec0,2022-23,2022-09-13,Porto,Club Brugge,A,-4.0,0.0,4.0,0.0,1.0
+UCL_bd3fba719824ebf7,2022-23,2022-09-13,Sporting CP,Tottenham Hotspur,H,2.0,2.0,0.0,1.0,0.0
+UCL_b520763d72ef532c,2022-23,2022-09-13,Viktoria Plzeň,Inter Milan,A,-2.0,0.0,2.0,0.0,0.0
+UCL_badf6a908b869b3f,2022-23,2022-09-14,Chelsea,Red Bull Salzburg,D,0.0,1.0,1.0,0.0,0.0
+UCL_7bdb7f21618b7652,2022-23,2022-09-14,Copenhagen,Sevilla,D,0.0,0.0,0.0,0.0,0.0
+UCL_834521856433f2c3,2022-23,2022-09-14,Juventus,Benfica,A,-1.0,1.0,2.0,0.0,1.0
+UCL_3d195a986b83c53a,2022-23,2022-09-14,Manchester City,Borussia Dortmund,H,1.0,2.0,1.0,1.0,1.0
+UCL_0fb729a55c5cd2ef,2022-23,2022-09-14,Milan,Dinamo Zagreb,H,2.0,3.0,1.0,1.0,1.0
+UCL_ef14206f1821dc1b,2022-23,2022-09-14,Rangers,Napoli,A,-3.0,0.0,3.0,0.0,1.0
+UCL_d8588ec2d3034bc2,2022-23,2022-09-14,Real Madrid,RB Leipzig,H,2.0,2.0,0.0,1.0,0.0
+UCL_f149c1c2b8e39afe,2022-23,2022-09-14,Shakhtar Donetsk,Celtic,D,0.0,1.0,1.0,0.0,0.0
+UCL_3b80827fed31edd7,2022-23,2022-10-04,Ajax,Napoli,A,-5.0,1.0,6.0,0.0,1.0
+UCL_4d88fbe8f91e6a21,2022-23,2022-10-04,Bayern Munich,Viktoria Plzeň,H,5.0,5.0,0.0,1.0,1.0
+UCL_2367da5474ab45e8,2022-23,2022-10-04,Club Brugge,Atlético Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_6772edcc324e9215,2022-23,2022-10-04,Eintracht Frankfurt,Tottenham Hotspur,D,0.0,0.0,0.0,0.0,0.0
+UCL_03d0ab0214bd2e1c,2022-23,2022-10-04,Inter Milan,Barcelona,H,1.0,1.0,0.0,1.0,0.0
+UCL_043c7425595b507f,2022-23,2022-10-04,Liverpool,Rangers,H,2.0,2.0,0.0,1.0,0.0
+UCL_a4a40c8051205224,2022-23,2022-10-04,Marseille,Sporting CP,H,3.0,4.0,1.0,1.0,1.0
+UCL_74cea3180adf2b27,2022-23,2022-10-04,Porto,Bayer Leverkusen,H,2.0,2.0,0.0,1.0,0.0
+UCL_54e9f41f05e36655,2022-23,2022-10-05,Benfica,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_ed2a4daec1a466dd,2022-23,2022-10-05,Chelsea,Milan,H,3.0,3.0,0.0,1.0,1.0
+UCL_ebbd464c5e221bed,2022-23,2022-10-05,Manchester City,Copenhagen,H,5.0,5.0,0.0,1.0,1.0
+UCL_98d43adfaf7d50fa,2022-23,2022-10-05,RB Leipzig,Celtic,H,2.0,3.0,1.0,1.0,1.0
+UCL_52151b01041bd851,2022-23,2022-10-05,Real Madrid,Shakhtar Donetsk,H,1.0,2.0,1.0,1.0,1.0
+UCL_78d42da13d33a332,2022-23,2022-10-05,Red Bull Salzburg,Dinamo Zagreb,H,1.0,1.0,0.0,1.0,0.0
+UCL_5de55918b4f60317,2022-23,2022-10-05,Sevilla,Borussia Dortmund,A,-3.0,1.0,4.0,0.0,1.0
+UCL_8131166fbd66d7bf,2022-23,2022-10-11,Borussia Dortmund,Sevilla,D,0.0,1.0,1.0,0.0,0.0
+UCL_959b1b508d95b52a,2022-23,2022-10-11,Celtic,RB Leipzig,A,-2.0,0.0,2.0,0.0,0.0
+UCL_8f10fb39f9c284ee,2022-23,2022-10-11,Copenhagen,Manchester City,D,0.0,0.0,0.0,0.0,0.0
+UCL_0066a8fa2d62d399,2022-23,2022-10-11,Dinamo Zagreb,Red Bull Salzburg,D,0.0,1.0,1.0,0.0,0.0
+UCL_e750dff16feb6ac3,2022-23,2022-10-11,Milan,Chelsea,A,-2.0,0.0,2.0,0.0,0.0
+UCL_1b49d0082a5dccc5,2022-23,2022-10-11,Paris Saint-Germain,Benfica,D,0.0,1.0,1.0,0.0,0.0
+UCL_20776fc93aa3e4bc,2022-23,2022-10-11,Shakhtar Donetsk,Real Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_320178f4babe8900,2022-23,2022-10-12,Atlético Madrid,Club Brugge,D,0.0,0.0,0.0,0.0,0.0
+UCL_56b76a6062b90448,2022-23,2022-10-12,Barcelona,Inter Milan,D,0.0,3.0,3.0,0.0,1.0
+UCL_0a9cf01a24719a5b,2022-23,2022-10-12,Bayer Leverkusen,Porto,A,-3.0,0.0,3.0,0.0,1.0
+UCL_b2957a03343c805c,2022-23,2022-10-12,Napoli,Ajax,H,2.0,4.0,2.0,1.0,1.0
+UCL_55216a1f6e3b6525,2022-23,2022-10-12,Rangers,Liverpool,A,-6.0,1.0,7.0,0.0,1.0
+UCL_3ab01475afca8357,2022-23,2022-10-12,Sporting CP,Marseille,A,-2.0,0.0,2.0,0.0,0.0
+UCL_93f830b4fdfc9d64,2022-23,2022-10-12,Tottenham Hotspur,Eintracht Frankfurt,H,1.0,3.0,2.0,1.0,1.0
+UCL_1a2cf0a95bb71405,2022-23,2022-10-12,Viktoria Plzeň,Bayern Munich,A,-2.0,2.0,4.0,0.0,1.0
+UCL_5ea43c0de7049e2e,2022-23,2022-10-25,Benfica,Juventus,H,1.0,4.0,3.0,1.0,1.0
+UCL_0aa3b495de5df676,2022-23,2022-10-25,Borussia Dortmund,Manchester City,D,0.0,0.0,0.0,0.0,0.0
+UCL_34b837d27d5520fb,2022-23,2022-10-25,Celtic,Shakhtar Donetsk,D,0.0,1.0,1.0,0.0,0.0
+UCL_82e3257d075c3cf4,2022-23,2022-10-25,Dinamo Zagreb,Milan,A,-4.0,0.0,4.0,0.0,1.0
+UCL_61c3a2d31384adc2,2022-23,2022-10-25,RB Leipzig,Real Madrid,H,1.0,3.0,2.0,1.0,1.0
+UCL_fb95432d4b8c406f,2022-23,2022-10-25,Red Bull Salzburg,Chelsea,A,-1.0,1.0,2.0,0.0,1.0
+UCL_6e10e7ed8f41afb2,2022-23,2022-10-25,Sevilla,Copenhagen,H,3.0,3.0,0.0,1.0,1.0
+UCL_22b438aef3ccb08f,2022-23,2022-10-26,Ajax,Liverpool,A,-3.0,0.0,3.0,0.0,1.0
+UCL_3713b97a0807cc7b,2022-23,2022-10-26,Atlético Madrid,Bayer Leverkusen,D,0.0,2.0,2.0,0.0,1.0
+UCL_9a3b9bbdc3b3d3e0,2022-23,2022-10-26,Barcelona,Bayern Munich,A,-3.0,0.0,3.0,0.0,1.0
+UCL_fe8ed8a6784f9589,2022-23,2022-10-26,Club Brugge,Porto,A,-4.0,0.0,4.0,0.0,1.0
+UCL_719d61b9c4bcc2df,2022-23,2022-10-26,Eintracht Frankfurt,Marseille,H,1.0,2.0,1.0,1.0,1.0
+UCL_0c37a884cff4ba26,2022-23,2022-10-26,Inter Milan,Viktoria Plzeň,H,4.0,4.0,0.0,1.0,1.0
+UCL_c73edf08be2d4a5d,2022-23,2022-10-26,Napoli,Rangers,H,3.0,3.0,0.0,1.0,1.0
+UCL_dd91b80afc1a4270,2022-23,2022-10-26,Tottenham Hotspur,Sporting CP,D,0.0,1.0,1.0,0.0,0.0
+UCL_638dce96a0f95a8c,2022-23,2022-11-01,Bayer Leverkusen,Club Brugge,D,0.0,0.0,0.0,0.0,0.0
+UCL_f5351f44b96be099,2022-23,2022-11-01,Bayern Munich,Inter Milan,H,2.0,2.0,0.0,1.0,0.0
+UCL_a482a6ddaeee0ed0,2022-23,2022-11-01,Liverpool,Napoli,H,2.0,2.0,0.0,1.0,0.0
+UCL_691b84000bfc6534,2022-23,2022-11-01,Marseille,Tottenham Hotspur,A,-1.0,1.0,2.0,0.0,1.0
+UCL_af5848540d95af28,2022-23,2022-11-01,Porto,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_09c265e23aa21332,2022-23,2022-11-01,Rangers,Ajax,A,-2.0,1.0,3.0,0.0,1.0
+UCL_2280b83126884367,2022-23,2022-11-01,Sporting CP,Eintracht Frankfurt,A,-1.0,1.0,2.0,0.0,1.0
+UCL_3bd89edbeebcc478,2022-23,2022-11-01,Viktoria Plzeň,Barcelona,A,-2.0,2.0,4.0,0.0,1.0
+UCL_8c3020acc4efc71f,2022-23,2022-11-02,Chelsea,Dinamo Zagreb,H,1.0,2.0,1.0,1.0,1.0
+UCL_80e7b3f4e007a997,2022-23,2022-11-02,Copenhagen,Borussia Dortmund,D,0.0,1.0,1.0,0.0,0.0
+UCL_c6b6afd5068702a1,2022-23,2022-11-02,Juventus,Paris Saint-Germain,A,-1.0,1.0,2.0,0.0,1.0
+UCL_397ad7fafaaa3cb3,2022-23,2022-11-02,Manchester City,Sevilla,H,2.0,3.0,1.0,1.0,1.0
+UCL_a1d3f0a65d8737cb,2022-23,2022-11-02,Milan,Red Bull Salzburg,H,4.0,4.0,0.0,1.0,1.0
+UCL_6f26bf5463f58b4d,2022-23,2022-11-02,Real Madrid,Celtic,H,4.0,5.0,1.0,1.0,1.0
+UCL_bdc37293dcffe03a,2022-23,2022-11-02,Shakhtar Donetsk,RB Leipzig,A,-4.0,0.0,4.0,0.0,1.0
+UCL_fdf1f4519257952d,2022-23,2023-02-14,Milan,Tottenham Hotspur,H,1.0,1.0,0.0,1.0,0.0
+UCL_549e0ae8cb56cced,2022-23,2023-02-14,Paris Saint-Germain,Bayern Munich,A,-1.0,0.0,1.0,0.0,0.0
+UCL_99dcb95e4b5ecc75,2022-23,2023-02-15,Borussia Dortmund,Chelsea,H,1.0,1.0,0.0,1.0,0.0
+UCL_8f6aaadf5b537aaf,2022-23,2023-02-15,Club Brugge,Benfica,A,-2.0,0.0,2.0,0.0,0.0
+UCL_d17b4317481741b2,2022-23,2023-02-21,Eintracht Frankfurt,Napoli,A,-2.0,0.0,2.0,0.0,0.0
+UCL_54a49b3530df8e1c,2022-23,2023-02-21,Liverpool,Real Madrid,A,-3.0,2.0,5.0,0.0,1.0
+UCL_d9d696b9beda1e7d,2022-23,2023-02-22,Inter Milan,Porto,H,1.0,1.0,0.0,1.0,0.0
+UCL_4ea6a0407960330e,2022-23,2023-02-22,RB Leipzig,Manchester City,D,0.0,1.0,1.0,0.0,0.0
+UCL_f85308c1d1482ba0,2022-23,2023-03-07,Benfica,Club Brugge,H,4.0,5.0,1.0,1.0,1.0
+UCL_573e28d53eace460,2022-23,2023-03-07,Chelsea,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_d55734f1a142e2dc,2022-23,2023-03-08,Bayern Munich,Paris Saint-Germain,H,2.0,2.0,0.0,1.0,0.0
+UCL_c525e7720a61db27,2022-23,2023-03-08,Tottenham Hotspur,Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_3d1fd5e1263798d4,2022-23,2023-03-14,Manchester City,RB Leipzig,H,7.0,7.0,0.0,1.0,1.0
+UCL_9c1555c03047ba7b,2022-23,2023-03-14,Porto,Inter Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_23461a8afdd82373,2022-23,2023-03-15,Napoli,Eintracht Frankfurt,H,3.0,3.0,0.0,1.0,1.0
+UCL_757672b3c4021676,2022-23,2023-03-15,Real Madrid,Liverpool,H,1.0,1.0,0.0,1.0,0.0
+UCL_ba4136776b40fb09,2022-23,2023-04-11,Benfica,Inter Milan,A,-2.0,0.0,2.0,0.0,0.0
+UCL_5aaf14f4c3501943,2022-23,2023-04-11,Manchester City,Bayern Munich,H,3.0,3.0,0.0,1.0,1.0
+UCL_a2a9b38defa16f92,2022-23,2023-04-12,Milan,Napoli,H,1.0,1.0,0.0,1.0,0.0
+UCL_5dddac5d95cbeda8,2022-23,2023-04-12,Real Madrid,Chelsea,H,2.0,2.0,0.0,1.0,0.0
+UCL_0da09af753f5037d,2022-23,2023-04-18,Chelsea,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0
+UCL_47bcf8fab9e95265,2022-23,2023-04-18,Napoli,Milan,D,0.0,1.0,1.0,0.0,0.0
+UCL_21e413034d675a3a,2022-23,2023-04-19,Bayern Munich,Manchester City,D,0.0,1.0,1.0,0.0,0.0
+UCL_0aa58b6a9890a892,2022-23,2023-04-19,Inter Milan,Benfica,D,0.0,3.0,3.0,0.0,1.0
+UCL_4b72cdc3b96552e8,2022-23,2023-05-09,Real Madrid,Manchester City,D,0.0,1.0,1.0,0.0,0.0
+UCL_376ecb307cd9d050,2022-23,2023-05-10,Milan,Inter Milan,A,-2.0,0.0,2.0,0.0,0.0
+UCL_074ab24814487c6e,2022-23,2023-05-16,Inter Milan,Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_032f1efdad02341e,2022-23,2023-05-17,Manchester City,Real Madrid,H,4.0,4.0,0.0,1.0,1.0
+UCL_33d8ab78e0b62b89,2022-23,2023-06-10,Manchester City,Inter Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_9b97c38364e49025,2023-24,2023-09-19,Barcelona,Antwerp,H,5.0,5.0,0.0,1.0,1.0
+UCL_46988140b5f83108,2023-24,2023-09-19,Feyenoord,Celtic,H,2.0,2.0,0.0,1.0,0.0
+UCL_9af5a58e2c05c01d,2023-24,2023-09-19,Lazio,Atlético Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_e817be7e5eaf274a,2023-24,2023-09-19,Milan,Newcastle United,D,0.0,0.0,0.0,0.0,0.0
+UCL_6e09f8764245325f,2023-24,2023-09-19,Paris Saint-Germain,Borussia Dortmund,H,2.0,2.0,0.0,1.0,0.0
+UCL_89511bfa15eb7d2f,2023-24,2023-09-19,Shakhtar Donetsk,Porto,A,-2.0,1.0,3.0,0.0,1.0
+UCL_7158de028a1ab0e2,2023-24,2023-09-19,Young Boys,RB Leipzig,A,-2.0,1.0,3.0,0.0,1.0
+UCL_495cb9bec9e8d36b,2023-24,2023-09-20,Arsenal,PSV Eindhoven,H,4.0,4.0,0.0,1.0,1.0
+UCL_8243a830ebb2acc0,2023-24,2023-09-20,Bayern Munich,Manchester United,H,1.0,4.0,3.0,1.0,1.0
+UCL_41a7dc62509fc659,2023-24,2023-09-20,Benfica,Red Bull Salzburg,A,-2.0,0.0,2.0,0.0,0.0
+UCL_bac5e9834daf190c,2023-24,2023-09-20,Braga,Napoli,A,-1.0,1.0,2.0,0.0,1.0
+UCL_2e9bbde9d4e42506,2023-24,2023-09-20,Galatasaray,Copenhagen,D,0.0,2.0,2.0,0.0,1.0
+UCL_25884cbebe5ce585,2023-24,2023-09-20,Real Madrid,Union Berlin,H,1.0,1.0,0.0,1.0,0.0
+UCL_f70d8512c8b1be7c,2023-24,2023-09-20,Real Sociedad,Inter Milan,D,0.0,1.0,1.0,0.0,0.0
+UCL_2ada6edb1e4f35a8,2023-24,2023-09-20,Sevilla,Lens,D,0.0,1.0,1.0,0.0,0.0
+UCL_25a40520ad34d891,2023-24,2023-10-03,Copenhagen,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_bc1cbd1406054138,2023-24,2023-10-03,Inter Milan,Benfica,H,1.0,1.0,0.0,1.0,0.0
+UCL_cf4d1ced7e663ce8,2023-24,2023-10-03,Lens,Arsenal,H,1.0,2.0,1.0,1.0,1.0
+UCL_370d368d24e62912,2023-24,2023-10-03,Manchester United,Galatasaray,A,-1.0,2.0,3.0,0.0,1.0
+UCL_9f2c13caa2c88707,2023-24,2023-10-03,Napoli,Real Madrid,A,-1.0,2.0,3.0,0.0,1.0
+UCL_cdc762886e7b4123,2023-24,2023-10-03,PSV Eindhoven,Sevilla,D,0.0,2.0,2.0,0.0,1.0
+UCL_c32afbc2e17c103e,2023-24,2023-10-03,Red Bull Salzburg,Real Sociedad,A,-2.0,0.0,2.0,0.0,0.0
+UCL_92bcce2391bf08c0,2023-24,2023-10-03,Union Berlin,Braga,A,-1.0,2.0,3.0,0.0,1.0
+UCL_cc52d8ba5459903a,2023-24,2023-10-04,Antwerp,Shakhtar Donetsk,A,-1.0,2.0,3.0,0.0,1.0
+UCL_6a7e16954964f5bd,2023-24,2023-10-04,Atlético Madrid,Feyenoord,H,1.0,3.0,2.0,1.0,1.0
+UCL_ceb7b5b18da009c3,2023-24,2023-10-04,Borussia Dortmund,Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_6985bfae27dc0bd8,2023-24,2023-10-04,Celtic,Lazio,A,-1.0,1.0,2.0,0.0,1.0
+UCL_aac1c31c610cb9ce,2023-24,2023-10-04,Newcastle United,Paris Saint-Germain,H,3.0,4.0,1.0,1.0,1.0
+UCL_03a6c6bf19a74df4,2023-24,2023-10-04,Porto,Barcelona,A,-1.0,0.0,1.0,0.0,0.0
+UCL_87943d1f30388734,2023-24,2023-10-04,RB Leipzig,Manchester City,A,-2.0,1.0,3.0,0.0,1.0
+UCL_b12179f90de1b2ad,2023-24,2023-10-24,Benfica,Real Sociedad,A,-1.0,0.0,1.0,0.0,0.0
+UCL_745fe262d4902a15,2023-24,2023-10-24,Braga,Real Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_05ba8bd121f20764,2023-24,2023-10-24,Galatasaray,Bayern Munich,A,-2.0,1.0,3.0,0.0,1.0
+UCL_0a030a28ac0f1ad1,2023-24,2023-10-24,Inter Milan,Red Bull Salzburg,H,1.0,2.0,1.0,1.0,1.0
+UCL_6180ab63d4fde10b,2023-24,2023-10-24,Lens,PSV Eindhoven,D,0.0,1.0,1.0,0.0,0.0
+UCL_7f72df7fd1c52940,2023-24,2023-10-24,Manchester United,Copenhagen,H,1.0,1.0,0.0,1.0,0.0
+UCL_c192c9526dc25f15,2023-24,2023-10-24,Sevilla,Arsenal,A,-1.0,1.0,2.0,0.0,1.0
+UCL_89a274c6d4dbffc3,2023-24,2023-10-24,Union Berlin,Napoli,A,-1.0,0.0,1.0,0.0,0.0
+UCL_31f3ecf063ab7336,2023-24,2023-10-25,Antwerp,Porto,A,-3.0,1.0,4.0,0.0,1.0
+UCL_7253dc8e53d05eba,2023-24,2023-10-25,Barcelona,Shakhtar Donetsk,H,1.0,2.0,1.0,1.0,1.0
+UCL_10dab0fa5a13b387,2023-24,2023-10-25,Celtic,Atlético Madrid,D,0.0,2.0,2.0,0.0,1.0
+UCL_4038aeee3408b8cc,2023-24,2023-10-25,Feyenoord,Lazio,H,2.0,3.0,1.0,1.0,1.0
+UCL_d6f196f4552e87f3,2023-24,2023-10-25,Newcastle United,Borussia Dortmund,A,-1.0,0.0,1.0,0.0,0.0
+UCL_a8d480fc0ea40018,2023-24,2023-10-25,Paris Saint-Germain,Milan,H,3.0,3.0,0.0,1.0,1.0
+UCL_817f34193ff1f19b,2023-24,2023-10-25,Young Boys,Manchester City,A,-2.0,1.0,3.0,0.0,1.0
+UCL_b6faab3a64e416ec,2023-24,2023-11-07,Atlético Madrid,Celtic,H,6.0,6.0,0.0,1.0,1.0
+UCL_66c213d6c5567e47,2023-24,2023-11-07,Borussia Dortmund,Newcastle United,H,2.0,2.0,0.0,1.0,0.0
+UCL_97c40815f6cd1f6e,2023-24,2023-11-07,Lazio,Feyenoord,H,1.0,1.0,0.0,1.0,0.0
+UCL_49744dcae28cadc1,2023-24,2023-11-07,Manchester City,Young Boys,H,3.0,3.0,0.0,1.0,1.0
+UCL_5ed6a54e766921de,2023-24,2023-11-07,Milan,Paris Saint-Germain,H,1.0,2.0,1.0,1.0,1.0
+UCL_88b9dad9df0f976d,2023-24,2023-11-07,Porto,Antwerp,H,2.0,2.0,0.0,1.0,0.0
+UCL_125164a3780e7803,2023-24,2023-11-07,Shakhtar Donetsk,Barcelona,H,1.0,1.0,0.0,1.0,0.0
+UCL_dd25a7d62196302c,2023-24,2023-11-08,Arsenal,Sevilla,H,2.0,2.0,0.0,1.0,0.0
+UCL_0fc891af3d0960aa,2023-24,2023-11-08,Bayern Munich,Galatasaray,H,1.0,2.0,1.0,1.0,1.0
+UCL_7ef44b14ace27e1d,2023-24,2023-11-08,Copenhagen,Manchester United,H,1.0,4.0,3.0,1.0,1.0
+UCL_34530e6f30046ebd,2023-24,2023-11-08,Napoli,Union Berlin,D,0.0,1.0,1.0,0.0,0.0
+UCL_c5327c6156c29810,2023-24,2023-11-08,PSV Eindhoven,Lens,H,1.0,1.0,0.0,1.0,0.0
+UCL_9afbbe90a41cec27,2023-24,2023-11-08,Real Madrid,Braga,H,3.0,3.0,0.0,1.0,1.0
+UCL_9c2076d80659a8bb,2023-24,2023-11-08,Real Sociedad,Benfica,H,2.0,3.0,1.0,1.0,1.0
+UCL_c58256b7c89e501f,2023-24,2023-11-08,Red Bull Salzburg,Inter Milan,A,-1.0,0.0,1.0,0.0,0.0
+UCL_68538ecdc7d9ad42,2023-24,2023-11-28,Barcelona,Porto,H,1.0,2.0,1.0,1.0,1.0
+UCL_2d0f81fb6b7da3ed,2023-24,2023-11-28,Feyenoord,Atlético Madrid,A,-2.0,1.0,3.0,0.0,1.0
+UCL_81960475b1dfb472,2023-24,2023-11-28,Lazio,Celtic,H,2.0,2.0,0.0,1.0,0.0
+UCL_9b7f0c8a6eb5a370,2023-24,2023-11-28,Manchester City,RB Leipzig,H,1.0,3.0,2.0,1.0,1.0
+UCL_867bd812cbd093e8,2023-24,2023-11-28,Milan,Borussia Dortmund,A,-2.0,1.0,3.0,0.0,1.0
+UCL_b034b3a2089c652d,2023-24,2023-11-28,Paris Saint-Germain,Newcastle United,D,0.0,1.0,1.0,0.0,0.0
+UCL_fd85e364342dc748,2023-24,2023-11-28,Shakhtar Donetsk,Antwerp,H,1.0,1.0,0.0,1.0,0.0
+UCL_25e53716873efcdc,2023-24,2023-11-29,Arsenal,Lens,H,6.0,6.0,0.0,1.0,1.0
+UCL_5bbf7d8f6bc96898,2023-24,2023-11-29,Bayern Munich,Copenhagen,D,0.0,0.0,0.0,0.0,0.0
+UCL_264f84b4612e7191,2023-24,2023-11-29,Benfica,Inter Milan,D,0.0,3.0,3.0,0.0,1.0
+UCL_8702f03b870aa069,2023-24,2023-11-29,Braga,Union Berlin,D,0.0,1.0,1.0,0.0,0.0
+UCL_2a764b80d703cf97,2023-24,2023-11-29,Galatasaray,Manchester United,D,0.0,3.0,3.0,0.0,1.0
+UCL_c1c5ce48c1f0e734,2023-24,2023-11-29,Real Madrid,Napoli,H,2.0,4.0,2.0,1.0,1.0
+UCL_985c17cf8ba99ec2,2023-24,2023-11-29,Real Sociedad,Red Bull Salzburg,D,0.0,0.0,0.0,0.0,0.0
+UCL_7d1b25f3ad05863f,2023-24,2023-11-29,Sevilla,PSV Eindhoven,A,-1.0,2.0,3.0,0.0,1.0
+UCL_afb66091ab2c4ef8,2023-24,2023-12-12,Copenhagen,Galatasaray,H,1.0,1.0,0.0,1.0,0.0
+UCL_ebf019cc828b7a8a,2023-24,2023-12-12,Inter Milan,Real Sociedad,D,0.0,0.0,0.0,0.0,0.0
+UCL_bd15b275e755861f,2023-24,2023-12-12,Lens,Sevilla,H,1.0,2.0,1.0,1.0,1.0
+UCL_03ba34f7eb056059,2023-24,2023-12-12,Manchester United,Bayern Munich,A,-1.0,0.0,1.0,0.0,0.0
+UCL_79013d8c8fd6c89b,2023-24,2023-12-12,Napoli,Braga,H,2.0,2.0,0.0,1.0,0.0
+UCL_12a686cd46a320bd,2023-24,2023-12-12,PSV Eindhoven,Arsenal,D,0.0,1.0,1.0,0.0,0.0
+UCL_f06918cb1b68b4de,2023-24,2023-12-12,Red Bull Salzburg,Benfica,A,-2.0,1.0,3.0,0.0,1.0
+UCL_2d1b48722ccdd994,2023-24,2023-12-12,Union Berlin,Real Madrid,A,-1.0,2.0,3.0,0.0,1.0
+UCL_d4c6784865b931d2,2023-24,2023-12-13,Antwerp,Barcelona,H,1.0,3.0,2.0,1.0,1.0
+UCL_2461975903401a82,2023-24,2023-12-13,Atlético Madrid,Lazio,H,2.0,2.0,0.0,1.0,0.0
+UCL_e0e3b84cea133aea,2023-24,2023-12-13,Borussia Dortmund,Paris Saint-Germain,D,0.0,1.0,1.0,0.0,0.0
+UCL_0ee89e8787e42972,2023-24,2023-12-13,Celtic,Feyenoord,H,1.0,2.0,1.0,1.0,1.0
+UCL_e9d99862a6d1f3e3,2023-24,2023-12-13,Newcastle United,Milan,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e1f2dbba886c624e,2023-24,2023-12-13,Porto,Shakhtar Donetsk,H,2.0,5.0,3.0,1.0,1.0
+UCL_658c0427c5fef212,2023-24,2023-12-13,RB Leipzig,Young Boys,H,1.0,2.0,1.0,1.0,1.0
+UCL_8bcc7953c3952289,2023-24,2024-02-13,Copenhagen,Manchester City,A,-2.0,1.0,3.0,0.0,1.0
+UCL_d9579d71bc84ca1c,2023-24,2024-02-13,RB Leipzig,Real Madrid,A,-1.0,0.0,1.0,0.0,0.0
+UCL_32913665df900beb,2023-24,2024-02-14,Lazio,Bayern Munich,H,1.0,1.0,0.0,1.0,0.0
+UCL_e9562081c880bda7,2023-24,2024-02-14,Paris Saint-Germain,Real Sociedad,H,2.0,2.0,0.0,1.0,0.0
+UCL_18497a869357e57e,2023-24,2024-02-20,Inter Milan,Atlético Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_afab88671051f88c,2023-24,2024-02-20,PSV Eindhoven,Borussia Dortmund,D,0.0,1.0,1.0,0.0,0.0
+UCL_107102554832ee59,2023-24,2024-02-21,Napoli,Barcelona,D,0.0,1.0,1.0,0.0,0.0
+UCL_4c68cdcefcf8bfa1,2023-24,2024-02-21,Porto,Arsenal,H,1.0,1.0,0.0,1.0,0.0
+UCL_e671d9aef26382d2,2023-24,2024-03-05,Bayern Munich,Lazio,H,3.0,3.0,0.0,1.0,1.0
+UCL_37ec3dbe4360e0b3,2023-24,2024-03-05,Real Sociedad,Paris Saint-Germain,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d74f8dc26ad4a8f9,2023-24,2024-03-06,Manchester City,Copenhagen,H,2.0,3.0,1.0,1.0,1.0
+UCL_4ca450cbe2e4f1ba,2023-24,2024-03-06,Real Madrid,RB Leipzig,D,0.0,1.0,1.0,0.0,0.0
+UCL_eceb03eb7facc095,2023-24,2024-03-12,Arsenal,Porto,H,1.0,1.0,0.0,1.0,0.0
+UCL_e667e12e9b3e2b9f,2023-24,2024-03-12,Barcelona,Napoli,H,2.0,3.0,1.0,1.0,1.0
+UCL_8b98cee8e77bb57b,2023-24,2024-03-13,Atlético Madrid,Inter Milan,H,1.0,2.0,1.0,1.0,1.0
+UCL_41c06cc8e536ec75,2023-24,2024-03-13,Borussia Dortmund,PSV Eindhoven,H,2.0,2.0,0.0,1.0,0.0
+UCL_a128949135996050,2023-24,2024-04-09,Arsenal,Bayern Munich,D,0.0,2.0,2.0,0.0,1.0
+UCL_49fdc2f8bc660f2f,2023-24,2024-04-09,Real Madrid,Manchester City,D,0.0,3.0,3.0,0.0,1.0
+UCL_0768ec2c84f47ac4,2023-24,2024-04-10,Atlético Madrid,Borussia Dortmund,H,1.0,2.0,1.0,1.0,1.0
+UCL_3ba7c04d69876768,2023-24,2024-04-10,Paris Saint-Germain,Barcelona,A,-1.0,2.0,3.0,0.0,1.0
+UCL_0c6de1fc35527f37,2023-24,2024-04-16,Barcelona,Paris Saint-Germain,A,-3.0,1.0,4.0,0.0,1.0
+UCL_b1499c3c22717c76,2023-24,2024-04-16,Borussia Dortmund,Atlético Madrid,H,2.0,4.0,2.0,1.0,1.0
+UCL_7727a0872acbd785,2023-24,2024-04-17,Bayern Munich,Arsenal,H,1.0,1.0,0.0,1.0,0.0
+UCL_9c39a88be36899b6,2023-24,2024-04-17,Manchester City,Real Madrid,D,0.0,1.0,1.0,0.0,0.0
+UCL_296760ca3c4c6828,2023-24,2024-04-30,Bayern Munich,Real Madrid,D,0.0,2.0,2.0,0.0,1.0
+UCL_0371d352231d4c0c,2023-24,2024-05-01,Borussia Dortmund,Paris Saint-Germain,H,1.0,1.0,0.0,1.0,0.0
+UCL_9fde0ad6ea7779c1,2023-24,2024-05-07,Paris Saint-Germain,Borussia Dortmund,A,-1.0,0.0,1.0,0.0,0.0
+UCL_5d4f9d1587b859f9,2023-24,2024-05-08,Real Madrid,Bayern Munich,H,1.0,2.0,1.0,1.0,1.0
+UCL_a6e735b33aa9abd5,2023-24,2024-06-01,Borussia Dortmund,Real Madrid,A,-2.0,0.0,2.0,0.0,0.0

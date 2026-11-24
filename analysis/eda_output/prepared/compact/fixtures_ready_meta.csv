@@ -1,0 +1,129 @@
+match_id,season,match_date,home_team,away_team,status
+UCL_307c462109c24b08,2026-27,2026-09-08,AEK Athens,LASK,played
+UCL_4e6457790b979c82,2026-27,2026-09-08,Borussia Dortmund,Villarreal,played
+UCL_4d9ab35effb14e8a,2026-27,2026-09-08,Club Brugge,Aston Villa,played
+UCL_b3939dd5cda566c1,2026-27,2026-09-08,Lille,Real Betis,played
+UCL_45f7d2fa208199c7,2026-27,2026-09-08,Porto,Manchester City,played
+UCL_c1aa12ae27d341e4,2026-27,2026-09-08,Real Madrid,Inter,played
+UCL_79c2eee3e028448d,2026-27,2026-09-09,Barcelona,Feyenoord,played
+UCL_73eb5885fa3b9c6c,2026-27,2026-09-09,Liverpool,Atlético de Madrid,played
+UCL_c13d96036554fb81,2026-27,2026-09-09,Napoli,Arsenal,played
+UCL_a75024562d262917,2026-27,2026-09-09,Sporting CP,Galatasaray,played
+UCL_d48e4b0840293433,2026-27,2026-09-09,Stuttgart,Viking,played
+UCL_f7bf54a559541dea,2026-27,2026-09-10,Bayern München,Bodø/Glimt,played
+UCL_4da92034142c3bba,2026-27,2026-09-10,Como,Leipzig,played
+UCL_13571e8731135cc2,2026-27,2026-09-10,Fenerbahçe,Roma,played
+UCL_44865394ca0bfe1a,2026-27,2026-09-10,PSV Eindhoven,Shakhtar Donetsk,played
+UCL_74a93418a15d3bd2,2026-27,2026-09-10,Slavia Praha,Lens,played
+UCL_8c0c1cfb23d67822,2026-27,2026-10-13,Arsenal,Lille,played
+UCL_b5f8c9ed338b1048,2026-27,2026-10-13,Atlético de Madrid,Manchester United,played
+UCL_428aecde813a2bad,2026-27,2026-10-13,Galatasaray,Barcelona,played
+UCL_f47de1c5bdad5399,2026-27,2026-10-13,Inter,Club Brugge,played
+UCL_5fdd518564489b40,2026-27,2026-10-13,Leipzig,PSV Eindhoven,played
+UCL_eaee568a3ecb1693,2026-27,2026-10-13,Lens,Sporting CP,played
+UCL_90706ac3ed870083,2026-27,2026-10-13,Viking,Bayern München,played
+UCL_34663b17cff58260,2026-27,2026-10-13,Villarreal,Napoli,played
+UCL_2d1b1640b4558f74,2026-27,2026-10-14,Aston Villa,Fenerbahçe,played
+UCL_70fb80c4e26045ab,2026-27,2026-10-14,Bodø/Glimt,Borussia Dortmund,played
+UCL_732d03675bd8d82a,2026-27,2026-10-14,Feyenoord,Como,played
+UCL_3501b7cb0a1d52c5,2026-27,2026-10-14,LASK,Liverpool,played
+UCL_fb66429333da04c5,2026-27,2026-10-14,Manchester City,Paris Saint-Germain,played
+UCL_a8ed396e09e16a51,2026-27,2026-10-14,Real Betis,Porto,played
+UCL_fc8cbcda579060f1,2026-27,2026-10-14,Roma,Real Madrid,played
+UCL_44c8c81c2ddeaac3,2026-27,2026-10-14,Shakhtar Donetsk,AEK Athens,played
+UCL_69d12acc598e85da,2026-27,2026-10-20,Fenerbahçe,Slavia Praha,played
+UCL_38ea5a3422d299c0,2026-27,2026-10-20,Liverpool,Villarreal,played
+UCL_2a55740cd6534aae,2026-27,2026-10-20,Manchester City,AEK Athens,played
+UCL_737b79d0086e1307,2026-27,2026-10-20,Napoli,Bodø/Glimt,played
+UCL_f3b6cadfe4c05782,2026-27,2026-10-20,Paris Saint-Germain,Barcelona,played
+UCL_ae90610792f3337b,2026-27,2026-10-20,Porto,PSV Eindhoven,played
+UCL_11ef103453b47828,2026-27,2026-10-20,Stuttgart,Atlético de Madrid,played
+UCL_410050f4f7d52d89,2026-27,2026-10-21,Aston Villa,Viking,played
+UCL_1555e0c6a0615e14,2026-27,2026-10-21,Bayern München,Arsenal,played
+UCL_75d0ad9800099ee2,2026-27,2026-10-21,Club Brugge,Lens,played
+UCL_2df1ac195918a639,2026-27,2026-10-21,Como,Manchester United,played
+UCL_046c3c1247847dc8,2026-27,2026-10-21,Inter,Shakhtar Donetsk,played
+UCL_d15f2fccd9cb3a2e,2026-27,2026-10-21,Lille,Galatasaray,played
+UCL_16b34f0b9261b5dc,2026-27,2026-10-21,Real Betis,Feyenoord,played
+UCL_127525757628cd75,2026-27,2026-10-21,Real Madrid,Leipzig,played
+UCL_f0f0a8fd90795ad9,2026-27,2026-10-21,Sporting CP,LASK,played
+UCL_41e15ffe083a2ad0,2026-27,2026-11-03,Atlético de Madrid,Bayern München,played
+UCL_ac68527220776232,2026-27,2026-11-03,Barcelona,Aston Villa,played
+UCL_803778bd8bbd6854,2026-27,2026-11-03,Bodø/Glimt,Lille,played
+UCL_280232d5b10e76a6,2026-27,2026-11-03,Feyenoord,Inter,played
+UCL_ec1c01b6df580da8,2026-27,2026-11-03,Galatasaray,Stuttgart,played
+UCL_9f223fc1311ad9de,2026-27,2026-11-03,Manchester United,Roma,played
+UCL_2dca03eec1aa7bf6,2026-27,2026-11-03,Shakhtar Donetsk,Sporting CP,played
+UCL_09da293062e6578b,2026-27,2026-11-03,Villarreal,Paris Saint-Germain,played
+UCL_c53beac55820f4ca,2026-27,2026-11-04,AEK Athens,Real Madrid,played
+UCL_269361275093ec0a,2026-27,2026-11-04,Borussia Dortmund,Real Betis,played
+UCL_e7fa5c1f5df4e00f,2026-27,2026-11-04,Fenerbahçe,Liverpool,played
+UCL_3af3a9b7750f068a,2026-27,2026-11-04,Leipzig,Manchester City,played
+UCL_80805b2cb98b809d,2026-27,2026-11-04,Lens,Como,played
+UCL_0ec7ddf865f13869,2026-27,2026-11-04,PSV Eindhoven,Club Brugge,played
+UCL_e2f7705c61631081,2026-27,2026-11-04,Porto,Napoli,played
+UCL_a4a67d148b2973a6,2026-27,2026-11-04,Slavia Praha,Arsenal,played
+UCL_e9477e0c299c80ee,2026-27,2026-11-24,Arsenal,Borussia Dortmund,scheduled
+UCL_a110ec576ce81639,2026-27,2026-11-24,Bodø/Glimt,LASK,scheduled
+UCL_8b9169ab366d12b5,2026-27,2026-11-24,Como,AEK Athens,scheduled
+UCL_82ee7708fedccdbf,2026-27,2026-11-24,Feyenoord,Porto,scheduled
+UCL_d365689a0064c674,2026-27,2026-11-24,Galatasaray,Aston Villa,scheduled
+UCL_07eb3202a92ccb33,2026-27,2026-11-24,Leipzig,Lens,scheduled
+UCL_c040b922235a87e0,2026-27,2026-11-24,Manchester City,Napoli,scheduled
+UCL_54e0c69a90a20570,2026-27,2026-11-24,Real Madrid,PSV Eindhoven,scheduled
+UCL_9cb1eea27a3ec63c,2026-27,2026-11-25,Atlético de Madrid,Viking,scheduled
+UCL_1ef17594ef380284,2026-27,2026-11-25,Club Brugge,Liverpool,scheduled
+UCL_f7fb1624d712e983,2026-27,2026-11-25,Inter,Stuttgart,scheduled
+UCL_d8aa7044db78b834,2026-27,2026-11-25,Lille,Bayern München,scheduled
+UCL_8a83e9ecdb9dff1e,2026-27,2026-11-25,Paris Saint-Germain,Roma,scheduled
+UCL_576ed06f3ad84121,2026-27,2026-11-25,Shakhtar Donetsk,Fenerbahçe,scheduled
+UCL_4a06b41baf263939,2026-27,2026-11-25,Slavia Praha,Villarreal,scheduled
+UCL_0284706f8f623ad3,2026-27,2026-11-25,Sporting CP,Manchester United,scheduled
+UCL_3736ec061340999d,2026-27,2026-12-08,AEK Athens,Galatasaray,scheduled
+UCL_d18824f66427d9d1,2026-27,2026-12-08,Aston Villa,Paris Saint-Germain,scheduled
+UCL_f945ee556d7345f5,2026-27,2026-12-08,Barcelona,Manchester City,scheduled
+UCL_fa8f44e79b29f98d,2026-27,2026-12-08,Bayern München,Slavia Praha,scheduled
+UCL_aea9dfa8bbed617f,2026-27,2026-12-08,Manchester United,Leipzig,scheduled
+UCL_944112b5b94b8a79,2026-27,2026-12-08,Napoli,Club Brugge,scheduled
+UCL_5f468d0453777f5b,2026-27,2026-12-08,Roma,Sporting CP,scheduled
+UCL_ac2724a34b90bb9f,2026-27,2026-12-08,Viking,Feyenoord,scheduled
+UCL_e66780b2d75c376f,2026-27,2026-12-09,Arsenal,Real Madrid,scheduled
+UCL_623302b73272ec35,2026-27,2026-12-09,Borussia Dortmund,Inter,scheduled
+UCL_c732c2f460701740,2026-27,2026-12-09,LASK,Fenerbahçe,scheduled
+UCL_486002d80bde8db4,2026-27,2026-12-09,Lens,Bodø/Glimt,scheduled
+UCL_0202100886fd3478,2026-27,2026-12-09,Liverpool,Porto,scheduled
+UCL_7b4ef077a4f29d6d,2026-27,2026-12-09,PSV Eindhoven,Atlético de Madrid,scheduled
+UCL_99e1381c0cdfba48,2026-27,2026-12-09,Real Betis,Como,scheduled
+UCL_688a6a80fea779dc,2026-27,2026-12-09,Stuttgart,Lille,scheduled
+UCL_5d599b8e06e5315e,2026-27,2027-01-19,AEK Athens,Roma,scheduled
+UCL_88c0e6f1ee93a6ff,2026-27,2027-01-19,Aston Villa,Borussia Dortmund,scheduled
+UCL_d3e09f6b3320b418,2026-27,2027-01-19,Bodø/Glimt,Atlético de Madrid,scheduled
+UCL_6179e10096f70b3a,2026-27,2027-01-19,Galatasaray,Feyenoord,scheduled
+UCL_0bef7391aff8e94a,2026-27,2027-01-19,Inter,Liverpool,scheduled
+UCL_92e4f7d216db8d5e,2026-27,2027-01-19,Porto,Slavia Praha,scheduled
+UCL_e4a856ec56e73713,2026-27,2027-01-19,Real Madrid,LASK,scheduled
+UCL_647e309bafc91765,2026-27,2027-01-19,Stuttgart,Club Brugge,scheduled
+UCL_26523a95cdd79386,2026-27,2027-01-20,Como,Paris Saint-Germain,scheduled
+UCL_d539b0475a54ca00,2026-27,2027-01-20,Fenerbahçe,Villarreal,scheduled
+UCL_ad2370cc28c76021,2026-27,2027-01-20,Leipzig,Shakhtar Donetsk,scheduled
+UCL_629e97aa5a551953,2026-27,2027-01-20,Lens,Manchester City,scheduled
+UCL_4c0c40b587daaf7d,2026-27,2027-01-20,Manchester United,Bayern München,scheduled
+UCL_0a63e83a7e4ba915,2026-27,2027-01-20,Real Betis,Arsenal,scheduled
+UCL_3ab07083f0726d9d,2026-27,2027-01-20,Sporting CP,Barcelona,scheduled
+UCL_e6bee50218b450fd,2026-27,2027-01-20,Viking,PSV Eindhoven,scheduled
+UCL_d20882e11978d8df,2026-27,2027-01-27,Atlético de Madrid,Fenerbahçe,scheduled
+UCL_f1637624530c9a2e,2026-27,2027-01-27,Barcelona,Como,scheduled
+UCL_f4b8a278650f635f,2026-27,2027-01-27,Bayern München,Real Betis,scheduled
+UCL_bcdfcf315096a923,2026-27,2027-01-27,Borussia Dortmund,AEK Athens,scheduled
+UCL_7a62c69e16661091,2026-27,2027-01-27,Club Brugge,Bodø/Glimt,scheduled
+UCL_7eb634b5133d3372,2026-27,2027-01-27,Feyenoord,Leipzig,scheduled
+UCL_6b0ad5a7bd3bad4c,2026-27,2027-01-27,LASK,Porto,scheduled
+UCL_471f101cc5d83d7b,2026-27,2027-01-27,Liverpool,Lens,scheduled
+UCL_3bfc7c182ea6838f,2026-27,2027-01-27,Manchester City,Sporting CP,scheduled
+UCL_8c99ddecad951e5a,2026-27,2027-01-27,Napoli,Viking,scheduled
+UCL_ea85207e42307b9c,2026-27,2027-01-27,PSV Eindhoven,Stuttgart,scheduled
+UCL_0a77ae16b40248a2,2026-27,2027-01-27,Paris Saint-Germain,Galatasaray,scheduled
+UCL_6489f111921db7c4,2026-27,2027-01-27,Roma,Lille,scheduled
+UCL_cdff47636bf98476,2026-27,2027-01-27,Shakhtar Donetsk,Real Madrid,scheduled
+UCL_9a719b1d708bef54,2026-27,2027-01-27,Slavia Praha,Aston Villa,scheduled
+UCL_7111794f634c5abf,2026-27,2027-01-27,Villarreal,Manchester United,scheduled
