@@ -1,0 +1,174 @@
+match_id,season,match_date,home_team,away_team,label_90min_wdl,label_90min_goal_diff,label_90min_home_goals,label_90min_away_goals,label_90min_home_win,label_90min_over25
+UCL_65a7969b616eedc0,2024-25,2024-09-17,Bayern Munich,Dinamo Zagreb,H,7.0,9.0,2.0,1.0,1.0
+UCL_290aa68b326e71ec,2024-25,2024-09-17,Juventus,PSV Eindhoven,H,2.0,3.0,1.0,1.0,1.0
+UCL_e4585a9934fb4275,2024-25,2024-09-17,Milan,Liverpool,A,-2.0,1.0,3.0,0.0,1.0
+UCL_da15974080e8577a,2024-25,2024-09-17,Real Madrid,VfB Stuttgart,H,2.0,3.0,1.0,1.0,1.0
+UCL_aeffc4726be13787,2024-25,2024-09-17,Sporting CP,Lille,H,2.0,2.0,0.0,1.0,0.0
+UCL_a937b1e1c0e4cc34,2024-25,2024-09-17,Young Boys,Aston Villa,A,-3.0,0.0,3.0,0.0,1.0
+UCL_9ebfd3e969e64d96,2024-25,2024-09-18,Bologna,Shakhtar Donetsk,D,0.0,0.0,0.0,0.0,0.0
+UCL_ea55eaba0ba8e371,2024-25,2024-09-18,Club Brugge,Borussia Dortmund,A,-3.0,0.0,3.0,0.0,1.0
+UCL_dc623b8f717abae0,2024-25,2024-09-18,Manchester City,Inter Milan,D,0.0,0.0,0.0,0.0,0.0
+UCL_e846d98f9cefe51a,2024-25,2024-09-18,Paris Saint-Germain,Girona,H,1.0,1.0,0.0,1.0,0.0
+UCL_08443f584264b051,2024-25,2024-09-18,Sparta Prague,Red Bull Salzburg,H,3.0,3.0,0.0,1.0,1.0
+UCL_5bb06e36e99d2fc9,2024-25,2024-09-19,Atalanta,Arsenal,D,0.0,0.0,0.0,0.0,0.0
+UCL_7387689109ec0802,2024-25,2024-09-19,Atlético Madrid,RB Leipzig,H,1.0,2.0,1.0,1.0,1.0
+UCL_45a161ccaa88298e,2024-25,2024-09-19,Brest,Sturm Graz,H,1.0,2.0,1.0,1.0,1.0
+UCL_8f6dc3e9716e7d6f,2024-25,2024-09-19,Feyenoord,Bayer Leverkusen,A,-4.0,0.0,4.0,0.0,1.0
+UCL_9bc55d3d680a3087,2024-25,2024-09-19,Monaco,Barcelona,H,1.0,2.0,1.0,1.0,1.0
+UCL_193973b0a47053ab,2024-25,2024-10-01,Arsenal,Paris Saint-Germain,H,2.0,2.0,0.0,1.0,0.0
+UCL_542c4e870a62f703,2024-25,2024-10-01,Barcelona,Young Boys,H,5.0,5.0,0.0,1.0,1.0
+UCL_7678391aeedadaab,2024-25,2024-10-01,Bayer Leverkusen,Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_9d1b7e7b2148cd5b,2024-25,2024-10-01,Borussia Dortmund,Celtic,H,6.0,7.0,1.0,1.0,1.0
+UCL_ace8754060f4fc1a,2024-25,2024-10-01,PSV Eindhoven,Sporting CP,D,0.0,1.0,1.0,0.0,0.0
+UCL_70341fb40ce319ed,2024-25,2024-10-01,Red Bull Salzburg,Brest,A,-4.0,0.0,4.0,0.0,1.0
+UCL_b4d7c2f1916e4265,2024-25,2024-10-01,VfB Stuttgart,Sparta Prague,D,0.0,1.0,1.0,0.0,0.0
+UCL_be1ed891928cf98e,2024-25,2024-10-02,Aston Villa,Bayern Munich,H,1.0,1.0,0.0,1.0,0.0
+UCL_6de735e39b5af923,2024-25,2024-10-02,Benfica,Atlético Madrid,H,4.0,4.0,0.0,1.0,1.0
+UCL_e9ca33107e3bb509,2024-25,2024-10-02,Dinamo Zagreb,Monaco,D,0.0,2.0,2.0,0.0,1.0
+UCL_349b1bd8ff261093,2024-25,2024-10-02,Girona,Feyenoord,A,-1.0,2.0,3.0,0.0,1.0
+UCL_268be74847b3dc47,2024-25,2024-10-02,Lille,Real Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_c8952b74db704e9b,2024-25,2024-10-02,Liverpool,Bologna,H,2.0,2.0,0.0,1.0,0.0
+UCL_4bf270d81288bc52,2024-25,2024-10-02,RB Leipzig,Juventus,A,-1.0,2.0,3.0,0.0,1.0
+UCL_6921dccb7f37adbf,2024-25,2024-10-02,Shakhtar Donetsk,Atalanta,A,-3.0,0.0,3.0,0.0,1.0
+UCL_0537231e3392acc5,2024-25,2024-10-02,Sturm Graz,Club Brugge,A,-1.0,0.0,1.0,0.0,0.0
+UCL_f41091a73ef0695e,2024-25,2024-10-22,Arsenal,Shakhtar Donetsk,H,1.0,1.0,0.0,1.0,0.0
+UCL_322f568857b2b901,2024-25,2024-10-22,Aston Villa,Bologna,H,2.0,2.0,0.0,1.0,0.0
+UCL_b34792e6eab083a6,2024-25,2024-10-22,Juventus,VfB Stuttgart,A,-1.0,0.0,1.0,0.0,0.0
+UCL_428f5d2851099db5,2024-25,2024-10-22,Milan,Club Brugge,H,2.0,3.0,1.0,1.0,1.0
+UCL_6d4055b1fbaec635,2024-25,2024-10-22,Paris Saint-Germain,PSV Eindhoven,D,0.0,1.0,1.0,0.0,0.0
+UCL_2269587bb9f368d0,2024-25,2024-10-22,Real Madrid,Borussia Dortmund,H,3.0,5.0,2.0,1.0,1.0
+UCL_14bce900ed97ad68,2024-25,2024-10-22,Sturm Graz,Sporting CP,A,-2.0,0.0,2.0,0.0,0.0
+UCL_a5784d3e24166da8,2024-25,2024-10-23,Atalanta,Celtic,D,0.0,0.0,0.0,0.0,0.0
+UCL_fce4e119e600040e,2024-25,2024-10-23,Atlético Madrid,Lille,A,-2.0,1.0,3.0,0.0,1.0
+UCL_3080cad9ea943d89,2024-25,2024-10-23,Barcelona,Bayern Munich,H,3.0,4.0,1.0,1.0,1.0
+UCL_403d4b56e270ac4f,2024-25,2024-10-23,Benfica,Feyenoord,A,-2.0,1.0,3.0,0.0,1.0
+UCL_ce1727563eb620f7,2024-25,2024-10-23,Brest,Bayer Leverkusen,D,0.0,1.0,1.0,0.0,0.0
+UCL_936af9e385870456,2024-25,2024-10-23,Manchester City,Sparta Prague,H,5.0,5.0,0.0,1.0,1.0
+UCL_71cc070d51b6aeb9,2024-25,2024-10-23,RB Leipzig,Liverpool,A,-1.0,0.0,1.0,0.0,0.0
+UCL_0751d78f1444b35e,2024-25,2024-10-23,Red Bull Salzburg,Dinamo Zagreb,A,-2.0,0.0,2.0,0.0,0.0
+UCL_f7d7e64c58fb1772,2024-25,2024-10-23,Young Boys,Inter Milan,A,-1.0,0.0,1.0,0.0,0.0
+UCL_aa1b7a8ffd357e54,2024-25,2024-11-05,Bologna,Monaco,A,-1.0,0.0,1.0,0.0,0.0
+UCL_37f096c1eebd132b,2024-25,2024-11-05,Borussia Dortmund,Sturm Graz,H,1.0,1.0,0.0,1.0,0.0
+UCL_32ce03a38d4ecac0,2024-25,2024-11-05,Celtic,RB Leipzig,H,2.0,3.0,1.0,1.0,1.0
+UCL_635bfd4f60420478,2024-25,2024-11-05,Lille,Juventus,D,0.0,1.0,1.0,0.0,0.0
+UCL_98d1e9bf53668e4a,2024-25,2024-11-05,Liverpool,Bayer Leverkusen,H,4.0,4.0,0.0,1.0,1.0
+UCL_ee2b46d0c583b350,2024-25,2024-11-05,PSV Eindhoven,Girona,H,4.0,4.0,0.0,1.0,1.0
+UCL_837cd3e53fb86a48,2024-25,2024-11-05,Real Madrid,Milan,A,-2.0,1.0,3.0,0.0,1.0
+UCL_488611680b001fa2,2024-25,2024-11-05,Sporting CP,Manchester City,H,3.0,4.0,1.0,1.0,1.0
+UCL_4d389924c2efbf49,2024-25,2024-11-06,Bayern Munich,Benfica,H,1.0,1.0,0.0,1.0,0.0
+UCL_bd5fcd5d75fc2d9a,2024-25,2024-11-06,Club Brugge,Aston Villa,H,1.0,1.0,0.0,1.0,0.0
+UCL_30c8887bbfe0fa6e,2024-25,2024-11-06,Feyenoord,Red Bull Salzburg,A,-2.0,1.0,3.0,0.0,1.0
+UCL_a236a19c90e5bd9e,2024-25,2024-11-06,Inter Milan,Arsenal,H,1.0,1.0,0.0,1.0,0.0
+UCL_975564f844b00280,2024-25,2024-11-06,Paris Saint-Germain,Atlético Madrid,A,-1.0,1.0,2.0,0.0,1.0
+UCL_516ca764016af582,2024-25,2024-11-06,Shakhtar Donetsk,Young Boys,H,1.0,2.0,1.0,1.0,1.0
+UCL_ea67774a825b3325,2024-25,2024-11-06,Sparta Prague,Brest,A,-1.0,1.0,2.0,0.0,1.0
+UCL_1009eac4b5fb97ad,2024-25,2024-11-06,VfB Stuttgart,Atalanta,A,-2.0,0.0,2.0,0.0,0.0
+UCL_e83c63898d37b755,2024-25,2024-11-26,Barcelona,Brest,H,3.0,3.0,0.0,1.0,1.0
+UCL_7b983c4e477a2d2a,2024-25,2024-11-26,Bayer Leverkusen,Red Bull Salzburg,H,5.0,5.0,0.0,1.0,1.0
+UCL_f39154040c71bfe8,2024-25,2024-11-26,Bayern Munich,Paris Saint-Germain,H,1.0,1.0,0.0,1.0,0.0
+UCL_3c84278a82bb7dc9,2024-25,2024-11-26,Inter Milan,RB Leipzig,H,1.0,1.0,0.0,1.0,0.0
+UCL_47a525f0ab874ad7,2024-25,2024-11-26,Manchester City,Feyenoord,D,0.0,3.0,3.0,0.0,1.0
+UCL_1eef9854d6134856,2024-25,2024-11-26,Sparta Prague,Atlético Madrid,A,-6.0,0.0,6.0,0.0,1.0
+UCL_7eba51dd2bda1e2a,2024-25,2024-11-26,Sporting CP,Arsenal,A,-4.0,1.0,5.0,0.0,1.0
+UCL_103d1fc1412c8956,2024-25,2024-11-26,Young Boys,Atalanta,A,-5.0,1.0,6.0,0.0,1.0
+UCL_40f7ce0a4b9e7b6a,2024-25,2024-11-27,Aston Villa,Juventus,D,0.0,0.0,0.0,0.0,0.0
+UCL_73ddad1ac5ae6386,2024-25,2024-11-27,Bologna,Lille,A,-1.0,1.0,2.0,0.0,1.0
+UCL_be64fb238c29e152,2024-25,2024-11-27,Celtic,Club Brugge,D,0.0,1.0,1.0,0.0,0.0
+UCL_8a38d25dbb5f95ae,2024-25,2024-11-27,Dinamo Zagreb,Borussia Dortmund,A,-3.0,0.0,3.0,0.0,1.0
+UCL_5ce72854c39086e6,2024-25,2024-11-27,Liverpool,Real Madrid,H,2.0,2.0,0.0,1.0,0.0
+UCL_597fe838775fcc28,2024-25,2024-11-27,Monaco,Benfica,A,-1.0,2.0,3.0,0.0,1.0
+UCL_34f24ead9912a633,2024-25,2024-11-27,PSV Eindhoven,Shakhtar Donetsk,H,1.0,3.0,2.0,1.0,1.0
+UCL_37d9888d165a624f,2024-25,2024-11-27,Sturm Graz,Girona,H,1.0,1.0,0.0,1.0,0.0
+UCL_5890071b5a74f20d,2024-25,2024-12-10,Atalanta,Real Madrid,A,-1.0,2.0,3.0,0.0,1.0
+UCL_c45fd63def3b4645,2024-25,2024-12-10,Bayer Leverkusen,Inter Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_eb3820cd48514a6d,2024-25,2024-12-10,Brest,PSV Eindhoven,H,1.0,1.0,0.0,1.0,0.0
+UCL_66059ab5a9e309a7,2024-25,2024-12-10,Club Brugge,Sporting CP,H,1.0,2.0,1.0,1.0,1.0
+UCL_b2037e2e277ff645,2024-25,2024-12-10,Dinamo Zagreb,Celtic,D,0.0,0.0,0.0,0.0,0.0
+UCL_5035015b8cdb9b79,2024-25,2024-12-10,Girona,Liverpool,A,-1.0,0.0,1.0,0.0,0.0
+UCL_83a7ae25b6fc1036,2024-25,2024-12-10,RB Leipzig,Aston Villa,A,-1.0,2.0,3.0,0.0,1.0
+UCL_12ae3c2668a7f6f3,2024-25,2024-12-10,Red Bull Salzburg,Paris Saint-Germain,A,-3.0,0.0,3.0,0.0,1.0
+UCL_34c2b20e5515f070,2024-25,2024-12-10,Shakhtar Donetsk,Bayern Munich,A,-4.0,1.0,5.0,0.0,1.0
+UCL_0fb1f3cf4fd790d2,2024-25,2024-12-11,Arsenal,Monaco,H,3.0,3.0,0.0,1.0,1.0
+UCL_4e1e86f43b1f5a7e,2024-25,2024-12-11,Benfica,Bologna,D,0.0,0.0,0.0,0.0,0.0
+UCL_9ef6d50a8c794207,2024-25,2024-12-11,Borussia Dortmund,Barcelona,A,-1.0,2.0,3.0,0.0,1.0
+UCL_fa3115033037c8aa,2024-25,2024-12-11,Feyenoord,Sparta Prague,H,2.0,4.0,2.0,1.0,1.0
+UCL_6fc68b13d6e9beb2,2024-25,2024-12-11,Juventus,Manchester City,H,2.0,2.0,0.0,1.0,0.0
+UCL_120ee2d33fdf5f21,2024-25,2024-12-11,Lille,Sturm Graz,H,1.0,3.0,2.0,1.0,1.0
+UCL_9cd6c9bdd49f7f78,2024-25,2024-12-11,VfB Stuttgart,Young Boys,H,4.0,5.0,1.0,1.0,1.0
+UCL_542e56b478cf2026,2024-25,2025-01-21,Atalanta,Sturm Graz,H,5.0,5.0,0.0,1.0,1.0
+UCL_7b16f6817e71bab1,2024-25,2025-01-21,Atlético Madrid,Bayer Leverkusen,H,1.0,2.0,1.0,1.0,1.0
+UCL_876dfc6775177cae,2024-25,2025-01-21,Benfica,Barcelona,A,-1.0,4.0,5.0,0.0,1.0
+UCL_5d01ecd7ad401dcf,2024-25,2025-01-21,Bologna,Borussia Dortmund,H,1.0,2.0,1.0,1.0,1.0
+UCL_d39f16790949cb89,2024-25,2025-01-21,Club Brugge,Juventus,D,0.0,0.0,0.0,0.0,0.0
+UCL_98f2a39c19179696,2024-25,2025-01-21,Liverpool,Lille,H,1.0,2.0,1.0,1.0,1.0
+UCL_a7458d4e03ecf7c6,2024-25,2025-01-21,Monaco,Aston Villa,H,1.0,1.0,0.0,1.0,0.0
+UCL_506fb0b1f6177ead,2024-25,2025-01-22,Arsenal,Dinamo Zagreb,H,3.0,3.0,0.0,1.0,1.0
+UCL_13e48c8cf0c21203,2024-25,2025-01-22,Celtic,Young Boys,H,1.0,1.0,0.0,1.0,0.0
+UCL_669f646f6eb9aa17,2024-25,2025-01-22,Feyenoord,Bayern Munich,H,3.0,3.0,0.0,1.0,1.0
+UCL_83ae03c36ee22da1,2024-25,2025-01-22,Milan,Girona,H,1.0,1.0,0.0,1.0,0.0
+UCL_ded078aa7f9cb048,2024-25,2025-01-22,Paris Saint-Germain,Manchester City,H,2.0,4.0,2.0,1.0,1.0
+UCL_e35694e5c812e70f,2024-25,2025-01-22,RB Leipzig,Sporting CP,H,1.0,2.0,1.0,1.0,1.0
+UCL_157df7b27b0c3c0b,2024-25,2025-01-22,Real Madrid,Red Bull Salzburg,H,4.0,5.0,1.0,1.0,1.0
+UCL_93a8ce78423517bd,2024-25,2025-01-22,Shakhtar Donetsk,Brest,H,2.0,2.0,0.0,1.0,0.0
+UCL_090d0e383a95eecc,2024-25,2025-01-22,Sparta Prague,Inter Milan,A,-1.0,0.0,1.0,0.0,0.0
+UCL_e6ad106e081a93ac,2024-25,2025-01-29,Aston Villa,Celtic,H,2.0,4.0,2.0,1.0,1.0
+UCL_f1e1690e16061e55,2024-25,2025-01-29,Barcelona,Atalanta,D,0.0,2.0,2.0,0.0,1.0
+UCL_056b9bb5c32ec6fa,2024-25,2025-01-29,Bayer Leverkusen,Sparta Prague,H,2.0,2.0,0.0,1.0,0.0
+UCL_1a91d334577c3943,2024-25,2025-01-29,Borussia Dortmund,Shakhtar Donetsk,H,2.0,3.0,1.0,1.0,1.0
+UCL_398a314b41819395,2024-25,2025-01-29,Brest,Real Madrid,A,-3.0,0.0,3.0,0.0,1.0
+UCL_5bf85a0fc480ffeb,2024-25,2025-01-29,Dinamo Zagreb,Milan,H,1.0,2.0,1.0,1.0,1.0
+UCL_4396b609e5f35f3a,2024-25,2025-01-29,Girona,Arsenal,A,-1.0,1.0,2.0,0.0,1.0
+UCL_e612d7726c129f13,2024-25,2025-01-29,Inter Milan,Monaco,H,3.0,3.0,0.0,1.0,1.0
+UCL_594065038dbf3c63,2024-25,2025-01-29,Juventus,Benfica,A,-2.0,0.0,2.0,0.0,0.0
+UCL_3b632701001c2a84,2024-25,2025-01-29,Lille,Feyenoord,H,5.0,6.0,1.0,1.0,1.0
+UCL_7a0e1f527739c196,2024-25,2025-01-29,Manchester City,Club Brugge,H,2.0,3.0,1.0,1.0,1.0
+UCL_b9e905828a1f4250,2024-25,2025-01-29,PSV Eindhoven,Liverpool,H,1.0,3.0,2.0,1.0,1.0
+UCL_59740d6cedb0015c,2024-25,2025-01-29,Red Bull Salzburg,Atlético Madrid,A,-3.0,1.0,4.0,0.0,1.0
+UCL_3d006ba35f4ad00d,2024-25,2025-01-29,Sporting CP,Bologna,D,0.0,1.0,1.0,0.0,0.0
+UCL_9eed72b9e4451698,2024-25,2025-01-29,Sturm Graz,RB Leipzig,H,1.0,1.0,0.0,1.0,0.0
+UCL_58b4fffdad708d88,2024-25,2025-01-29,VfB Stuttgart,Paris Saint-Germain,A,-3.0,1.0,4.0,0.0,1.0
+UCL_ca795ca73a11e8dc,2024-25,2025-02-11,Brest,Paris Saint-Germain,A,-3.0,0.0,3.0,0.0,1.0
+UCL_0b01dbdaa0a979dc,2024-25,2025-02-11,Juventus,PSV Eindhoven,H,1.0,2.0,1.0,1.0,1.0
+UCL_6aab3af50e9cf4b2,2024-25,2025-02-11,Manchester City,Real Madrid,A,-1.0,2.0,3.0,0.0,1.0
+UCL_b5fcc46aa9847959,2024-25,2025-02-11,Sporting CP,Borussia Dortmund,A,-3.0,0.0,3.0,0.0,1.0
+UCL_11d9378d6563894e,2024-25,2025-02-12,Celtic,Bayern Munich,A,-1.0,1.0,2.0,0.0,1.0
+UCL_30f18527a6e858fb,2024-25,2025-02-12,Club Brugge,Atalanta,H,1.0,2.0,1.0,1.0,1.0
+UCL_8fcdb3e517bb9003,2024-25,2025-02-12,Feyenoord,Milan,H,1.0,1.0,0.0,1.0,0.0
+UCL_0ffdf5a9f0734381,2024-25,2025-02-12,Monaco,Benfica,A,-1.0,0.0,1.0,0.0,0.0
+UCL_9ee6678b590b0bc9,2024-25,2025-02-18,Atalanta,Club Brugge,A,-2.0,1.0,3.0,0.0,1.0
+UCL_7b391cb25cd4fac1,2024-25,2025-02-18,Bayern Munich,Celtic,D,0.0,1.0,1.0,0.0,0.0
+UCL_c1bc69193c337d81,2024-25,2025-02-18,Benfica,Monaco,D,0.0,3.0,3.0,0.0,1.0
+UCL_da32d4042c45d79a,2024-25,2025-02-18,Milan,Feyenoord,D,0.0,1.0,1.0,0.0,0.0
+UCL_6f2003ccf8232485,2024-25,2025-02-19,Borussia Dortmund,Sporting CP,D,0.0,0.0,0.0,0.0,0.0
+UCL_7dfebbfc1d5de8be,2024-25,2025-02-19,PSV Eindhoven,Juventus,H,1.0,2.0,1.0,1.0,1.0
+UCL_9287462e041c5cd5,2024-25,2025-02-19,Paris Saint-Germain,Brest,H,7.0,7.0,0.0,1.0,1.0
+UCL_ce4bf6f4d17a2fe7,2024-25,2025-02-19,Real Madrid,Manchester City,H,2.0,3.0,1.0,1.0,1.0
+UCL_3bbdcaf8f134b6ef,2024-25,2025-03-04,Borussia Dortmund,Lille,D,0.0,1.0,1.0,0.0,0.0
+UCL_9f2183bbabb4129f,2024-25,2025-03-04,Club Brugge,Aston Villa,A,-2.0,1.0,3.0,0.0,1.0
+UCL_a68fdcd374f73559,2024-25,2025-03-04,PSV Eindhoven,Arsenal,A,-6.0,1.0,7.0,0.0,1.0
+UCL_2471cf12d0b5d69b,2024-25,2025-03-04,Real Madrid,Atlético Madrid,H,1.0,2.0,1.0,1.0,1.0
+UCL_71bdcf5b3b43c8a9,2024-25,2025-03-05,Bayern Munich,Bayer Leverkusen,H,3.0,3.0,0.0,1.0,1.0
+UCL_f4964e20328be5a9,2024-25,2025-03-05,Benfica,Barcelona,A,-1.0,0.0,1.0,0.0,0.0
+UCL_9c538842a4f11691,2024-25,2025-03-05,Feyenoord,Inter Milan,A,-2.0,0.0,2.0,0.0,0.0
+UCL_09b7d1db9da9d661,2024-25,2025-03-05,Paris Saint-Germain,Liverpool,A,-1.0,0.0,1.0,0.0,0.0
+UCL_cd3cb4e2ef0c4c3b,2024-25,2025-03-11,Barcelona,Benfica,H,2.0,3.0,1.0,1.0,1.0
+UCL_0e8facc91f477649,2024-25,2025-03-11,Bayer Leverkusen,Bayern Munich,A,-2.0,0.0,2.0,0.0,0.0
+UCL_634013b95c93a347,2024-25,2025-03-11,Inter Milan,Feyenoord,H,1.0,2.0,1.0,1.0,1.0
+UCL_e581eecac3591801,2024-25,2025-03-11,Liverpool,Paris Saint-Germain,A,-1.0,0.0,1.0,0.0,0.0
+UCL_9b19c4d8766d981b,2024-25,2025-03-12,Arsenal,PSV Eindhoven,D,0.0,2.0,2.0,0.0,1.0
+UCL_6a01acb24340d24e,2024-25,2025-03-12,Aston Villa,Club Brugge,H,3.0,3.0,0.0,1.0,1.0
+UCL_d7d4be4284d0c013,2024-25,2025-03-12,Atlético Madrid,Real Madrid,H,1.0,1.0,0.0,1.0,0.0
+UCL_4c9fe33f466e5775,2024-25,2025-03-12,Lille,Borussia Dortmund,A,-1.0,1.0,2.0,0.0,1.0
+UCL_d41ac5e41b04b019,2024-25,2025-04-08,Arsenal,Real Madrid,H,3.0,3.0,0.0,1.0,1.0
+UCL_1da3c2f8f929e573,2024-25,2025-04-08,Bayern Munich,Inter Milan,A,-1.0,1.0,2.0,0.0,1.0
+UCL_a5067f2a97a32150,2024-25,2025-04-09,Barcelona,Borussia Dortmund,H,4.0,4.0,0.0,1.0,1.0
+UCL_9a2abcf556a907e9,2024-25,2025-04-09,Paris Saint-Germain,Aston Villa,H,2.0,3.0,1.0,1.0,1.0
+UCL_98f6d7cf8e586b3b,2024-25,2025-04-15,Aston Villa,Paris Saint-Germain,H,1.0,3.0,2.0,1.0,1.0
+UCL_372843c785931e29,2024-25,2025-04-15,Borussia Dortmund,Barcelona,H,2.0,3.0,1.0,1.0,1.0
+UCL_33c44160c82f1853,2024-25,2025-04-16,Inter Milan,Bayern Munich,D,0.0,2.0,2.0,0.0,1.0
+UCL_f3203ae5c0598bac,2024-25,2025-04-16,Real Madrid,Arsenal,A,-1.0,1.0,2.0,0.0,1.0
+UCL_32050cf8e90ed3c1,2024-25,2025-04-29,Arsenal,Paris Saint-Germain,A,-1.0,0.0,1.0,0.0,0.0
+UCL_6d4fb4b0b1ef7f9c,2024-25,2025-04-30,Barcelona,Inter Milan,D,0.0,3.0,3.0,0.0,1.0
+UCL_c70ae774690715de,2024-25,2025-05-06,Inter Milan,Barcelona,D,0.0,3.0,3.0,0.0,1.0
+UCL_5f675a6d5f92b9dc,2024-25,2025-05-07,Paris Saint-Germain,Arsenal,H,1.0,2.0,1.0,1.0,1.0
+UCL_1da3b3c2ffa48589,2024-25,2025-05-31,Paris Saint-Germain,Inter Milan,H,5.0,5.0,0.0,1.0,1.0

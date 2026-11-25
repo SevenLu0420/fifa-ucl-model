@@ -1,0 +1,4 @@
+specification,in_sample_R2,n
+rating_gap,0.2441676628011421,1433
+rating_gap + xi_gap,0.24427638937145013,1433
+rating_gap + xi_gap + bench_gap,0.24442487746825903,1433
