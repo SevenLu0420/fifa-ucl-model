@@ -1,0 +1,19 @@
+route,output,group,mean_abs_shap
+Goal Difference,Goal Difference,Club / Context,1.1664407361499232
+Goal Difference,Goal Difference,DEF,1.9250661003194112
+Two Goals,Away goals,ATT,0.1389874052670493
+Two Goals,Away goals,Club / Context,0.15968609420260677
+Two Goals,Away goals,DEF,0.3261633241037457
+Two Goals,Away goals,GK,0.07357918744678031
+Two Goals,Away goals,MID,0.182878323931145
+Two Goals,Home goals,ATT,0.12517886727386826
+Two Goals,Home goals,Club / Context,0.14995246009426463
+Two Goals,Home goals,DEF,0.40817637676693086
+Two Goals,Home goals,GK,0.0853986105082851
+Two Goals,Home goals,MID,0.2884167528771168
+WDL,WDL / A,Club / Context,0.9549051862508405
+WDL,WDL / A,DEF,0.9665041741754845
+WDL,WDL / D,Club / Context,0.9323943915104032
+WDL,WDL / D,DEF,1.4068493177859487
+WDL,WDL / H,Club / Context,0.9556534090761234
+WDL,WDL / H,DEF,1.277170530827119
