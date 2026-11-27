@@ -3,103 +3,59 @@
 **Columbia University · IEOR E4523 Data Analytics & Machine Learning · Group 17**  
 Jiaxuan Liu · Baptiste Pinatel · Wilson Zhen · Xiaonuo Shi
 
-## 1 Research objective and workflow
+## 1. Research question and final deliverables
 
-**Research question:** *Can EA Sports FC (formerly FIFA) player statistics predict real UEFA Champions League (UCL) match outcomes?*
+**Can EA Sports FC (FIFA) club and player ratings help predict real UEFA Champions League match outcomes, and what do these predictions imply for the 2026-27 competition?**
 
-We combine historical FIFA/EA FC player and club ratings with actual UCL fixtures and results to evaluate whether detailed player attributes and squad composition add predictive value beyond the game's overall club ratings. The planned final application is a probabilistic simulation of the **2026-27 men's Champions League**, using completed results where available.
+We combine season-specific game ratings with historical UCL fixtures, construct match-level features, compare multiple prediction targets and feature sets under **chronological evaluation**, interpret selected models, and simulate the 2026-27 competition. The final outputs are:
 
-**Pipeline:** Game data collection → cross-edition standardization → UCL club matching → match-level feature construction → predictive models and interpretation → tournament simulation.
+- **Three W/D/L probability forecasters:** direct classification, goal-difference regression, and paired goal-count regression; plus their equal-weight **Soft Vote**.
+- **Held-out 2025-26 evaluation** against Always Home Win and Overall Rating Difference baselines, with rolling-year evidence for model/feature choices.
+- **2026-27 advancement and title probabilities** from three separate 20,000-run Monte Carlo simulations.
+- **One representative knockout bracket** conditioned on the most likely Soft Vote champion, with match-up advancement probabilities and conditional reference scores.
 
-## 2 Data collection and preprocessing
+## 2. Data and feature construction
 
-*Completed by Jiaxuan Liu*  
+### Sources and coverage
 
-We integrated **13 game editions (FIFA 15-FC 27)**, corresponding to the **2014–15 through 2026–27 seasons**. The resulting tables contain **234,068 player observations** and **8,557 club-season observations**, with coach associations and squad-level aggregates. Detailed technical skills, overall/potential ratings, club attack/midfield/defence ratings, available finances, and selected tactical information are harmonized across versions; unavailable or non-equivalent fields remain missing rather than fabricated. We retain player names for reference but omit cosmetic game fields.
+We consolidated **13 EA game editions, FIFA 15-FC 27**, covering the corresponding **2014-15 through 2026-27** team/player snapshots: **234,068 player records** and **8,557 club-season records**. Historical game-edition data were sourced from SoFIFA-derived collections, FC 25-27 game databases, and supplementary EA FC ratings records; see the source list below.
 
-Direct SoFIFA requests and Selenium/Playwright scraping encountered HTTP 403/Cloudflare restrictions; a probe of the [SoFIFA partner API](https://sofifa.com/document) also returned 403 (partner authorization/static-IP allowlisting is required). EA's ratings JSON API provided useful supplementary player attributes but not complete historical squad/club data. We therefore combined publicly available datasets with locally parsed game databases.  
-
-We currently focus on **men's UEFA Champions League (UCL)** to ensure consistent historical coverage and comparability across seasons. Women's club teams were first introduced in EA SPORTS FIFA 23 (2022), with initially limited league and club coverage. As a result, women's player and club data are considerably sparser and less consistent across the 2014-2027 study period. We therefore exclude the women's competition from the current analysis while leaving it as a potential extension for future research.
-
-### Data sources
-
-### Data Sources
-
-| Edition / Role | Source | Usage |
+| Period / role | Source | Use |
 |---|---|---|
-| FIFA 15–23 | [Kaggle: SoFIFA Historical Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset) | Historical player attributes, club ratings, coaches, contracts, and roster updates |
-| FC 24 | [Kaggle: EA Sports FC 24 Dataset](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset) | Player, club, and coach data |
-| FC 25–27 | [GitHub: eafc-db-kit](https://github.com/ViniMacacari/eafc-db-kit) | Primary game database: players, clubs, managers, leagues, and squad relationships |
-| FC 25 | [Kaggle: FC25 Ratings and Stats](https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats) | Supplementary player identities and six summary ratings |
-| FC 25 | [Kaggle: SoFIFA June 2025](https://www.kaggle.com/datasets/aniss7/fifa-player-data-from-sofifa-2025-06-03) | Additional market values, wages, release clauses, and contract information |
-| FC 25 | [Kaggle: FC25 SoFIFA Merge](https://www.kaggle.com/datasets/sametozturkk/ea-sports-fc-25-real-player-data-sofifa-merge) | Additional player identities and financial attributes |
-| FC 26 | [Kaggle: FC26 Player Data (rovnez)](https://www.kaggle.com/datasets/rovnez/fc-26-fifa-26-player-data) | Additional financial attributes, position-specific ratings, and career information |
-| FC 26–27 | [EA SPORTS FC Ratings](https://www.ea.com/games/ea-sports-fc/ratings) | Retrieved ratings API data for supplementary player attributes, identities, and six summary ratings |
-| UCL Club Coverage | [OpenFootball UCL](https://github.com/openfootball/champions-league) and [UEFA](https://www.uefa.com/uefachampionsleague/) | Historical participants, club-name reconciliation, and season-specific coverage validation |
+| FIFA 15-23 | [SoFIFA historical Kaggle data](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset) | Historical player/club ratings |
+| FC 24 | [EA Sports FC 24 Kaggle data](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset) | Roster and club attributes |
+| FC 25-27 | [eafc-db-kit](https://github.com/ViniMacacari/eafc-db-kit) | Native players, clubs, managers and squad associations |
+| FC 25 supplemental | [FC25 Ratings and Stats](https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats); [SoFIFA June 2025](https://www.kaggle.com/datasets/aniss7/fifa-player-data-from-sofifa-2025-06-03); [FC25 SoFIFA Merge](https://www.kaggle.com/datasets/sametozturkk/ea-sports-fc-25-real-player-data-sofifa-merge) | Identity and financial data enrichment |
+| FC 26 supplemental | [FC26 Player Data](https://www.kaggle.com/datasets/rovnez/fc-26-fifa-26-player-data) | Position-specific and financial attribute cross-checks |
+| FC 26-27 ratings | [EA SPORTS FC Ratings](https://www.ea.com/games/ea-sports-fc/ratings) | Available supplementary player ratings / identities |
+| UCL teams and results | [UEFA Champions League](https://www.uefa.com/uefachampionsleague/) and [OpenFootball](https://github.com/openfootball/champions-league) | Schedule/results reconciliation and club mapping |
 
-**Integration strategy:** Historical SoFIFA-style datasets serve as the primary source for FIFA 15-FC 24, while native EA game databases serve as the primary source for FC 25-27. Supplementary datasets are merged using player IDs or conservative identity matching to maximize attribute coverage without overwriting validated game ratings.
+The canonical match table contains **1,766 rows**: **1,622 historical results** for 2014-15 through 2025-26 and **144** fixtures for 2026-27. Of the historical rows, **1,433 matches** have usable matched squad attributes and form the modeling sample.  
+The original historical UCL club mapping covers **397 / 428 team-season entries (92.8%)** in available game data.
 
-Additional sources were reviewed for coverage and consistency.
+### Targets and features
 
-### Codes and outputs
+- **Targets:** 90-minute home/draw/away (`H/D/A`), goal difference, home goals, away goals; auxiliary home-win and over-2.5 binary outcomes. Extra time and penalties are **not** folded into the 90-minute label.
+- **Estimated strongest XI:** 1 GK + 4 DEF + 3 MID + 3 ATT selected from a *season-level* roster (not observed match-day starters). Position aggregates, reserve depth and club ratings are extracted consistently for home/away teams.
+- **Feature groups:** Club Only (15); Club + DEF position core (31); Club + position-aware core (61); Club + compact squad information (91), with larger individual-player feature sets retained for ablations. Matches use `[home features | away features | pre-match venue/stage context]`.
+- **Preprocessing:** season-aware splits; train-only imputation and scaling; structural missingness audit; exclusion of IDs, post-match data and historically unavailable player fields from inappropriate training use.
 
-The pipeline selects edition-specific snapshots (preferring the last update before UCL kick-off when available), standardizes player/team/coach schemas, performs conservative cross-season age completion, restores available tactical fields, and audits UCL club mapping. Of **428 men's UCL team-season entries**, **397 (92.8%)** match the available game data; **31** are flagged as unmatched.
-
-```text
-fifa-ucl-model/
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── data/
-│   ├── build_dataset.py
-│   ├── check_outputs.py
-│   ├── finalize_dataset.py
-│   ├── audit_ucl_coverage.py
-│   ├── run_eda.py
-│   ├── field_dictionary.csv
-│   ├── FINAL_COLUMNS.md
-│   ├── reference/
-│   │   ├── historical_ucl_teams_2014_2024.csv
-│   │   └── ucl_25_27_verified_mapping.csv
-│   ├── raw/                 # Local inputs
-│   ├── output/              # Generated intermediate tables
-│   ├── output_final/        # Generated final tables
-│   ├── coverage_audit/      # UCL matching reports
-│   └── eda_output/          # EDA figures and tables
-├── model/                   # Planned: match features and model training
-├── analysis/                # Planned: evaluation and ablations
-└── simulation/              # Planned: 2026–27 Monte Carlo simulation
-```
-
-Place downloaded inputs under `data/raw/`; large datasets are not committed. From **the repository root**:
+**Edition-level harmonization and coverage audits** (optional if `data/output_final/` is already prepared; start in the repository root; paths below are relative to `data/`):
 
 ```powershell
-python -m pip install -r requirements.txt
 cd data
 python build_dataset.py --root .
 python check_outputs.py
 python finalize_dataset.py --input output --out output_final --history-teams raw/history/male_teams.csv --fc24-zip raw/fc24/24.zip --eafc-zip raw/eafc/eafc_db_output.zip
 python audit_ucl_coverage.py --input output_final --out coverage_audit --roster-csv reference/historical_ucl_teams_2014_2024.csv --known-map reference/ucl_25_27_verified_mapping.csv --history-teams raw/history/male_teams.csv --fc24-zip raw/fc24/24.zip --eafc-zip raw/eafc/eafc_db_output.zip --offline
 python run_eda.py --data output_final --coverage coverage_audit/ucl_teams_coverage.csv --out eda_output
+cd ..
 ```
 
-## 3. Match-level dataset construction
-
-The **match-level dataset builder** uses the standardized FIFA 15–FC 27 Player/Club tables.  
-
-**Match sources and coverage.** Baptiste's original workbook provides 1,308 UCL matches (2015–16 to 2024–25); supplementary datasets collected by Jiaxuan provide 125 matches for 2014–15 and 189 for 2025–26. These total **1,622 historical results spanning 12 seasons**. A separate 2026–27 league-phase file contains 144 fixtures, including 72 completed and 72 scheduled matches as of 2026-11-22. The canonical output preserves all **1,766** rows, while historical training sets exclude 2026–27 entirely.
-
-**Match labels.** The principal targets use **90-minute scores (including stoppage time, excluding extra time and penalties)**. All 16 extra-time matches in the original workbook are reconciled using a separate reviewed correction CSV (9 changed scores and 4 changed W/D/L labels). The builder retains original final scores, extra-time/penalty indicators, and match provenance. Targets include home/draw/away classification, goal difference, and separate home/away goal counts, with optional derived binary labels.
-
-**Team features.** For each `(season, club_id)`, the builder selects an estimated strongest XI with soft positional quotas of **1 GK + 4 defenders + 3 midfielders + 3 attackers**, ranking within each group by Overall and filling unavailable positional slots without duplicating players. This estimated XI is a season-level roster representation—not an observed match-day lineup. Other squad members are represented by fixed-width bench/depth aggregates. Club ratings are included. The builder deliberately recomputes its Top XI and bench statistics instead of reusing the upstream `club_features` aggregates, whose selection rule differs.
-
-**Feature layout and datasets.** Both variants follow **[Home Team Features | Away Team Features | Match Context]**, with identical feature ordering for the two sides and **no engineered home-away difference columns**. The compact variant has **93 predictors** (club ratings, XI/bench summaries, context); the full variant has **797 predictors** (compact plus individual XI attributes for both sides). Club identities/names, actual attendances, referees, and post-match information are excluded from the current predictors. Club matching uses verified season-specific mappings, explicit aliases, and conservative Club ID linkage; unresolved teams are reported and excluded from model-ready feature rows rather than assigned fabricated scores.
-
-**Generated files** (`data/match_dataset/`): `matches_canonical.csv`, `team_name_mapping.csv`, `team_feature_bank.csv`, `team_feature_quality.csv`, `matches_compact.csv`, `matches_full.csv`, `fixtures_2026_27_compact.csv`, `fixtures_2026_27_full.csv`, `compact_feature_columns.json`, `full_feature_columns.json`, `sample_status.csv`, and `build_report.json`. The JSON feature lists define model inputs and prevent accidental inclusion of IDs or targets. Missing values are not globally imputed in this builder; train-only preprocessing will be part of the modeling stage.
-
-**Build from the repository root:**
+**Match-level builder** (from the repository root; requires the standardized Club and Player tables):
 
 ```powershell
+python -m pip install -r requirements.txt
 python data/test_match_builder.py
 python data/build_match_dataset.py `
   --matches data/raw/matches/resultats_ldc_par_saison.xlsx `
@@ -114,11 +70,131 @@ python data/build_match_dataset.py `
   --out data/match_dataset
 ```
 
-**Next: predictive modeling** Train chronological baselines with 2014–15 to 2023–24 for fitting, 2024–25 for validation, and 2025–26 for a held-out test. Compare Club-only, Compact and Full player features under three strategies: direct W/D/L classification, goal-difference regression, and paired goal-count models. Evaluate accuracy, macro-F1, multiclass log loss, probability calibration and task-specific regression metrics; conduct feature-importance and ablation analyses. Fit all imputers/encoders only on training data. The first version uses season-level game-edition rosters without match-date snapshot filtering, a known limitation.
+The principal outputs are `data/match_dataset/matches_full.csv`, `fixtures_2026_27_full.csv`, and `team_feature_bank.csv`. Historical preprocessing and construction scripts also produce coverage audits and structured clean tables under `data/output_final/`.
 
-## 4. Planned 2026–27 UCL simulation
+## 3. Modeling experiments and final selection
 
-Use known match results and fixtures to simulate the remaining league-phase matches, determine the standings and qualification slots under UEFA rules, draw permitted knockout pairings, and simulate each two-legged tie and the final. Repeated Monte Carlo runs will estimate each club's probabilities of reaching successive rounds and winning the title. This stage is **planned, not yet implemented**.
+### Evaluation protocol
+
+A robust model selection compares expanding-train / held-out **2021-22, 2022-23, 2023-24 and 2024-25** folds. Selected models are refit through 2024-25 and evaluated on the untouched **2025-26 test season (174 matched matches)**.
+
+**What was tried, and why it matters:**
+
+- Six targets and a wide algorithm search (linear / logistic, Poisson, KNN/SVM, MLP, random forests, boosting). Regression routes are converted to **the same three-way A/D/H probabilities** for evaluation; binary tasks remain auxiliary.
+- Club Only versus Compact / Full / player-only / player+club / position-aware inputs, including grouped permutation importance and partial correlations by GK/DEF/MID/ATT. Very large player sets overfit; player information is interpretable but does **not** uniformly improve out-of-time performance.
+- Original ratings versus **difference-only / difference+level** features and club-residualized player features. Gains were small or inconsistent; residualization was not adopted as a universal enhancement.
+- Draw-diagnostic confusion matrices, probability calibration and validation-chosen **hard-label draw thresholds**; thresholds affect the displayed class decision, **not the probabilities used for Monte Carlo**.
+- Chronological **Hard Vote**, equal-probability **Soft Vote**, probability Stacking and Stacking + pre-match context. The simple Soft Vote was retained for interpretability and competitive validation metrics; more complex stacking did not consistently win.
+- Global and local **SHAP** for the selected routes, plus concrete **case studies**. Defensive quality and midfield abilities repeatedly matter within fitted models.
+
+### Selected models
+
+| Prediction route | Final algorithm | Feature set | Features | Probability generation |
+|---|---|---|---:|---|
+| **Direct W/D/L** | Logistic Regression | Club + DEF | 31 | Three-class `predict_proba`, ordered A/D/H |
+| **Goal Difference** | Ridge Regression | Club + DEF | 31 | Predicted goal difference + training-residual Normal CDF, cut at ±0.5 |
+| **Two Goals** | Random Forest Regressor (home and away goals) | Club + position core | 61 | Independent Poisson home/away goal distributions; Skellam A/D/H probabilities |
+| **Soft Vote** | Equal-weight probability average of the three routes | — | — | Mean A/D/H probabilities |
+
+The score-generating simulation uses the **Two Goals** Poisson score matrix. For Goal Difference and Soft Vote, the H/D/A regions are reweighted to the route's target outcome probabilities while **preserving relative score probabilities within each outcome region**. This supplies scorelines for points, goal difference, and aggregate knockout ties without confusing regression output with a direct score prediction.
+
+**Final held-out 2025-26 test metrics**:
+
+| Method | Accuracy | Macro-AUC | Macro-F1 | Brier | Log loss |
+|---|---:|---:|---:|---:|---:|
+| Always Home Win | 0.4943 | 0.5000 | 0.2205 | 1.0115 | 10.4807 |
+| Overall Diff Logistic | **0.5805** | 0.6581 | 0.4116 | 0.5634 | 0.9665 |
+| Two Goals | 0.5747 | 0.6729 | 0.4101 | **0.5582** | **0.9516** |
+| Soft Vote | 0.5632 | **0.6875** | 0.3997 | 0.5584 | 0.9552 |
+| Goal Difference | 0.5575 | 0.6659 | **0.4440** | 0.5647 | 0.9631 |
+
+**Why keep three routes:** Two Goals has strong proper probability scores and an interpretable scoreline generator; Soft Vote provides the strongest Macro-AUC; Goal Difference has the best Macro-F1 among these three. They represent complementary uncertainties for the competition forecast.  
+
+## 4. FC27 missing-club profiles: Sabah and Slovan Bratislava
+
+These two 2026-27 participants lack usable FIFA club/player attributes. We select similar available FC27 **donor clubs using ClubElo `Elo` (general strength) and `Golo` (goal-scoring strength)**; use a distance-weighted average of their team-level features to create proxy profiles. **Top 5** was selected over **Top 24** after sensitivity analysis. The compared advancement and championship probabilities were generally similar.
+
+Generate the proxy comparison from the repository root:
+
+```powershell
+python ./data/compare_proxy_top5_top24.py --elo clubelo_candidates.csv --estimate-missing --out model/results/proxy_top5_top24
+```
+
+This generates `model/results/proxy_top5_top24/proxy_profiles.csv`. Ensure the `PROXIES` variable in `build_ucl_27_dataset.py` points to that file, then:
+
+```powershell
+python ./data/build_ucl_27_dataset.py
+```
+
+The **fixed final simulation inputs** are `data/match_dataset/fixtures_2026_27_top5.csv` (144 fixtures) and `team_profiles_2026_27_top5.csv` (36 teams).
+
+## 5. Monte Carlo tournament simulation
+
+### Rules and modeling assumptions
+
+`ucl_simulator.py` builds a prediction cache for all plausible opponent pairs **once**, then runs each model method separately. In each simulated tournament:
+
+1. **League phase:** keep recorded 90-minute scores; draw scores for remaining games from the precomputed score distributions. The fixture list is fixed: 36 clubs, 8 matches per club, 144 total league matches.
+2. **League ranking:** award 3/1/0 points and apply implemented UEFA tie-break statistics. Places **1-8** qualify directly for the Round of 16, **9-24** enter knock-out play-offs, and **25-36** are eliminated. For remaining unresolved ties, the implementation falls back to **alphabetical order**; it does not have complete discipline/coefficient information.
+3. **Play-offs / Round of 16:** sample UEFA-style **ranking-constrained** match-ups within the existing fixed bracket framework; simulate home and away 90-minute legs and compare aggregate goals. No away-goals advantage is applied.
+4. **Quarter-finals / semi-finals:** continue along the preassigned bracket; sample both legs. On aggregate ties, approximate extra-time scoring using **1/3 of 90-minute Poisson intensity**, then a **50/50** penalty shoot-out if still tied.
+5. **Final:** single match at a neutral venue; resolve a tied 90-minute result by extra time/penalties. Record the champion and all round advancements.
+
+### Championship probabilities and final bracket
+
+- Run **10,000~20,000 simulated tournaments per method** (`two_goals`, `soft_vote`, `goal_difference`). The predicted title probability is the fraction of simulations won, and qualification odds are analogous frequencies.
+- Let the champion with the highest simulated Soft Vote title probability be the **predicted champion**. Among paths in which that team wins, select a *representative knockout path* using a heuristic score: **50% knockout-round composition representativeness + 30% individual tie-advancement confidence + 20% path likelihood** (just a customized reward function).
+- Plot one fully connected play-off-to-final bracket. The percentage next to a highlighted team is its **unconditional model advancement probability for that particular tie**; the reference score is the most likely regulation-time score **conditional on that advancement outcome** (aggregate for two legs).
+
+In the provided 20,000-run snapshot, the **Soft Vote** projected **Paris Saint-Germain** as the most possible champion (**25.04%**, 5,007 title-winning simulations); **Two Goals** gave PSG **20.12%**, and **Goal Difference** **26.82%**. These results are conditional on the archived (partly stale) match snapshot.
+
+## 6. How to run
+
+Run notebooks in VS Code / Jupyter from the **repository root** using the project Python environment. The final notebooks are designed to execute from a restarted kernel, in cell order:
+
+1. `UCL_Exploration.ipynb`: missingness, exploratory statistics, initial model search, draw/feature/position ablations. Generates `analysis/eda_output/prepared/` and initial modeling artifacts.
+2. `UCL_Prediction_and_Analysis.ipynb`: rolling model selection, 2025-26 held-out evaluation, SHAP, ensemble comparisons, Top 5 proxy sensitivity, re-fitting and **the complete 2026-27 simulation**.
+
+The final simulation controls in `UCL_Prediction_and_Analysis.ipynb` are:
+
+```python
+N_SIM = 20_000        # start with 100 for a smoke test
+SEED = 42
+BRACKET_METHOD = 'soft_vote'
+
+# After loading fixtures/models and building cache once:
+result = sim.run_monte_carlo(
+    fixtures, cache, n=N_SIM, method='soft_vote', seed=SEED,
+    tie_break='name', representative=True,
+    bracket_weights=(0.5, 0.3, 0.2)
+)
+fig, bracket_table = sim.plot_representative_knockout_bracket(
+    selection=result['representative'], cache=cache,
+    championship_odds=result['odds']
+)
+```
+
+### Final generated artifacts
+
+Under `model/results/ensemble_final/`:
+
+- `model_wdl.joblib`, `model_goal_difference.joblib`, `model_two_goals.joblib` — final fitted model bundles with feature-column metadata.
+- Final held-out metrics and comparison outputs are generated in model result folders.
+
+Under `model/results/ucl_2026_27_top5/`:
+
+- `odds_two_goals.csv`, `odds_soft_vote.csv`, `odds_goal_difference.csv`: Top 8 / Top 24 / each knockout round / title probabilities.
+- `league_*.csv`: league-phase ranking summaries (context only; not the main presentation target).
+- `champion_model_comparison.csv`: three-model title-probability comparison.
+- `representative_bracket_matches.csv`, `representative_bracket.png`, `representative_bracket.svg`: one presentable knockout tree and its tabular reference.
+
+## 7. Limitations and reproducibility
+
+- FIFA ratings are proxies for ability, and precomputed attributes may not capture recent injuries, transfers, form, tactical match-ups, or refereeing.  
+- The missing-club player statistics are estimated, not observed.  
+- Two Goals assumes conditionally independent Poisson scoring; other routes retain that within-class score structure.  
+- Neutral-venue symmetrization, extra-time scoring and shoot-outs are modeling assumptions.
 
 ---
-*Coursework use. FIFA, EA SPORTS FC, SoFIFA, UEFA and the respective dataset owners retain their rights. Consult original sources and licenses before redistributing data.*
+
+*Coursework use. FIFA, EA SPORTS FC, SoFIFA, UEFA and data owners retain their rights. Follow the original sources' licensing conditions for redistribution.*
